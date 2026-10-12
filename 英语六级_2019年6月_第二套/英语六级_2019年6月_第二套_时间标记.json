@@ -15,7 +15,9 @@
     "duration": 1671.7903125,
     "originalUnmodified": true,
     "recordingId": "cet6-licensed-2019-06-2",
-    "pairingCorrected": false
+    "pairingCorrected": false,
+    "codec": "aac",
+    "containerFormat": "mov,mp4,m4a,3gp,3g2,mj2"
   },
   "bilingualText": {
     "file": "英语六级_2019年6月_第二套_译文.txt",

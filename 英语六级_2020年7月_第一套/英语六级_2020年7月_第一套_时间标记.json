@@ -15,7 +15,9 @@
     "duration": 1665.344,
     "originalUnmodified": true,
     "recordingId": "cet6-licensed-2020-07-1",
-    "pairingCorrected": false
+    "pairingCorrected": false,
+    "codec": "aac",
+    "containerFormat": "mov,mp4,m4a,3gp,3g2,mj2"
   },
   "bilingualText": {
     "file": "英语六级_2020年7月_第一套_译文.txt",

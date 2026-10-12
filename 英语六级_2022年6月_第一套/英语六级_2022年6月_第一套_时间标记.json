@@ -15,7 +15,9 @@
     "duration": 1706.9685625,
     "originalUnmodified": true,
     "recordingId": "cet6-licensed-2022-06-1",
-    "pairingCorrected": false
+    "pairingCorrected": false,
+    "codec": "aac",
+    "containerFormat": "aac"
   },
   "bilingualText": {
     "file": "英语六级_2022年6月_第一套_译文.txt",

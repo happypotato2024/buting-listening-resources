@@ -15,7 +15,9 @@
     "duration": 1652.72675,
     "originalUnmodified": true,
     "recordingId": "cet6-licensed-2023-06-1",
-    "pairingCorrected": false
+    "pairingCorrected": false,
+    "codec": "aac",
+    "containerFormat": "mov,mp4,m4a,3gp,3g2,mj2"
   },
   "bilingualText": {
     "file": "英语六级_2023年6月_第一套_译文.txt",

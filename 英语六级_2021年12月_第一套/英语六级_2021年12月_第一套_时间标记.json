@@ -15,7 +15,9 @@
     "duration": 1617.0158125,
     "originalUnmodified": true,
     "recordingId": "cet6-licensed-2021-12-1",
-    "pairingCorrected": false
+    "pairingCorrected": false,
+    "codec": "aac",
+    "containerFormat": "mov,mp4,m4a,3gp,3g2,mj2"
   },
   "bilingualText": {
     "file": "英语六级_2021年12月_第一套_译文.txt",
