@@ -20,7 +20,9 @@
       "paragraphs": 40,
       "minimumWaveformCorrelation": 0.996401,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "f91b1c3deb4a8502b49f82eb8281f9be864268eb4733529b56e11d1768c3d5eb",
+      "translationSha256": "e6f523cd5c7d26f37951fbe3f7ad7bd17c909e65dc0f0b140c22a844dfe52b61"
     },
     {
       "id": "cet6-licensed-2025-12-2",
@@ -36,7 +38,9 @@
       "paragraphs": 49,
       "minimumWaveformCorrelation": 0.999417,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 2
+      "boundaryWarnings": 2,
+      "timingsSha256": "abdd168e779e6ec1ff6353608c80c53685e499a1b79c2c3e8cca6bdcb199b16a",
+      "translationSha256": "8591296335186c63b722830920ca0efdc287f22646820afdc2bc23e6ac842493"
     },
     {
       "id": "cet6-licensed-2025-06-1",
@@ -52,7 +56,9 @@
       "paragraphs": 57,
       "minimumWaveformCorrelation": 0.985696,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "843a92ae4b83a4523686d4baf7e1745a4978e2a4c83fd04c44fe339bf828601f",
+      "translationSha256": "8ad8f9776aa5190afef9cf1fdf6f3e8b0bd55c375bb4ae633a4848bdf7562ab2"
     },
     {
       "id": "cet6-licensed-2025-06-2",
@@ -68,7 +74,9 @@
       "paragraphs": 47,
       "minimumWaveformCorrelation": 0.985062,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 2
+      "boundaryWarnings": 2,
+      "timingsSha256": "8e52d4e347319e5e547274213bc222d1d9988c6853536fd39bc05369dadeb9fb",
+      "translationSha256": "066443e16ac8976433050f3acb99774f0f5422097e963a47a9e697f0b3a8ef5b"
     },
     {
       "id": "cet6-licensed-2024-12-1",
@@ -84,7 +92,9 @@
       "paragraphs": 35,
       "minimumWaveformCorrelation": 0.996735,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "2105a19b185b4b6b85e347c51ebd3f121878b3c2457feed4655727f4bde05e99",
+      "translationSha256": "fcd8446d08a40ed46270a09cc11463c6dd433b1eefda2523d0371527ebfd3fab"
     },
     {
       "id": "cet6-licensed-2024-12-2",
@@ -100,7 +110,9 @@
       "paragraphs": 49,
       "minimumWaveformCorrelation": 0.99249,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "333e395b5358fc876c7ac018d8293fb32e814b268075e83286db83baf1a09919",
+      "translationSha256": "6a6683dfc9508c622ca264077a5752108df4522092de99d9cd62c315bef2430f"
     },
     {
       "id": "cet6-licensed-2024-06-1",
@@ -116,7 +128,9 @@
       "paragraphs": 44,
       "minimumWaveformCorrelation": 0.997561,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "0f71b5832ff3dfab56f98443e5fb38aeec6e83e3101c1ff50091ede0c4368cf8",
+      "translationSha256": "f9f4f47a91f754649a9de95389fd080d43dd9bf750ad13aa969b83f7ae845de4"
     },
     {
       "id": "cet6-licensed-2024-06-2",
@@ -132,7 +146,9 @@
       "paragraphs": 48,
       "minimumWaveformCorrelation": 0.99366,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "9a8db7aed15bc0a5c302af0b5a4ab862f76b5dbeff8fd2c2bfbb530f9b1c8bd5",
+      "translationSha256": "74072c1f2de5dd019677bbcf80f4ffe22e20010b4089f0a180ba320b6a0fa6c5"
     },
     {
       "id": "cet6-licensed-2023-12-1",
@@ -148,7 +164,9 @@
       "paragraphs": 39,
       "minimumWaveformCorrelation": 0.995912,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "4a38baef3fdc487e13fcdce415862fbfa7ad0e182fdc386d28f5d5c83e3088a7",
+      "translationSha256": "17fb3a32ec0b7784845da8dc4048790f184c81f69af93555a676b6cae49980cf"
     },
     {
       "id": "cet6-licensed-2023-12-2",
@@ -164,7 +182,9 @@
       "paragraphs": 40,
       "minimumWaveformCorrelation": 0.990953,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "565099def5d67f12a889dee7a02755856079ee3b778c7d6fe24c074f18a954b9",
+      "translationSha256": "40af8895a6f6b4ddb81fc55d371aafb45a32edc576060e873654484146055121"
     },
     {
       "id": "cet6-licensed-2023-06-1",
@@ -180,7 +200,9 @@
       "paragraphs": 35,
       "minimumWaveformCorrelation": 0.997932,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "978318347a05e6e89fbcfe3a9545b06f0115be8da9bac9e9e477442c15e8cf4c",
+      "translationSha256": "69382b10249fbc08236c683e2450e2e68290bd96f296828c7824f0ebceea0515"
     },
     {
       "id": "cet6-licensed-2023-06-2",
@@ -196,7 +218,9 @@
       "paragraphs": 44,
       "minimumWaveformCorrelation": 0.991813,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "7d9f60cb349f459535925a954dcbd5d97257d795e578c61a97aa2698672a341f",
+      "translationSha256": "07a2f7f81e905e1488ea62c702f79b2c2fb34738dbde8ede81d398b712243ce2"
     },
     {
       "id": "cet6-licensed-2022-12-1",
@@ -212,7 +236,9 @@
       "paragraphs": 39,
       "minimumWaveformCorrelation": 0.996866,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "d0b09d09082433bc63e56da3a056d5f58b1aec40815c30718967519a2b84f2b1",
+      "translationSha256": "1d2e95afee593f273494a8ec58486ce7d25f10812d053058d4def92f27cc19b6"
     },
     {
       "id": "cet6-licensed-2022-12-2",
@@ -228,7 +254,9 @@
       "paragraphs": 45,
       "minimumWaveformCorrelation": 0.988384,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "bafb2518554e987ca354fb44787f189c6609fd21d89ddd61307acd8796a3266c",
+      "translationSha256": "71b28f308e4c3e66f9029cd1bbdcecdb66d044e7ad091666938106c351f44e70"
     },
     {
       "id": "cet6-licensed-2022-09-1",
@@ -244,7 +272,9 @@
       "paragraphs": 29,
       "minimumWaveformCorrelation": 0.991977,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 2
+      "boundaryWarnings": 2,
+      "timingsSha256": "89b85a8c02e5bf004b8ceda7dc9df1ee2732aa8f028620898e4c7204c79f91c1",
+      "translationSha256": "aab04b458882e7e66c54e101d50ed6e389164c8463c106d8fb14bac1a15714a8"
     },
     {
       "id": "cet6-licensed-2022-06-1",
@@ -260,7 +290,9 @@
       "paragraphs": 42,
       "minimumWaveformCorrelation": 0.996451,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "0c5724c93773c1f78ab029a5a0e9cc38c4dd29a97dd54c370552f5866006e01b",
+      "translationSha256": "9ec7da307dd039e9b13bb6d636ba7d56dd69831c2aef682f3b4818509654ba73"
     },
     {
       "id": "cet6-licensed-2021-12-1",
@@ -276,7 +308,9 @@
       "paragraphs": 31,
       "minimumWaveformCorrelation": 0.997134,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "059229f7cc8906d428a054456f981600c3ce34e4635057a0ccceb00b1bb0bd60",
+      "translationSha256": "eeaa40640df3cc3777d5f1a405abd4ba3c661c299e9660b264826548b005667d"
     },
     {
       "id": "cet6-licensed-2021-12-2",
@@ -292,7 +326,9 @@
       "paragraphs": 37,
       "minimumWaveformCorrelation": 0.997572,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "d5f0f67492b6a259e6b8225dface1ed325e32ccc2ccbd07748b5f6ed6c71ea19",
+      "translationSha256": "ed3692888e7cf3087197befd4aab8b8285e49b457267ad2f19073b84cb46df42"
     },
     {
       "id": "cet6-licensed-2021-06-1",
@@ -308,7 +344,9 @@
       "paragraphs": 40,
       "minimumWaveformCorrelation": 0.99144,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "20fb95cdab19c1d5735cc33b72b87284432728ba23b0ec7c11ff25a7a7b39c6d",
+      "translationSha256": "115f8062189de4ef3daaf872c831447f529f4c5bba6bc2369cd4941eb20a45e1"
     },
     {
       "id": "cet6-licensed-2021-06-2",
@@ -324,7 +362,9 @@
       "paragraphs": 33,
       "minimumWaveformCorrelation": 0.99285,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "11c30f8a626109a339302a2f4c10daacb406a8bf84bfc6d4afe053465a8580a2",
+      "translationSha256": "23ff36696cf4d0ec1c0fbdabad27ed8f01abedff72079ffb83d4b6ebb37dfb4f"
     },
     {
       "id": "cet6-licensed-2020-12-1",
@@ -340,7 +380,9 @@
       "paragraphs": 51,
       "minimumWaveformCorrelation": 0.99406,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "05de3318c5ac1531b69f2a5607e9e7beb16739b82e36c22e31956f0d7f1db22b",
+      "translationSha256": "b840fb1d87e0c8a16f17beee5d03676f3a1943a075110c16b6820b91fc6403cf"
     },
     {
       "id": "cet6-licensed-2020-12-2",
@@ -356,7 +398,9 @@
       "paragraphs": 37,
       "minimumWaveformCorrelation": 0.996183,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "efb330b670d9963a38b0a8d51ff838af533cdae35d7fedb96807ba1d5fd35f11",
+      "translationSha256": "4177c7faa0ce7218017f18a8699fe5c4ec88054cd5a71cb52a15026421c60153"
     },
     {
       "id": "cet6-licensed-2020-09-1",
@@ -372,7 +416,9 @@
       "paragraphs": 32,
       "minimumWaveformCorrelation": 0.993888,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "be72d409498747b5c92644be41bc91639a3eaba1afcc658d3fab00ef10399235",
+      "translationSha256": "42ec416ffbbc64082844a3e7de2b0969efe680e86823102f452a2702046705b3"
     },
     {
       "id": "cet6-licensed-2020-07-1",
@@ -388,7 +434,9 @@
       "paragraphs": 36,
       "minimumWaveformCorrelation": 0.996205,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "491bdc1085825ce6227ec4293255b0393995c1977432b01846088b2e60b0c5a3",
+      "translationSha256": "1f1eedbf2367cc38a8caabbf37ef24b5d799a1c4d574e96e6ad8768640854b86"
     },
     {
       "id": "cet6-licensed-2019-12-1",
@@ -404,7 +452,9 @@
       "paragraphs": 46,
       "minimumWaveformCorrelation": 0.99564,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 0
+      "boundaryWarnings": 0,
+      "timingsSha256": "435857ca7d3763b2ed4d3976fbc7fab82f57747aefc5e4fa192e48b0679d1760",
+      "translationSha256": "3112944f77b4001b35017fd2bd8a9a78b7bdeaddb213b7033df40c058dde63b0"
     },
     {
       "id": "cet6-licensed-2019-12-2",
@@ -420,7 +470,9 @@
       "paragraphs": 47,
       "minimumWaveformCorrelation": 0.991897,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "3c4b32a6f39932b4f77ea567aec450f7abfa2a7660943558491a9fa3ceac864d",
+      "translationSha256": "5686da5ba4eb5e066635287fbb129f2df906351a6a0340cf9289e5ec8adbc3c6"
     },
     {
       "id": "cet6-licensed-2019-12-3",
@@ -436,7 +488,9 @@
       "paragraphs": 36,
       "minimumWaveformCorrelation": 0.991773,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 2
+      "boundaryWarnings": 2,
+      "timingsSha256": "68508c681f7287239765bd7a78cb9c250fdb7c96f4bd4946d6f875cf237f830e",
+      "translationSha256": "3b8d71b21a12d4649c76e79e9a348446f10ae364320e15bae08ee94cbb653e9f"
     },
     {
       "id": "cet6-licensed-2019-06-1",
@@ -452,7 +506,9 @@
       "paragraphs": 56,
       "minimumWaveformCorrelation": 0.991762,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "3d92035c1985af0b02928812822468c335e9519d5627174a643cf0448286e913",
+      "translationSha256": "241138b8725634c5ad213a75085cc613a49ac90e4731afe3af38da6659f221bb"
     },
     {
       "id": "cet6-licensed-2019-06-2",
@@ -468,7 +524,9 @@
       "paragraphs": 61,
       "minimumWaveformCorrelation": 0.985738,
       "timingOffsetSeconds": 0.0,
-      "boundaryWarnings": 1
+      "boundaryWarnings": 1,
+      "timingsSha256": "80eb9b83de79f330acdf36c0c4d3dcd5736848a7106525c0ba41439cfc638cdb",
+      "translationSha256": "00dff8d33702d82b556a2cbeafa138fc275bcab8f81a0afd9a0c5d10a4a93c43"
     }
   ]
 }
