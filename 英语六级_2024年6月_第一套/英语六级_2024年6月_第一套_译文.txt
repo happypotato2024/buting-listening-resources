@@ -1,0 +1,156 @@
+英语六级_2024年6月_第一套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：W: Thank you for meeting with me, Stephen, at such a short notice.
+[p0] 译文：女：谢谢你在这么短的时间内与我会面，斯蒂芬。
+
+[p1] 原文：M: Not a problem, Margaret. Now please give me some good news. Have you agreed to my last proposal?
+[p1] 译文：男：没问题，玛格丽特。现在请给我一些好消息。你同意我上次的提议了吗？
+
+[p2] 原文：W: I have indeed and I wish to sign the agreement, pending one small change to be made to the contract.
+[p2] 译文：女：我确实已经并且希望签署该协议，但等待对合同进行一些小的更改。
+
+[p3] 原文：M: Margaret, we've been through this for almost a year now, back and forth making alterations. Are you sure you want to make a sponsorship deal for your clients or not? I ask this because frankly, some people at my end are running out of patience.
+[p3] 译文：男：玛格丽特，我们已经经历了近一年的时间，来来回回地做出改变。您确定要为您的客户达成赞助协议吗？我问这个问题是因为坦白说，我这边的一些人已经失去了耐心。
+
+[p4] 原文：W: I understand your concerns, but as I'm sure you understand, we hold our clients' best interests to be of the utmost concern. We therefore comb through the fine details of all contracts. Rest assured we all appreciate your firm's patience.
+[p4] 译文：女：我理解您的担忧，但我相信您也理解，我们将客户的最大利益放在首位。因此，我们梳理了所有合同的细节。请放心，我们都感谢贵公司的耐心。
+
+[p5] 原文：M: Okay, fine. So what changes do you wish to make?
+[p5] 译文：男：好吧，好吧。那么您希望做出哪些改变？
+
+[p6] 原文：W: Essentially, we would like the new deal to exclude the Middle East. That's all.
+[p6] 译文：女：本质上，我们希望新协议将中东排除在外。就这样。
+
+[p7] 原文：M: The Middle East? Why?
+[p7] 译文：男：中东？为什么？
+
+[p8] 原文：W: My client has a couple of other prospective marketing deals from companies in the Middle East. Those offers, should they materialize, would exclusively employ my client's image in the Middle East only. Therefore, in order to avoid any conflict, we would need to ensure that both marketing campaigns do not overlap geographically.
+[p8] 译文：女：我的客户还有一些来自中东公司的其他潜在营销交易。这些报价一旦实现，将仅使用我客户在中东的形象。因此，为了避免任何冲突，我们需要确保两个营销活动在地理上不重叠。
+
+[p9] 原文：M: What business sector in the Middle East are we talking about here?
+[p9] 译文：男：我们这里谈论的是中东的哪些商业领域？
+
+[p10] 原文：W: Real estate.
+[p10] 译文：女：房地产。
+
+[p11] 原文：M: Well, that should be okay then. So long as the product is very different from our food and beverage market, there should be no conflict of interest. Nevertheless, I will have to run this through my people. I don't foresee any problem, though. The Middle East is a negligible market for us. But I still need to check this with a couple of departments.
+[p11] 译文：男：嗯，那应该没问题了。只要产品与我们的食品和饮料市场有很大不同，就不应该有利益冲突。尽管如此，我必须通过我的人民来贯彻这一点。不过，我预计不会有任何问题。中东对我们来说是一个可以忽略不计的市场。但我仍然需要与几个部门核实这一点。
+
+长对话二
+
+[p12] 原文：M: Next, we have a special science-related new story. Paula Hancock is at the Denver Observatory. Paula, what is the big story over there?
+[p12] 译文：男：接下来，我们有一个特别的与科学相关的新故事。保拉·汉考克在丹佛天文台。宝拉，那边有什么大新闻吗？
+
+[p13] 原文：W: Hi, John. Yes, all the astronomers on site here are very excited. In fact, space enthusiasts all across North America and the rest of the Northern Hemisphere will be congregating on mountaintops tonight to watch the night's sky.
+[p13] 译文：女：嗨，约翰。是的，在场的所有天文学家都非常兴奋。事实上，北美和北半球其他地区的太空爱好者今晚将聚集在山顶观看夜空。
+
+[p14] 原文：M: Why? What's the big event? Is there an eclipse happening soon?
+[p14] 译文：男：为什么？有什么大事件？日食很快就会发生吗？
+
+[p15] 原文：W: Tonight, the Earth will come into close proximity with the Oppenheimer comet. It is the closest our planet has been to such a phenomenon in over 100 years. For this reason, it is expected that thousands of people will gaze up at the sky tonight in order to see this formidable object.
+[p15] 译文：女：今晚，地球将与奥本海默彗星近距离接触。这是我们的星球一百多年来最接近这种现象的一次。因此，预计今晚将有成千上万的人抬头仰望天空，以便看到这个令人敬畏的物体。
+
+[p16] 原文：M: How far away is this comet? Will people be able to see it with the naked eye?
+[p16] 译文：男：这颗彗星距离我们有多远？人们能够用肉眼看到它吗？
+
+[p17] 原文：W: The Oppenheimer comet will still be millions of miles away on the edge of our galaxy. But nevertheless, this is a relatively close distance, close enough for people to observe in good detail through a telescope. People will only see a blur without one. However, that does not mean one needs professional equipment. Even the most ordinary of telescopes should be conducive for people to observe and wonder at this flying object.
+[p17] 译文：女：奥本海默彗星仍将位于数百万英里之外的银河系边缘。但尽管如此，这是一个相对较近的距离，足以让人们通过望远镜进行详细观察。人们只会看到一片模糊而没有看到。然而，这并不意味着需要专业设备。即使是最普通的望远镜也应该有利于人们观察和惊叹这个飞行物体。
+
+[p18] 原文：M: Many of our viewers will be wondering how they too can take part in this once-in-a-lifetime event. Where will this comet be in the sky? How can people find it?
+[p18] 译文：男：我们的许多观众都会想知道他们如何才能参加这个千载难逢的活动。这颗彗星会在天空中的什么地方呢？人们怎样才能找到它？
+
+[p19] 原文：W: The comet will be almost exactly due north, at 60 degrees above the equator. However, finding the comet is indeed very tricky. And scientists here have told me there are plenty of phone apps that will facilitate this.
+[p19] 译文：女：彗星几乎正位于正北，赤道上空 60 度。然而，寻找彗星确实非常棘手。这里的科学家告诉我，有很多手机应用程序可以促进这一点。
+
+[p20] 原文：M: How fantastic! Thank you, Paula, for the information.
+[p20] 译文：男：太棒了！谢谢你，保拉，提供信息。
+
+短文一
+
+[p21] 原文：Dietary guidelines form the basis for nutrition advice and regulations around the world. While there is strong scientific consensus around most existing guidelines, one question has recently stirred debate: should consumers be warned to avoid ultra-processed foods? Two papers published today in the American Journal of Clinical Nutrition outline the case for and against using the concept of "ultra-processed foods" to help inform dietary guidelines, beyond conventional food classification systems.
+[p21] 译文：膳食指南构成了世界各地营养建议和法规的基础。尽管大多数现有指南都已达成强烈的科学共识，但有一个问题最近引发了争论：是否应该警告消费者避免过度加工食品？今天发表在《美国临床营养学杂志》上的两篇论文概述了支持和反对使用“超加工食品”概念来帮助制定超越传统食品分类系统的饮食指南的理由。
+
+[p22] 原文：The authors, Carlos Monteiro of the University of São Paulo and Arna Ostrup of Novo Nordisk Foundation, will discuss the issue in a live virtual debate, August 14th, during NUTRITION 2024 Live Online. The debate centers around a system developed by Monteiro and colleagues that classifies foods by their degree of industrial processing, ranging from unprocessed to ultra-processed.
+[p22] 译文：作者是圣保罗大学的 Carlos Monteiro 和诺和诺德基金会的 Arna Ostrup，他们将于 8 月 14 日 NUTRITION 2024 Live Online 期间的现场虚拟辩论中讨论这个问题。争论的焦点是蒙泰罗及其同事开发的一个系统，该系统根据工业加工程度对食品进行分类，从未加工到超加工。
+
+[p23] 原文：The system defines ultra-processed foods as those made using sequences of processes that extract substances from foods and alter them with chemicals in order to formulate the final product. Ultra-processed foods are characteristically designed to be cheap, tasty, and convenient. Examples include soft drinks and candy, packaged snacks and pastries, ready to heat products, and reconstituted meat products.
+[p23] 译文：该系统将超加工食品定义为通过从食品中提取物质并用化学物质对其进行改变以配制最终产品的一系列工艺过程制成的食品。超加工食品的特点是价格便宜、美味且方便。例如软饮料和糖果、包装零食和糕点、即热产品以及复原肉制品。
+
+[p24] 原文：Studies have linked consumption of ultra-processed foods, which are often high in salt, sugar, and fat, with weight gain and an increased risk of chronic diseases, even after adjusting for the amount of salt, sugar, and fat in the diet. While the mechanisms behind these associations are not fully understood, Monteiro argues that the existing evidence is sufficient to justify discouraging consumption of ultra-processed foods in dietary recommendations and government policies.
+[p24] 译文：研究表明，即使在调整了饮食中盐、糖和脂肪的含量后，食用通常富含盐、糖和脂肪的超加工食品也会导致体重增加和患慢性病的风险增加。虽然这些关联背后的机制尚不完全清楚，但蒙泰罗认为，现有证据足以证明在饮食建议和政府政策中劝阻超加工食品的消费是合理的。
+
+短文二
+
+[p25] 原文：Believe it or not, human creativity benefits from constraints. According to psychologists, when you have less to work with, you actually begin to see the world differently. With constraints, you dedicate your mental energy to acting more resourcefully. When challenged, you figure out new ways to be better.
+[p25] 译文：不管你相信与否，人类的创造力受益于限制。根据心理学家的说法，当你的工作内容减少时，你实际上开始以不同的方式看待世界。在受到限制的情况下，你可以将精力投入到更机智的行动上。当遇到挑战时，你会想出新的方法来变得更好。
+
+[p26] 原文：The most successful creative people know that constraints give their minds the impetus to leap higher. People who invent new products are not limited by what they don't have or can't do. They leverage their limitations to push themselves even further. Many products and services are created because the founders saw a limitation in what they use. They created innovation based on what was not working for them at the moment.
+[p26] 译文：最成功的创意人士知道，约束会给他们的思想带来飞跃更高的动力。发明新产品的人不会受到他们没有或不能做的事情的限制。他们利用自身的局限性来进一步推动自己。许多产品和服务的创建是因为创始人看到了他们使用的限制。他们根据目前不适合他们的方法进行创新。
+
+[p27] 原文：Innovation is a creative person's response to limitation. In a 2015 study which examined how thinking about scarcity or abundance influences how creatively people use their resources, Ravi Mehta at the University of Illinois and Meng Zhu at Johns Hopkins University found that people simply have no incentive to use what's available to them in novel ways. When people face scarcity, they give themselves the freedom to use resources in less conventional ways because they have to. Obstacles can broaden your perception and open up your thinking processes. Consistent constraints help you improve the connecting unrelated ideas and concepts. Marissa Meyer, former vice president for search products and user experience at Google, once wrote in a publication on Bloomberg, "Constraints shape and focus problems and provide clear challenges to overcome; creativity thrives best when constrained."
+[p27] 译文：创新是有创造力的人对限制的反应。在 2015 年的一项研究中，伊利诺伊大学的拉维·梅塔 (Ravi Mehta) 和约翰·霍普金斯大学的朱萌 (Meng Zhu) 发现，人们根本没有动力以新颖的方式使用现有资源。当人们面临稀缺时，他们会给予自己以非常规方式使用资源的自由，因为他们不得不这么做。障碍可以拓宽你的视野并打开你的思维过程。一致的约束可以帮助您改进不相关的想法和概念的连接。谷歌负责搜索产品和用户体验的前副总裁玛丽莎·迈耶 (Marissa Meyer) 曾在彭博社的一篇出版物中写道：“限制会塑造和集中问题，并提供需要克服的明确挑战；创造力在受到限制时才能发挥最佳作用。”
+
+讲座一
+
+[p28] 原文：Different people use different strategies for managing conflicts. These strategies are learned in childhood. Usually we are not aware of how we act in conflict situations. We just do whatever seems to come naturally. But we do have a personal strategy, and because it is learned, we can always change it by learning new and more effective ways of managing conflicts. When you get involved in a conflict, there are two major concerns you have to take into account: achieving your personal goals and keeping a good relationship with the other person. How important your personal goals are and how important the relationship is to you affect how you act in a conflict. Given these two concerns, five styles of managing conflicts can be identified.
+[p28] 译文：不同的人使用不同的策略来管理冲突。这些策略是在童年时习得的。通常我们不知道自己在冲突情况下如何行事。我们只是做任何看起来自然而然的事情。但我们确实有个人策略，而且因为它是后天习得的，我们总是可以通过学习新的、更有效的冲突管理方法来改变它。当您卷入冲突时，您必须考虑两个主要问题：实现您的个人目标以及与他人保持良好的关系。您的个人目标有多重要以及人际关系对您有多重要会影响您在冲突中的行为。考虑到这两个问题，可以确定五种管理冲突的方式。
+
+[p29] 原文：1. The turtle. Turtles withdraw into their shells to avoid conflicts. They give up their personal goals and relationships. They believe it is easier to withdraw from a conflict than to face it.
+[p29] 译文：1.乌龟。海龟会缩进壳里以避免冲突。他们放弃个人目标和人际关系。他们认为，退出冲突比面对冲突更容易。
+
+[p30] 原文：2. The shark. Sharks try to overpower opponents by forcing them to accept their solution to the conflict. They seek to achieve their goals at all costs. Sharks assume that conflicts are settled by one person winning and one person losing. Winning gives sharks a sense of pride and achievement. Losing gives them a sense of weakness, inadequacy, and failure.
+[p30] 译文：2.鲨鱼。鲨鱼试图通过迫使对手接受他们的冲突解决方案来压倒对手。他们不惜一切代价寻求实现自己的目标。鲨鱼认为冲突是通过一个人获胜和一个人失败来解决的。胜利给鲨鱼带来自豪感和成就感。失败会给他们一种软弱、无能和失败的感觉。
+
+[p31] 原文：3. The teddy bear. Teddy bears want to be accepted and liked by other people. They think that conflict should be avoided in favor of harmony, and believe that conflicts cannot be discussed without damaging relationships. They give up their goals to preserve the relationship.
+[p31] 译文：3.泰迪熊。泰迪熊希望被其他人接受和喜欢。他们认为应该避免冲突以利于和谐，并且认为讨论冲突就不能不破坏关系。他们为了维持关系而放弃自己的目标。
+
+[p32] 原文：4. The fox. Foxes are moderately concerned with their own goals and about their relationships with other people. They give up part of their goals and persuade the other person in a conflict to give up part of his goals. They seek a solution to conflicts where both sides gain something.
+[p32] 译文：4. 狐狸。狐狸适度关心自己的目标以及与他人的关系。他们放弃部分目标，并说服冲突中的对方放弃部分目标。他们寻求冲突的解决方案，让双方都能有所收获。
+
+[p33] 原文：5. The owl. Owls view conflicts as problems to be solved. They see conflicts as improving relationships by reducing tension between two people. They try to begin a discussion that identifies the conflict as a problem. By seeking solutions that satisfy both themselves and the other person, owls maintain the relationship. Owls are not satisfied until a solution is found that achieves their own goals and the other person's goals, and they are not satisfied until the tensions and negative feelings have been fully resolved.
+[p33] 译文：5.猫头鹰。猫头鹰将冲突视为需要解决的问题。他们认为冲突可以通过减少两个人之间的紧张关系来改善关系。他们试图开始讨论，将冲突视为一个问题。猫头鹰通过寻求让自己和对方都满意的解决方案来维持这种关系。猫头鹰不会满足，直到找到实现自己目标和他人目标的解决方案，直到紧张和负面情绪完全解决为止。
+
+讲座二
+
+[p34] 原文：The genetic code of all 1.5 million known species of animals and plants living on Earth will be mapped to help save species from extinction and boost human health. Scientists hope that cracking the genetic code of plants and animals could help uncover new treatments for infectious diseases, slow aging, improve crops and agriculture, and create new bio-materials.
+[p34] 译文：地球上所有 150 万种已知动植物物种的遗传密码将被绘制出来，以帮助拯救物种免于灭绝并促进人类健康。科学家希望破解动植物的遗传密码有助于发现传染病的新疗法、延缓衰老、改善农作物和农业以及创造新的生物材料。
+
+[p35] 原文：In Britain, organisations including the Natural History Museum, the Royal Botanic Gardens at Kew and the Wellcome Sanger Institute have joined forces to sequence Britain's 66,000 species of animals and plants. Dubbed the Darwin Tree of Life Project, it is expected to take 10 years and cost 100 million pounds. Once completed, all the information will be publicly available to researchers.
+[p35] 译文：在英国，包括自然历史博物馆、邱园皇家植物园和威康桑格研究所在内的组织已联手对英国 66,000 种动植物进行测序。该项目被称为达尔文生命之树项目，预计耗时 10 年，耗资 1 亿英镑。一旦完成，所有信息将向研究人员公开。
+
+[p36] 原文：Many scientists believe that Earth has now entered the sixth mass extinction, with humans creating a toxic mix of habitation loss, pollution and climate change, which has already led to the loss of at least 77 species of mammals and 140 types of birds since 1500. It is the biggest loss of species since the dinosaurs were wiped out 66 million years ago. Scientists say that sequencing every species will revolutionize the understanding of biology and evolution, bolster efforts to conserve as well as protect and restore biodiversity.
+[p36] 译文：许多科学家认为，地球现已进入第六次大规模灭绝，人类造成了栖息地丧失、污染和气候变化的有毒组合，自1500年以来，这已经导致至少77种哺乳动物和140种鸟类消失。这是自6600万年前恐龙灭绝以来最严重的物种灭绝。科学家表示，对每个物种进行测序将彻底改变对生物学和进化论的理解，加强保护和恢复生物多样性的努力。
+
+[p37] 原文：Dr. Tim Littlewood, head of Life Sciences Department at the Natural History Museum said, "Whether you are interested in food or disease, the history of how every organism on the planet has adapted to its environment is recorded in its genetic makeup. How you then harness that is dependent on your ability to understand it. We will be using modern methods to get a really good window on the present and the past. And of course, a window on the past gives you a prospective model on the future."
+[p37] 译文：自然历史博物馆生命科学部主任蒂姆·利特伍德博士说：“无论你对食物还是疾病感兴趣，地球上每一种生物体如何适应其环境的历史都记录在其基因构成中。如何利用它取决于你理解它的能力。我们将使用现代方法来了解现在和过去。当然，了解过去的窗口可以为你提供未来的前瞻性模型。”
+
+[p38] 原文：Sir Jim Smith, Director of Science at Wellcome said, "Try as I might, I can't think of a more exciting, more relevant, more timely, or more internationally inspirational project. Since 1970, humanity has wiped out 60 percent of animal populations. About 23,000 of 80,000 species surveyed are approaching extinction. We are in the midst of the sixth great extinction event of life on our planet, which not only threatens wildlife species, but also imperils the global food supply. As scientists, we all realize we desperately need to catalogue life on our fragile planet now. I think we're making history."
+[p38] 译文：威康科学中心的吉姆·史密斯爵士表示：“尽管我尽了最大的努力，但我想不出比这更令人兴奋、更相关、更及时或更鼓舞人心的项目了。自 1970 年以来，人类已经消灭了 60% 的动物种群。在接受调查的 80,000 个物种中，约有 23,000 个物种濒临灭绝。我们正处于地球上第六次生命大灭绝事件之中，这不仅威胁着野生动物作为科学家，我们都意识到我们现在迫切需要对我们脆弱的星球上的生命进行分类，我认为我们正在创造历史。”
+
+讲座三
+
+[p39] 原文：John Donne, the English poet, wrote in the 17th century, "No man is an island, entire of itself; every man is a piece of the continent, a part of the main."
+[p39] 译文：英国诗人约翰·多恩 (John Donne) 在 17 世纪写道：“没有人是一座孤岛，可以自全；每个人都是大陆的一部分，是主体的一部分。”
+
+[p40] 原文：Now, a British academic has claimed that human individuality is indeed just an illusion, because societies are far more interconnected at a mental, physical, and cultural level than people realize. In his new book, The Self Delusion, Professor Tom Oliver, a researcher in the Ecology and Evolution group at the University of Reading, argues there is no such thing as "self", and not even our bodies are truly "us". Just as Copernicus realized the Earth is not the center of the universe, Professor Oliver said society urgently needs a Copernican-like revolution to understand people are not detached beings but rather part of one connected identity.
+[p40] 译文：现在，一位英国学者声称，人类个性确实只是一种幻觉，因为社会在精神、身体和文化层面上的相互联系比人们意识到的要紧密得多。雷丁大学生态与进化小组研究员汤姆·奥利弗教授在他的新书《自我错觉》中认为，不存在“自我”这样的东西，甚至我们的身体也不是真正的“我们”。正如哥白尼认识到地球不是宇宙的中心一样，奥利弗教授表示，社会迫切需要一场类似哥白尼式的革命，以了解人们不是孤立的存在，而是一个相互联系的身份的一部分。
+
+[p41] 原文："A significant milestone in the cultural evolution of human minds was the acceptance that the Earth is not the center of the universe, the so-called Copernican Revolution," he writes. "However, we have one more big myth to dispose of: that we exist as independent selves at the center of a subjective universe. You may feel as if you are an independent individual acting autonomously in the world; that you have unchanging inner self that persists throughout your lifetime, acting as a central anchor-point with the world changing around you. This is the illusion I seek to tackle. We are intimately connected to the world around us."
+[p41] 译文：“人类思想文化进化的一个重要里程碑是承认地球不是宇宙的中心，即所谓的哥白尼革命，”他写道。 “然而，我们还有一个更大的神话需要消除：我们作为独立的自我存在于主观宇宙的中心。你可能会觉得自己是一个在世界上自主行动的独立个体；你有一生不变的内在自我，作为你周围世界变化的中心锚点。这是我试图解决的幻觉。我们与周围的世界紧密相连。”
+
+[p42] 原文：Professor Oliver argues there are around 37 trillion cells in the body but most have a lifespan of just a few days or weeks, so the material "us" is constantly changing. In fact, there is no part of your body that has existed for more than ten years. Since our bodies are essentially made anew every few weeks, the material in them alone is clearly insufficient to explain the persistent thread of an identity.
+[p42] 译文：奥利弗教授认为，体内大约有 37 万亿个细胞，但大多数细胞的寿命只有几天或几周，因此“我们”的物质不断变化。事实上，你身体的任何一个部分都已经存在了十年以上。由于我们的身体基本上每隔几周就会重新制造一次，因此仅身体中的材料显然不足以解释身份的持久线索。
+
+[p43] 原文：Professor Oliver claims that individualism is actually bad for society, and only by realizing we are part of a bigger entity can we solve pressing environmental and societal problems. Through selfish over-consumption we are destroying the natural world and using non-renewable resources at an accelerating rate. "We are at a critical crossroads as a species where we must rapidly reform our mindsets and behavior to act in less selfish ways," he said. "So let's open our eyes to the hidden connections all around us."
+[p43] 译文：奥利弗教授声称，个人主义实际上对社会有害，只有认识到我们是一个更大实体的一部分，我们才能解决紧迫的环境和社会问题。通过自私的过度消费，我们正在破坏自然世界并加速使用不可再生资源。他说：“作为一个物种，我们正处于一个关键的十字路口，我们必须迅速改变我们的心态和行为，以不那么自私的方式行事。” “所以让我们睁开眼睛看看我们周围隐藏的联系。”
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。

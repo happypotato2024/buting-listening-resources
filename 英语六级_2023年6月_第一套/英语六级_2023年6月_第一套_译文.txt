@@ -1,0 +1,129 @@
+英语六级_2023年6月_第一套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: Hi, Lily, how's the new apartment?
+[p0] 译文：男：嗨，莉莉，新公寓怎么样？
+
+[p1] 原文：W: It's okay.
+[p1] 译文：女：没关系。
+
+[p2] 原文：M: What? How can it be just okay when last week you were thrilled about the place and kept posting photos of it online?
+[p2] 译文：男：什么？当上周您对这个地方感到兴奋并不断在网上发布它的照片时，这怎么可能呢？
+
+[p3] 原文：W: Well, last week when I moved in, the apartment seemed cozy, just the right size for one person. But now it just seems tiny, shabby and solitary.
+[p3] 译文：女：嗯，上周我搬进来的时候，公寓看起来很舒适，大小正好适合一个人住。但现在看来，它又小又破又孤独。
+
+[p4] 原文：M: Ah, that's the problem. You miss your roommates from university, don't you?
+[p4] 译文：男：啊，这就是问题所在。你想念大学时的室友，不是吗？
+
+[p5] 原文：W: I'm going to sound like an idiot, because I used to complain to you all the time about how crowded our dormitory room was, and about all the things they did to irritate me, like watching movies late at night without headphones, or talking loudly early in the morning. But now I miss them terribly.
+[p5] 译文：女：我听起来像个白痴，因为我以前总是向你抱怨我们的宿舍有多拥挤，以及他们所做的一切让我恼火的事情，比如深夜不戴耳机看电影，或者一大早就大声说话。但现在我非常想念他们。
+
+[p6] 原文：M: Of course you do. That's perfectly normal. When I got my first place I remember thinking I couldn't wait to live by myself and get away from my juvenile roommates and all their annoying habits. But then I began missing them and feeling lonely and thinking that our dormitory was like paradise, even though there were six of us guys in one small room.
+[p6] 译文：男：当然知道。这是完全正常的。当我获得第一名时，我记得我想我迫不及待地想独自生活并远离我的少年室友和他们所有烦人的习惯。但后来我开始想念他们，感到孤独，觉得我们的宿舍就像天堂一样，尽管我们六个人挤在一间小房间里。
+
+[p7] 原文：W: I thought it was just me who felt like that.
+[p7] 译文：女：我以为只有我有这样的感觉。
+
+[p8] 原文：M: Look, you lived at home with us, and then you had three roommates, and this is your first time living alone. So it's hard. But your first apartment is a milestone in your life, and you should celebrate it. Tell me about the apartment.
+[p8] 译文：男：你看，你和我们一起住在家里，然后你有三个室友，这是你第一次一个人住。所以这很难。但您的第一套公寓是您人生中的一个里程碑，您应该庆祝它。告诉我关于公寓的事。
+
+[p9] 原文：W: Actually, it's not bad. In fact, it's pretty adorable, now that I have decorated it and it has everything I need. I have a kitchen to cook in and a bathroom all to myself, and then another room with my bed at one end, and a sofa, a small table and chairs at the other end.
+[p9] 译文：女：其实，还不错。事实上，它非常可爱，现在我已经装饰了它并且它拥有我需要的一切。我有一个自己做饭的厨房和一间私人浴室，然后是另一个房间，一端是我的床，另一端是一张沙发、一张小桌子和椅子。
+
+[p10] 原文：M: That does sound adorable and I can't wait to see it, and neither can mom and dad.
+[p10] 译文：男：这听起来确实很可爱，我迫不及待地想看它，爸爸妈妈也不能。
+
+长对话二
+
+[p11] 原文：W: Welcome to our program Book Talk. Our guest today is Frank Jones, a critic of our education system, and the author of a new book, How to Reform Our Universities.
+[p11] 译文：女：欢迎来到我们的节目《读书谈》。今天我们的嘉宾是弗兰克·琼斯，他是我们教育体系的批评者，也是新书《如何改革我们的大学》的作者。
+
+[p12] 原文：M: Hello, Susan.
+[p12] 译文：男：你好，苏珊。
+
+[p13] 原文：W: Frank, you support radically changing universities in America?
+[p13] 译文：女：弗兰克，你支持彻底改变美国的大学吗？
+
+[p14] 原文：M: Yes, I believe that the purpose of higher education is to prepare young people to enter the workforce, and that our current system fails to do this. We're allocating too many resources to disciplines that don't match the needs of employers.
+[p14] 译文：男：是的，我相信高等教育的目的是让年轻人为进入劳动力市场做好准备，而我们现有的制度无法做到这一点。我们向不符合雇主需求的学科分配了太多资源。
+
+[p15] 原文：W: I think your attitude to education is a bit cynical, Frank. Surely the purpose of university is to prepare young people to participate fully in civic life, rather than just to find well-paid jobs.
+[p15] 译文：女：我认为你对教育的态度有点愤世嫉俗，弗兰克。当然，大学的目的是让年轻人做好充分参与公民生活的准备，而不仅仅是为了找到高薪工作。
+
+[p16] 原文：M: Susan, many young graduates struggle to find any job, let alone a good one. The job market is grim, particularly for students who study the arts.
+[p16] 译文：男：苏珊，许多年轻的毕业生都很难找到工作，更不用说找到一份好工作了。就业市场严峻，尤其是对于学习艺术的学生来说。
+
+[p17] 原文：W: I agree that it isn't easy for young people to find work, but you propose closing down all departments that aren't directly related to science and technology. Is that really the solution?
+[p17] 译文：女：我同意年轻人找工作不容易，但你建议关闭所有与科技没有直接关系的部门。这真的是解决方案吗？
+
+[p18] 原文：M: You're overstating my point. My argument is that we need to use more of our budget on areas like science and engineering. To do that, we need to take money from subjects like literature and music.
+[p18] 译文：男：你夸大了我的观点。我的观点是，我们需要将更多预算用于科学和工程等领域。为此，我们需要从文学和音乐等学科中获取资金。
+
+[p19] 原文：W: But the arts have value. They're an important part of our culture. Studying literature or music or sculpture might not result in a job in that area, but it helps young people to think about the world in a deeper way, which makes them better citizens and makes for a better society.
+[p19] 译文：女：但是艺术是有价值的。它们是我们文化的重要组成部分。学习文学、音乐或雕塑可能不会在该领域找到工作，但它可以帮助年轻人更深入地思考世界，这使他们成为更好的公民，并造就一个更美好的社会。
+
+[p20] 原文：M: I agree that the arts are valuable to society, but it's naive to think that not only the most talented, but all students should study them at university level. The arts are very competitive, and most graduates will end up with a great deal of debt, obtaining a degree that has little value on the job market.
+[p20] 译文：男：我同意艺术对社会有价值，但认为不仅是最有才华的学生，而且所有学生都应该在大学学习艺术，这是天真的。艺术领域的竞争非常激烈，大多数毕业生最终会背负大量债务，获得在就业市场上毫无价值的学位。
+
+短文一
+
+[p21] 原文：Do you ever have the annoying feeling that you don't have time to really think anymore? You're not alone. A variety of factors have conspired to rob us of time for reflection about ourselves and our lives. Today, our preoccupied minds are rarely silent. The average person receives hundreds of texts and voice messages a day, and holidays for many of us are action-packed weeks, more likely full of family activities than opportunities for tranquility and contemplation.
+[p21] 译文：你是否曾经有过一种烦人的感觉，那就是你没有时间去真正思考？你并不孤单。多种因素共同剥夺了我们反思自己和生活的时间。今天，我们全神贯注的头脑很少保持沉默。一般人每天会收到数百条短信和语音消息，而对于我们许多人来说，假期是充满活力的几周，更有可能充满家庭活动，而不是宁静和沉思的机会。
+
+[p22] 原文：Regular reflection, however, underlies all great professionals. It's a prerequisite for you to recharge your mental batteries, see things in a new light and tap into your creativity. Almost all of the great advisors that I have studied have found ways to get away from it all and contemplate their life and work. Some researchers in the field of creativity, in fact, believe that insight occurs during the reflection and relaxation that follows a period of intense activity. Schedule time for reflection about your work, or a particular project you're engaged in. I usually block out half an hour. Don't answer the phone; push your papers to the side; sketch; make lists; draw mind maps of ideas that come to you. At the end, write down any emerging ideas. When you're alone, stop worrying and think. A lot of our down time is spent worrying about troublesome things in our lives or fantasizing about how we'd like our lives to be. Revisit things during moments of relaxation, after a period of intense work. This is when we are the most creative.
+[p22] 译文：然而，定期反思是所有伟大专业人士的基础。这是给你的精神充电、以新的眼光看待事物并发挥你的创造力的先决条件。我研究过的几乎所有伟大的顾问都找到了摆脱这一切并思考他们的生活和工作的方法。事实上，创造力领域的一些研究人员认为，洞察力是在一段紧张活动之后的反思和放松过程中产生的。安排时间反思你的工作或你正在从事的特定项目。我通常会抽出半个小时。不要接电话；把你的文件推到一边；草图;列出清单；绘制你想到的想法的思维导图。最后，写下任何新出现的想法。当你一个人的时候，停止忧虑并思考。我们的大部分休息时间都花在担心生活中的麻烦事情或幻想我们想要的生活上。经过一段时间的紧张工作后，在放松的时刻重新审视事情。这是我们最有创造力的时候。
+
+短文二
+
+[p23] 原文：Even before Colorado was a state, it had post offices. The first opened in 1859 in a settlement founded by migrants searching for gold. Life could be unpredictable at West—gold failed to appear, drought ruined farmers and settlers clashed with Native Americans. On the settlement's location, now stands a sprawling university campus. Amid all the changes, one feature remained constant—the postal service. The maps tracing America's westward expansion are telling. In 1864, there were few postal branches on land controlled by Native Americans, which still accounted for most of the West. Over the next 25 years, post offices grew quickly. Colonization of the West could be regarded as a result of big government rather than pioneers. As federal subsidies and land grants tempted people into the deserts and plains, the post kept them connected. In the mid-19th century, the post office department was far from a centralized bureaucracy. To keep up with migration patterns, postal services were added to existing businesses. The federal government commissioned private wagons to carry the mail. Short-term contracts were granted to local businessmen to act as postmasters. These partnerships enabled the mail to quickly follow migrants, helping knit together remote parts of the country.
+[p23] 译文：甚至在科罗拉多州成为一个州之前，它就已经有邮局了。第一家于 1859 年在一个由淘金移民建立的定居点开业。西部地区的生活可能难以预测——黄金未能出现，干旱毁掉了农民，定居者与美洲原住民发生冲突。在定居点​​的所在地，现在矗立着一座庞大的大学校园。在所有的变化中，有一个特征保持不变——邮政服务。描绘美国向西扩张的地图很能说明问题。 1864年，美洲原住民控制的土地上几乎没有邮政分支机构，而这些土地仍然占据了西部的大部分地区。在接下来的 25 年里，邮局迅速发展。西方的殖民化可以被视为大政府而非先驱者的结果。当联邦补贴和土地赠款吸引人们进入沙漠和平原时，这个帖子让他们保持联系。 19世纪中叶，邮局部门远非中央集权的官僚机构。为了跟上移民模式，现有业务中增加了邮政服务。联邦政府委托私人货车运送邮件。当地商人被授予短期合同，担任邮政局长。这些伙伴关系使邮件能够快速追踪移民，帮助将该国的偏远地区联系在一起。
+
+[p24] 原文：Mr. Blevins, a digital historian, wrote a book on the history of the US postal service, he used data science to analyze historical trends. Most strikingly, he built an accompanying website, complete with interactive maps. They show readers how, within a generation, the postal service helped colonize a continent. These online interactive maps illustrate the formative power of snail mail.
+[p24] 译文：数字历史学家布莱文斯先生写了一本关于美国邮政历史的书，他利用数据科学来分析历史趋势。最引人注目的是，他建立了一个附带的网站，配有交互式地图。它们向读者展示了邮政服务如何在一代人的时间内帮助殖民了一个大陆。这些在线交互式地图说明了蜗牛邮件的形成力量。
+
+讲座一
+
+[p25] 原文：In last week's lecture, we discussed reasons why people forget things. This week, we will discuss a surprising reason why we might remember some things—anxiety.
+[p25] 译文：在上周的讲座中，我们讨论了人们忘记事情的原因。本周，我们将讨论一个令人惊讶的原因，为什么我们可能会记住一些事情——焦虑。
+
+[p26] 原文：Think about something as simple as buying a coffee. That may not seem like an experience that would make a deep impression on your memory, but anxiety could change that. In fact, a new study suggests that people with higher anxiety levels might remember certain information better than people with lower anxiety levels. That's because higher levels of anxiety may make people more susceptible to negative feelings, putting them in a more negative state of mind. That in turn may make them able to better remember some events.
+[p26] 译文：想想一些像买咖啡这样简单的事情。这看起来可能不会给你的记忆留下深刻的印象，但焦虑可能会改变这一点。事实上，一项新的研究表明，焦虑水平较高的人可能比焦虑水平较低的人更好地记住某些信息。这是因为较高水平的焦虑可能会使人们更容易受到负面情绪的影响，从而使他们处于更消极的心态。这反过来可能会让他们能够更好地记住一些事件。
+
+[p27] 原文：Let's take a closer look at that new study now. In this study, the researchers started by giving 80 undergraduate students an anxiety test. The test measured the participants' anxiety levels over the preceding two weeks. Then, to test memory, the participants were shown a series of neutral words, one at a time. Some of the words were printed on to photos of negative scenes, meaning images that could affect their emotions negatively, such as a photo of a car accident or a cemetery. The rest of the words were printed on to photos of neutral scenes, such as a photo of a lake or trees. Neutral words included words like "table" or "desk" that don't elicit emotion. Later, the participants were asked to think back to the words they were shown earlier, which caused them to reenter either a negative or a neutral mindset. The participants were then presented with another set of neutral words, and their memory of these new words was tested. The researchers found that the new words presented to people in a negative mindset were better remembered by people with higher levels of anxiety than those with lower levels of anxiety. In other words, when highly anxious individuals took in otherwise emotionally neutral information that was presented to them, it became colored by their negative mindset, making them remember the information better. But these same effects were not seen in people with low levels of anxiety. Previous studies have found that extreme levels of anxiety, such as those experienced by people diagnosed with an anxiety disorder, can be quite detrimental to memory and cognitive performance. But the highly anxious people in this study represent individuals who are managing their anxiety and for whom anxiety is not a serious problem.
+[p27] 译文：现在让我们仔细看看这项新研究。在这项研究中，研究人员首先对 80 名本科生进行了焦虑测试。该测试测量了参与者在过去两周内的焦虑水平。然后，为了测试记忆力，参与者会看到一系列中性单词，一次一个。有些文字被印在负面场景的照片上，这意味着可能对他们的情绪产生负面影响的图像，例如车祸或墓地的照片。其余的文字被打印在中性场景的照片上，例如湖泊或树木的照片。中性词包括“桌子”或“书桌”等不会引起情绪的词。后来，参与者被要求回想之前看到的话语，这导致他们重新进入消极或中立的心态。然后向参与者提供另一组中性词，并测试他们对这些新词的记忆。研究人员发现，与焦虑水平较低的人相比，焦虑水平较高的人更容易记住向处于消极心态的人展示的新单词。换句话说，当高度焦虑的人接受了呈现给他们的情绪中性的信息时，这些信息就会被他们的消极心态所影响，从而使他们更好地记住这些信息。但在焦虑水平较低的人身上却没有看到同样的效果。先前的研究发现，极端程度的焦虑，例如被诊断患有焦虑症的人所经历的焦虑，可能会对记忆和认知能力造成相当大的损害。但这项研究中高度焦虑的人代表的是正在控制焦虑的人，并且对他们来说焦虑并不是一个严重的问题。
+
+讲座二
+
+[p28] 原文：Over the past 20 years, the internet has gradually become a dominant feature of our lives. It has changed how we communicate with each other, and it has definitely transformed the way we do business with each other. Marketing has also changed in a number of ways. For instance, in the past consumers had to call a phone number and patiently wait on hold, in order to get the information they wanted. Today, they want the information immediately. They'll go to the company's social media page and post comments and questions, expecting to receive an immediate response. If they don't get their questions answered soon, they'll move on to another company that will answer them quickly.
+[p28] 译文：过去20年，互联网逐渐成为我们生活的主导特征。它改变了我们彼此沟通的方式，也确实改变了我们彼此开展业务的方式。营销也在很多方面发生了变化。例如，过去消费者必须拨打电话号码并耐心等待，才能获得他们想要的信息。如今，他们希望立即获得信息。他们会访问公司的社交媒体页面并发表评论和问题，希望立即得到回复。如果他们的问题不能很快得到解答，他们就会跳槽到另一家能很快回答他们问题的公司。
+
+[p29] 原文：Marketing departments today need to follow technological development. For example, this year's smartphone is smarter than last year's; self-driving cars are now on the road. Marketers have to do research on which technologies are coming into being. Otherwise they risk being left behind in the virtual dust. Marketing has also changed due to the importance of video. People don't just want to read text; they want to watch things happening. Companies now have to explore how they can use video on a consistent basis to share information about their businesses. Fortunately, it's extremely easy to shoot something these days. All you need is a smartphone. But what's the result of all this? Shorter attention spans. We are the same people that we were 20 years ago. Not only have we grown accustomed to getting the information we want instantaneously, our attention spans are much shorter. If something doesn't capture our attention within a few seconds, we're on to the next piece of content. Marketers need to figure out ways to speak directly to the customer's emotions and they need to figure out how to do that as quickly as possible. Once people are emotionally engaged, they'll stick with you.
+[p29] 译文：今天的营销部门需要跟上技术的发展。例如，今年的智能手机比去年更智能；自动驾驶汽车现已上路。营销人员必须研究哪些技术正在出现。否则，他们就有可能被抛在虚拟尘埃中。由于视频的重要性，营销也发生了变化。人们不仅仅想阅读文本；还想阅读文本。他们想看看事情发生。公司现在必须探索如何一致地使用视频来共享有关其业务的信息。幸运的是，现在拍摄东西非常容易。您所需要的只是一部智能手机。但这一切的结果是什么呢？注意力持续时间较短。我们还是20年前的我们。我们不仅已经习惯于立即获取我们想要的信息，而且我们的注意力持续时间也短得多。如果某件事在几秒钟内没有引起我们的注意，我们就会转向下一个内容。营销人员需要找到直接表达客户情绪的方法，并且需要尽快找到方法。一旦人们在情感上投入，他们就会坚持你。
+
+[p30] 原文：If marketing has changed this much in the past 20 years, imagine what the next 20 years will bring. In a recent survey, only 9% of marketers could say with confidence that their marketing efforts were actually working. Their confidence is being shaken, because the rules of the game change every year. That's why it's important for marketers to pay attention to the latest technological developments and consider collaborating with technological innovators. That way, they'll be moving at the same pace as the tech industry.
+[p30] 译文：如果营销在过去 20 年里发生了如此大的变化，想象一下未来 20 年会发生什么。在最近的一项调查中，只有 9% 的营销人员可以自信地说他们的营销努力确实有效。他们的信心正在动摇，因为游戏规则每年都在变化。这就是为什么营销人员关注最新技术发展并考虑与技术创新者合作非常重要。这样，他们将与科技行业同步发展。
+
+讲座三
+
+[p31] 原文：You might be surprised to learn that the benefits of friendships extend beyond people's social life and into their work, which is interesting when considering the extent to which people sacrifice friendships, or at least the time they spend with friends, because of the extended hours they're devoting to work. Just last week, I was remarking to a colleague that I'm content with only one social engagement per week. But according to recent research, that's evidently not enough.
+[p31] 译文：您可能会惊讶地发现，友谊的好处超出了人们的社交生活并延伸到了他们的工作中，考虑到人们因工作时间延长而牺牲友谊的程度，或者至少是他们与朋友共度的时间，这一点很有趣。就在上周，我对一位同事说，我对每周一次的社交活动感到满意。但根据最近的研究，这显然还不够。
+
+[p32] 原文：In an initial study of more than 700 respondents, scholars from an American university analyzed the impact that friends, as opposed to family, have on self-esteem and well-being. Friends came out substantially on top. That's because to be someone's mate is a voluntary act, unlike family who people rarely get to choose. The researchers found that when people choose to cultivate and maintain supportive friendships with an individual, it means that the person is valued and worthy of their limited time. Such sentiments of value and worthiness boost our self-esteem.
+[p32] 译文：在对 700 多名受访者进行的初步研究中，一所美国大学的学者分析了朋友（而不是家人）对自尊和幸福感的影响。朋友们基本上名列前茅。这是因为成为某人的伴侣是一种自愿行为，不像家庭那样人们很少可以选择。研究人员发现，当人们选择与某人培养并维持支持性友谊时，这意味着这个人受到重视并且值得他们有限的时间。这种价值感和价值感增强了我们的自尊。
+
+[p33] 原文：The second study comprised more than 300 participants. It proved that the better we feel about ourselves, the more likely we'll perform our job confidently and competently. This follow-up study found that non-work friends even improve people's job satisfaction. They have as much of an impact on how much they love their jobs as do the friends they have at work, despite not actually being at our place of work. These types of friends tend to be our preferred outlet for venting about work-related matters. This is an avenue that may not be available at the office.
+[p33] 译文：第二项研究有 300 多名参与者。事实证明，我们对自己的感觉越好，我们就越有可能自信、有能力地完成我们的工作。这项后续研究发现，非工作朋友甚至可以提高人们的工作满意度。尽管他们实际上并不在我们的工作地点，但他们对自己工作热爱程度的影响与工作中的朋友一样大。这类朋友往往是我们发泄工作相关问题的首选渠道。这是办公室可能无法提供的途径。
+
+[p34] 原文：So even though friendships can be easy to neglect when confronted by pressures at work, or even pressures at home, neglecting our friends can turn out to be harmful and counterproductive. That's why, when determining how to create a better work-life balance, we need to consider not only how to balance work and family demands, but also how to cultivate and sustain supportive friendships. It's for this reason that managers should never discriminate when it comes to requests from employees for flexible work arrangements. It's irrelevant whether their need for a desired schedule is due to, say, parenting responsibilities, or a craving to hang out with the best mate. What matters is the opportunity to engage in a nourishing activity outside of work. That will definitely have a follow-on effect at work.
+[p34] 译文：因此，尽管在面临工作压力甚至家庭压力时，友谊很容易被忽视，但忽视朋友可能是有害的，而且会适得其反。这就是为什么，在决定如何创造更好的工作与生活平衡时，我们不仅需要考虑如何平衡工作和家庭需求，还需要考虑如何培养和维持支持性的友谊。正因为如此，管理者在员工提出灵活工作安排的要求时绝不能歧视。无论他们需要一个理想的时间表是因为养育子女的责任，还是因为渴望与最好的伴侣一起出去玩，这都无关紧要。重要的是有机会在工作之外从事有益的活动。这肯定会对工作产生后续影响。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。

@@ -1,0 +1,159 @@
+英语六级_2022年12月_第二套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: Welcome to the Book Club. Today's guest is Susan Lane, the author of a new book on personal finances that has already sold half a million copies. Hi, Susan, your book is extremely successful. Why do you think that is?
+[p0] 译文：男：欢迎来到读书俱乐部。今天的嘉宾是苏珊·莱恩 (Susan Lane)，她是一本有关个人理财的新书的作者，该书已售出 50 万册。嗨，苏珊，你的书非常成功。你认为这是为什么？
+
+[p1] 原文：W: I think that's because of my message, which is making happiness a priority over money. So many of us in my generation have spent decades trying to earn more money, just to consume more, but it made us more miserable.
+[p1] 译文：女：我认为这是因为我的信息，即让幸福优先于金钱。我们这一代人中的许多人花了几十年的时间试图赚更多的钱，只是为了增加消费，但这让我们更加痛苦。
+
+[p2] 原文：M: You yourself were once caught in that cycle, working for two decades as an executive and earning a high salary, but still accumulating debt.
+[p2] 译文：男：你自己也曾经陷入过这样的循环，当了二十年的高管，拿着高薪，但仍然负债累累。
+
+[p3] 原文：W: I most certainly was. I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $30,000.
+[p3] 译文：女：我当然是。我赚了数百万美元，但当我四年前辞去工作成为一名作家时，我欠了 3 万多美元。
+
+[p4] 原文：M: So how did you escape that pattern? And what would you advise other people to do?
+[p4] 译文：男：那么你是如何摆脱这种模式的呢？您会建议其他人做什么？
+
+[p5] 原文：W: The first change is in what we value. We need to emphasize things that actually make us happy, like relationships, the environment or even our hobbies. Once we make the right things our priority, our goals will change and so will our financial behavior.
+[p5] 译文：女：第一个改变是我们价值观的改变。我们需要强调真正让我们快乐的事情，比如人际关系、环境甚至我们的爱好。一旦我们把正确的事情作为优先事项，我们的目标就会改变，我们的财务行为也会改变。
+
+[p6] 原文：M: How does that translate into practical action? Can you give our audience examples of what you are talking about on an everyday basis?
+[p6] 译文：男：这如何转化为实际行动？您能给我们的观众举例说明您每天谈论的内容吗？
+
+[p7] 原文：W: The major areas for action are usually housing, food and transportation. So people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.
+[p7] 译文：女：主要行动领域通常是住房、食物和交通。因此，人们可能会与朋友合住而不是自己居住，从家里带午餐而不是去餐馆，使用公共交通工具而不是拥有汽车。
+
+[p8] 原文：M: Those sound like major sacrifices. I could never share my home. I need my own space.
+[p8] 译文：男：这些听起来像是重大牺牲。我永远无法分享我的家。我需要自己的空间。
+
+[p9] 原文：W: But they aren't sacrifices. When people change their values, their desires change. So in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space, but giving us an opportunity to spend more time with our loved ones.
+[p9] 译文：女：但它们不是牺牲。当人们改变价值观时，他们的欲望就会改变。因此，以住房为例，如果我们重视人际关系，那么共享一个家并不会剥夺我们自己的空间，而是让我们有机会与所爱的人共度更多时间。
+
+[p10] 原文：M: Indeed it is.
+[p10] 译文：男：确实如此。
+
+长对话二
+
+[p11] 原文：W: Thank you for inviting me to the gallery, Christopher. I haven't visited here since your predecessor's retirement functioned.
+[p11] 译文：女：谢谢你邀请我去画廊，克里斯托弗。自从你的前任退休后我就没有来过这里。
+
+[p12] 原文：M: Would you like to see the newest additions to our collection first, Catherine?
+[p12] 译文：男：凯瑟琳，您想先看看我们系列中的最新产品吗？
+
+[p13] 原文：W: Are those the landscapes by Daniel Gregory? I absolutely adore her work.
+[p13] 译文：女：这些是丹尼尔·格雷戈里的风景画吗？我非常喜欢她的工作。
+
+[p14] 原文：M: This first piece was a gift to the gallery from the artist herself, and it's quite exquisite.
+[p14] 译文：男：这第一幅作品是艺术家本人送给画廊的礼物，非常精致。
+
+[p15] 原文：W: I love how she depicts the barren landscape. The colors complement each other perfectly.
+[p15] 译文：女：我喜欢她描绘贫瘠风景的方式。颜色完美互补。
+
+[p16] 原文：M: You can sense the desolation in the picture. This piece was inspired by Gregory's recent trek in the Gobi Desert.
+[p16] 译文：男：你能感觉到画面中的荒凉。这件作品的灵感来自格雷戈里最近在戈壁沙漠的跋涉。
+
+[p17] 原文：W: And how did you obtain her other piece, over here?
+[p17] 译文：女：那么你是怎么得到她的另一件作品的呢？
+
+[p18] 原文：M: It was purchased at auction by an anonymous collector who lent it to the gallery for display. This composition is one of her most acclaimed paintings.
+[p18] 译文：男：它是由一位匿名收藏家在拍卖会上购买的，并借给画廊展示。这幅作品是她最受好评的画作之一。
+
+[p19] 原文：W: It must have cost that collector a small fortune to purchase this.
+[p19] 译文：女：这位收藏家肯定花了一大笔钱才买下这个。
+
+[p20] 原文：M: Obviously. I can't disclose the exact amount he paid, but it was substantial.
+[p20] 译文：男：显然。我无法透露他支付的具体金额，但金额很大。
+
+[p21] 原文：W: There's so much detail in this painting. I feel like I can really immerse myself in the scene. I particularly like the symmetry created by the reflection of the mountain in the lake.
+[p21] 译文：女：这幅画有很多细节。我感觉我真的可以沉浸在场景中。我特别喜欢山在湖中倒影所形成的对称性。
+
+[p22] 原文：M: This particular piece was the one that was nominated for a Gateway Award. I was lucky enough to attend the awards ceremony as Gregory's guest.
+[p22] 译文：男：这件特别的作品被提名为 Gateway 奖。我有幸作为格雷戈里的嘉宾参加了颁奖典礼。
+
+[p23] 原文：W: So you know her personally. I assume she is an eccentric artist.
+[p23] 译文：女：所以你个人认识她。我认为她是一位古怪的艺术家。
+
+[p24] 原文：M: Quite the opposite. In fact, she's not at all eccentric. I would say she's one of the most easygoing and intelligent people I know.
+[p24] 译文：男：恰恰相反。事实上，她一点也不古怪。我想说她是我认识的最随和、最聪明的人之一。
+
+[p25] 原文：W: I'd love to be able to meet her. There are so many questions I'd like to ask.
+[p25] 译文：女：我很想见到她。我有很多问题想问。
+
+[p26] 原文：M: What a coincidence! I'm meeting her for dinner tonight. Would you like to come along?
+[p26] 译文：男：真是巧合啊！今晚我要和她一起吃晚饭。你愿意一起去吗？
+
+[p27] 原文：W: I'd love to. Thank you.
+[p27] 译文：女：我很乐意。谢谢。
+
+短文一
+
+[p28] 原文：Forgiveness is the release of resentment or anger. Forgiveness doesn't mean reconciliation. We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender. Forgiveness is vitally important for the mental health of certain victims. It propels people forward rather than keeping them emotionally engaged in an injustice or trauma. Carrying the hurt or anger of an offense leads the body to release stress chemicals. Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits.
+[p28] 译文：宽恕是怨恨或愤怒的释放。宽恕并不意味着和解。我们不必回到同样的关系，也不必接受犯罪者同样的有害行为。宽恕对于某些受害者的心理健康至关重要。它推动人们前进，而不是让他们在情感上陷入不公正或创伤。承受伤害或冒犯的愤怒会导致身体释放压力化学物质。消除这些化学物质的持续流动也可以解释为什么宽恕可以带来身体健康益处。
+
+[p29] 原文：There are scenarios in which forgiveness is not the best course. Sometimes the victim becomes more empowered when they give themselves permission not to forgive. Forgiveness can be challenging. This is especially true when the offending party offers an insincere apology, or maybe they haven't offered anything at all. However, it's often the healthiest path forward. It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent, or whether it was caused by challenging circumstances in the offender's life.
+[p29] 译文：在某些情况下，宽恕并不是最好的选择。有时，当受害者允许自己不宽恕时，他们会变得更有力量。宽恕可能具有挑战性。当冒犯方提供不真诚的道歉，或者他们根本没有提供任何东西时，尤其如此。然而，这通常是最健康的前进道路。重要的是通过对罪犯产生同情心来培养宽恕，反思该行为是否出于恶意，或者是否是由罪犯生活中的挑战性环境造成的。
+
+[p30] 原文：What about forgiving ourselves? We sometimes need to take responsibility for mistakes, but intense guilt and shame aren't a desirable outcome in the long run. Forgiving yourself may seem like an ambiguous process. You can begin by acknowledging that you are at fault, take responsibility for the hurt you caused, then reflect on why the event occurred. Draw the lessons you learned and try to avoid committing a similar offense in the future.
+[p30] 译文：原谅我们自己又怎样呢？有时我们需要为错误承担责任，但从长远来看，强烈的内疚和羞耻并不是一个理想的结果。原谅自己似乎是一个模棱两可的过程。你可以首先承认自己有错，对自己造成的伤害承担责任，然后反思事件发生的原因。汲取教训，并尽量避免将来再犯类似的罪行。
+
+短文二
+
+[p31] 原文：The Glasgow subway first opened in 1896 as a cable-hauled system. It is generally recognized as the world's third underground railway, after London and Budapest. In its long history, it has never been expanded remaining as a single loop line with a mere 15 stations. At its peak, it served the shipyard workers on the south side of the city. In the 1960s, there was a decline in the shipbuilding industry, and the popularity of private transport grew. As a result, the subway saw a rapid decline in ridership.
+[p31] 译文：格拉斯哥地铁于 1896 年首次开通，采用电缆牵引系统。它被普遍认为是继伦敦和布达佩斯之后世界第三条地下铁路。在其悠久的历史中，它从未扩建过，仅保留了一条只有15个车站的单环线。在其鼎盛时期，它为城市南侧的造船厂工人提供服务。 20 世纪 60 年代，造船业衰退，私人交通日益普及。结果，地铁客流量迅速下降。
+
+[p32] 原文：It ran with little further change until 1977 when its new operators closed it for major modernization investment. Carriages were replaced, ventilation was improved, and the main depot was also renovated and fitted with connecting tracks to replace the outdated crane transfer mechanism. The subway in its present form reopened for operation in April 1980. Since its relaunch, the subway has seen a revival in its fortunes. It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city center. In 1996, the system reached an important milestone—100 years. To commemorate this special event, the color scheme of the train carriages was updated.
+[p32] 译文：直到 1977 年，新运营商将其关闭以进行重大现代化投资之前，它的运行几乎没有发生任何进一步的变化。更换了车厢，改善了通风，主仓库也进行了翻新，并安装了连接轨道，以取代过时的起重机转移机构。目前的地铁于 1980 年 4 月重新开放运营。自重新启用以来，地铁的命运开始复苏。它是其他交通方式的可行替代方案，在缓解市中心交通拥堵方面发挥了很大作用。 1996 年，该系统迎来了一个重要的里程碑——100 周年。为了纪念这一特殊事件，火车车厢的配色方案进行了更新。
+
+[p33] 原文：Recently, high-tech systems such as smart card ticketing machines and smart gates are used across all subway stations. The smart card provides more convenient travel and passengers simply top up their cards and tap them to get in and out the subway. Since its launch, the technology has been adopted by more than 100,000 subway customers.
+[p33] 译文：近年来，智能卡售票机、智能闸机等高科技系统已在所有地铁站使用。智能卡让出行更加便捷，乘客只需充值刷卡即可进出地铁。自推出以来，该技术已被超过10万地铁客户采用。
+
+讲座一
+
+[p34] 原文：If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or campground bears above all else. Bears are the most popular animals in a number of our national parks. In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer. Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans. Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds. They give the garbage cans a frequent going over. An occasional offer of food from a park visitor, an illegal and dangerous practice, makes beggars of them. Bears are very often hungry and since they will feed on almost any kind of plant or animal, garbage is quite acceptable.
+[p34] 译文：如果您参观大烟山国家公园，您很可能首先会记住路边或露营地的熊。熊是我们许多国家公园中最受欢迎的动物。在这些山区，熊的数量达到数百只，夏季观察这些大型野生动物的机会很多。由于国家公园是野生动物保护区，不允许干扰本土动物，多年的保护已经消除了野熊对人类的恐惧。现在，许多熊不再依靠自己的资源谋生，而是在公园道路和露营地巡逻。他们经常检查垃圾桶。公园游客偶尔提供食物是一种非法且危险的做法，使它们成为乞丐。熊经常感到饥饿，并且由于它们几乎以任何种类的植物或动物为食，因此垃圾是完全可以接受的。
+
+[p35] 原文：Feeding them, however, represents misguided kindness because the bears come to expect such generosity from everyone and consequently, trouble could lie ahead. Park rules prohibit the feeding of bears. Violators are arrested. Every year, doctors who have offices near the park treat a number of cases of bear bites and bear scratches. Some of the accidents have come about in strange ways. One man was in the process of feeding two small cubs, when the mother bear appeared and insisted upon having some of the food. Shoving the big bear aside with one hand, the man continued feeding the cubs when suddenly he was struck a fierce blow in the face. A bear, prompted by the food that a lady kept offering to him, entered the car where the generous person was sitting. Her efforts to push the bear out of the car resulted in injuries. A man required medical attention after he applied a lighted cigarette to a bear's nose. Another man tried to boost a bear into the front seat of his car so that he might take a picture of a bear sitting beside his wife who was behind the wheel.
+[p35] 译文：然而，喂养它们却代表着一种被误导的善意，因为熊开始期望每个人都如此慷慨，因此，麻烦可能会随之而来。公园规定禁止喂熊。违法者被逮捕。每年，在公园附近设有办公室的医生都会治疗多起熊咬伤和熊抓伤病例。有些事故的发生方式很奇怪。一名男子正在喂养两只小熊，这时母熊出现并坚持要吃一些食物。男子一手将大熊推到一边，继续喂小熊，突然，他的脸上遭到了猛烈的一击。一只熊在一位女士不断提供给他的食物的驱使下，进入了这位慷慨之人所坐的汽车里。她努力将熊推出车外，结果导致熊受伤。一名男子将点燃的香烟放在熊的鼻子上，需要就医。另一名男子试图将一只熊推到他汽车的前座上，以便他可以给坐在方向盘后面的妻子旁边的一只熊拍照。
+
+[p36] 原文：Because bears prefer roads and campgrounds, the possibility of a hiker meeting up with a bear along park trails is small, but there's always that chance, for a bear seems to know if you are carrying a lunch or a candy bar. He may even insist on taking it.
+[p36] 译文：由于熊更喜欢道路和露营地，因此徒步旅行者在公园小径上遇到熊的可能性很小，但总有这种机会，因为熊似乎知道您是否携带午餐或糖果。他甚至可能坚持要接受它。
+
+讲座二
+
+[p37] 原文：Why do we form opinions or attitudes about someone or something without really knowing much about them? Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively. But letting the opinions of another person determine what our opinions will be is dangerous. Forming opinions about someone or something before really knowing them well is called prejudice. "Pre-" means before and "-judice" refers to judgment. Hence, prejudice means to judge before having adequate knowledge.
+[p37] 译文：为什么我们在没有真正了解某人或某事的情况下就对他们形成意见或态度？仅仅听到关于一个人、一个地方或一件事的好或坏就会对我们的看法产生积极或消极的影响。但让别人的意见决定我们的意见是危险的。在真正了解某人或某事之前就对其形成看法称为偏见。 “Pre-”是指之前，“-judice”是指判断。因此，偏见意味着在没有足够的知识之前就做出判断。
+
+[p38] 原文：We can be prejudiced toward or against someone or something. In either case, we are only allowing ourselves to see half of the picture. Very few people or things in this world are all good or all bad. Prejudiced attitudes are usually based on myths, half truths or incorrect information, and they are dangerous because they can keep us from learning the truth about someone or something. People form prejudices against others for many reasons—differences in their race, religion, gender or occupation. Prejudices keep people apart. They keep us from really knowing and understanding each other.
+[p38] 译文：我们可能会对某人或某事抱有偏见或反对。无论哪种情况，我们都只允许自己看到一半的图片。这个世界上很少有人或事都是好或都是坏的。偏见态度通常基于神话、半真半假或不正确的信息，它们很危险，因为它们会阻止我们了解某人或某事的真相。人们对他人形成偏见的原因有很多——种族、宗教、性别或职业的差异。偏见使人与人分离。它们使我们无法真正了解和理解彼此。
+
+[p39] 原文：We should feel proud of who we are and the group of people we represent. If feelings of pride begin to turn to feelings of superiority when we think that our group or our beliefs are better than those around us, however, then we begin to develop prejudiced attitudes that can be harmful. For example, the prejudiced attitudes of one group may keep another group from attending certain schools, from living in any neighborhood they want, or from getting a job or a promotion. Extreme feelings of prejudice have caused the deaths of innocent people. We are responsible for our own thoughts and opinions. When we let someone else tell us what to think about someone or something, we are giving up some control of our own lives.
+[p39] 译文：我们应该为我们是谁以及我们所代表的群体感到自豪。然而，如果当我们认为我们的群体或我们的信仰比周围的人更好时，自豪感开始转变为优越感，那么我们就会开始形成可能有害的偏见态度。例如，一个群体的偏见态度可能会阻止另一群体就读某些学校，无法住在他们想要的任何社区，或者无法找到工作或升职。极端的偏见情绪造成了无辜者的死亡。我们对自己的想法和意见负责。当我们让别人告诉我们如何看待某人或某事时，我们就放弃了对自己生活的一些控制。
+
+[p40] 原文：Before you form an attitude or opinion, find out for yourself about the person or the thing in question. Sometimes we don't realize that we hold prejudiced attitudes toward or against someone or something. We need to carefully examine our lives and our fears, and to ask ourselves whether our attitudes come from our personal knowledge and experience or from rumors and fear of the unknown. The good news about prejudice is that we are not born with it. Prejudiced attitudes and opinions develop over time. But with education and knowledge, we can replace our prejudices with cooperation and understanding.
+[p40] 译文：在形成态度或观点之前，请自己了解有关的人或事。有时我们没有意识到我们对某人或某事抱有偏见的态度。我们需要仔细审视我们的生活和我们的恐惧，并扪心自问，我们的态度是来自我们的个人知识和经验，还是来自谣言和对未知的恐惧。关于偏见的好消息是我们并非生来就有偏见。偏见的态度和观点随着时间的推移而形成。但通过教育和知识，我们可以用合作和理解来取代偏见。
+
+讲座三
+
+[p41] 原文：When I started high school, it was a shock. I had spent eight years fighting my way to be the most popular kid in the Catholic school student body. I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school. I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are. Rock and roll had always been an important part of my life. I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends. During those teenage years, I built friendships that I thought would last a lifetime. Most people that age think the same thing, but people drift apart. Jobs, families and tragedies separate people from those lasting friendships.
+[p41] 译文：当我开始上高中时，我感到震惊。我花了八年的时间努力成为天主教学校学生中最受欢迎的孩子。我曾经是一个高大、强硬的八年级学生，突然之间，我变成了一个孤独的九年级学生，被管理高中的高大、强硬的十二年级高年级生欺负。那时我意识到，为某件事而努力是件好事，但你也必须享受你所处的时刻，并为你所在的地方感到高兴。摇滚乐一直是我生活的重要组成部分。我记得我和我的朋友们常常开车到处听摇滚传奇的音乐直到深夜。在青少年时期，我建立了我认为会持续一生的友谊。大多数同龄人的想法都是一样的，但人们却渐行渐远。工作、家庭和悲剧使人们与那些持久的友谊分离。
+
+[p42] 原文：The tragedy that separated me from my friends forever was the Vietnam war. A year after I graduated from high school, I left for Vietnam. I came back, burned out, and tired, as though I had lived 10 lifetimes in the short span of 14 months, the 14 months I was in the war. I couldn't relate to the friends I had had in high school. They still seem childish, concerned with childish things that weren't important to me. I was still trying to cope with the death, destruction and evil I had seen in Vietnam. I felt like we had done terrible things to innocent people there and in turn, I had seen terrible things done to my friends.
+[p42] 译文：使我与朋友永远分离的悲剧是越南战争。高中毕业一年后，我前往越南。我回来时，精疲力竭，疲惫不堪，仿佛我在这短短的 14 个月里活了 10 辈子，而这 14 个月是我在战争中度过的。我无法与高中时的朋友建立联系。他们看起来仍然很幼稚，关心对我来说不重要的幼稚事情。我仍在努力应对我在越南看到的死亡、破坏和邪恶。我觉得我们对那里无辜的人做了可怕的事情，反过来，我也看到我的朋友们也做了可怕的事情。
+
+[p43] 原文：I withdrew for my friends and started college. Then I quit college and took many different jobs. I spent a lot of my time and money on alcohol and other drugs. Finally, in an effort to get my life going in the right direction again, I sold everything and took what little money I had and bought myself an airplane ticket to Israel. I went there to study history. While studying at Haifa University, I met my wife, who was also an American student.
+[p43] 译文：我为了朋友们退出并开始上大学。然后我从大学退学并从事了许多不同的工作。我花了很多时间和金钱在酒精和其他毒品上。最后，为了让我的生活重新回到正确的方向，我变卖了一切，用仅有的一点钱给自己买了一张飞往以色列的机票。我去那里学习历史。在海法大学学习期间，我认识了我的妻子，她也是一名美国学生。
+
+[p44] 原文：I now teach in a high school back in America. I look at my students and see them struggling with many of the very things I struggled with many years ago. As a teacher, I try to help them over the rough spots as best I can.
+[p44] 译文：我现在在美国的一所高中教书。我看着我的学生，看到他们正在为许多我多年前所困扰的事情而苦苦挣扎。作为一名老师，我会尽力帮助他们度过难关。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。

@@ -1,0 +1,168 @@
+英语六级_2024年6月_第二套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: I've just bought a new blender.
+[p0] 译文：男：我刚买了一台新搅拌机。
+
+[p1] 原文：W: What's that?
+[p1] 译文：女：那是什么？
+
+[p2] 原文：M: A blender, you know, a machine that blends food.
+[p2] 译文：男：搅拌机，你知道，一种搅拌食物的机器。
+
+[p3] 原文：W: Uh, yes, of course, the electric kitchen appliance.
+[p3] 译文：女：呃，是的，当然，厨房电器。
+
+[p4] 原文：M: Exactly, this one is state-of-the-art. I've been meaning to buy one for a while, and I did thorough research on which specific model to get. I read through maybe hundreds of online user reviews. Anyway, it's amazing.
+[p4] 译文：男：没错，这是最先进的。我想买一个已经有一段时间了，并且我对购买哪种特定型号进行了彻底的研究。我阅读了大约数百条在线用户评论。无论如何，这真是太神奇了。
+
+[p5] 原文：W: Really? What could be so special about it? I mean it's just a blender.
+[p5] 译文：女：真的吗？它有什么特别之处？我的意思是它只是一个搅拌机。
+
+[p6] 原文：M: Well, basically, it's just a very good one. It feels heavy and sturdy and well made. It also has lots of power and can easily cut and crush practically anything. This way, the soups and juices I make come out really fine and smooth, with no lumpy bits.
+[p6] 译文：男：嗯，基本上，这是一部非常好的作品。感觉又重又坚固，做工精良。它还具有强大的力量，可以轻松切割和压碎几乎任何东西。这样，我做的汤和果汁就非常细腻光滑，没有结块。
+
+[p7] 原文：W: Um, I see. I have never thought of getting one myself. It sounds like the kind of thing that, for me personally, I would rarely use.
+[p7] 译文：女：嗯，我明白了。我从来没有想过自己也能拥有一件。就我个人而言，这听起来像是一种很少使用的东西。
+
+[p8] 原文：M: I've never had one before, and now that I do, I use it all the time. I make a fresh fruit juice in the morning, maybe not every morning, but 3 or 4 times a week, and it feels fantastic. It's a really healthy habit.
+[p8] 译文：男：我以前从来没有用过，现在有了，我就一直用它。我早上会制作新鲜果汁，也许不是每天早上，但每周会制作 3 到 4 次，感觉棒极了。这是一个非常健康的习惯。
+
+[p9] 原文：W: I can imagine that must feel quite satisfying. I can picture you getting all creative in the kitchen and trying out a multitude of different ingredients, and it's obviously going to be healthier than buying packaged juice from a supermarket.
+[p9] 译文：女：我想这一定让人很满足。我可以想象你在厨房里发挥所有创意并尝试多种不同的食材，这显然比从超市购买包装果汁更健康。
+
+[p10] 原文：M: It's so much healthier. It's not even close. Did you know that store-bought juice is like 10% sugar?
+[p10] 译文：男：这样更健康。还差得很远。您知道商店买的果汁含 10% 的糖吗？
+
+[p11] 原文：W: Right, so then you bought it for the health benefits?
+[p11] 译文：女：对啊，那你买它是为了健康？
+
+[p12] 原文：M: Mostly yes. Basically, it allows me to have a more varied diet with a far wider assortment of nutrients, because it's not only fruit in my morning juices you see. I can also throw in vegetables, nuts, yogurts, cereals, anything that tickled my fancy.
+[p12] 译文：男：大部分是的。基本上，它让我能够拥有更多样化的饮食，含有更广泛的营养成分，因为你看到的我早上喝的果汁中不仅仅是水果。我还可以加入蔬菜、坚果、酸奶、麦片、任何我喜欢的东西。
+
+长对话二
+
+[p13] 原文：W: Today we have a very interesting guest. Mr. Thomas Benjamin Grimm, the mayor of Berkton, is here to talk about his job and responsibilities overseeing this charming village. Mr. Grimm, thank you for being here.
+[p13] 译文：女：今天我们有一位非常有趣的客人。伯克顿市长托马斯·本杰明·格里姆先生在此谈论他管理这个迷人村庄的工作和职责。格林先生，谢谢你来到这里。
+
+[p14] 原文：M: Thank you for having me.
+[p14] 译文：男：谢谢你邀请我。
+
+[p15] 原文：W: I'd like to start by stating the obvious. Berkton has become one of the most popular tourist destinations in the country, and this has happened under your watch. Just how did you achieve this?
+[p15] 译文：女：我想首先说明显而易见的事情。伯克顿已成为该国最受欢迎的旅游目的地之一，而这一切都是在您的见证下发生的。你是如何做到这一点的？
+
+[p16] 原文：M: The achievement belongs to all the residents of Berkton. It was a shared effort where everybody pitched in for the communal good.
+[p16] 译文：男：这个成就属于伯克顿的所有居民。这是一项共同的努力，每个人都为公共利益做出了贡献。
+
+[p17] 原文：W: But how did this change happen? In about 10 years, Berkton has gone from a relatively unheard of sleepy village to a must-see destination.
+[p17] 译文：女：但是这种变化是如何发生的呢？大约十年的时间里，伯克顿已经从一个相对闻所未闻的寂静村庄变成了一个必去的目的地。
+
+[p18] 原文：M: Yes, the change has truly been remarkable. Berkton was always fortunate to be endowed with such a beautiful natural allure. The Ambury Hills above the village remain untouched by human development, and the Sonora valley just below it is equally stunning. The transformation commenced in a town hall meeting in spring 2008 over 10 years ago now, when an overwhelming majority of neighbors voted in favor of "Motion 836". This legislative proposal essentially set out to harmonize the aesthetic appearance of all the houses in Berkton. The idea was that if all the properties looked a certain way with shared design features, then a village as a whole would look more beautiful. And it worked.
+[p18] 译文：男：是的，这个变化确实非常显着。伯克顿总是很幸运地拥有如此美丽的自然魅力。村庄上方的安伯里山仍未受到人类开发的影响，而其下方的索诺拉山谷同样令人惊叹。这一转变始于2008年春季的一次市政厅会议，距今已有十多年了，当时绝大多数邻居投票支持“836号动议”。这项立法提案本质上是为了协调伯克顿所有房屋的美学外观。我们的想法是，如果所有的房产看起来都具有共同的设计特征，那么整个村庄就会看起来更加美丽。它奏效了。
+
+[p19] 原文：W: It certainly did. I'm looking now at a before-and-after photo, and the change is truly remarkable. It's hard to believe it's the same place. And how do the neighbors feel now?
+[p19] 译文：女：确实如此。我现在正在看一张之前和之后的照片，变化确实是显着的。很难相信这是同一个地方。邻居们现在感觉如何？
+
+[p20] 原文：M: Great pride I would say.
+[p20] 译文：男：我会说非常自豪。
+
+[p21] 原文：W: But what about the multitudes of visitors now crowding the streets? Is everyone happy about that?
+[p21] 译文：女：但是现在街上挤满了大批游客怎么办？大家对此感到高兴吗？
+
+[p22] 原文：M: The tourists we receive are a blessing, as they have completely revitalized our local economy. Every visitor is warmly welcome.
+[p22] 译文：男：我们接待的游客是一件幸事，因为他们彻底振兴了我们当地的经济。热烈欢迎每一位来访者。
+
+短文一
+
+[p23] 原文：Researchers in the US have created a remote-controlled robot that is so small it can walk on the top of a US penny. In research published in the journal Science Robotics, a team at Northwestern University said the crab-like robot is 0.5mm wide. Researchers described it as the smallest ever remote-controlled walking robot.
+[p23] 译文：美国研究人员创造了一种遥控机器人，它很小，可以在一美分硬币的顶部行走。在《科学机器人》杂志上发表的研究中，西北大学的一个团队表示，这种类似螃蟹的机器人宽度为 0.5 毫米。研究人员将其描述为有史以来最小的遥控步行机器人。
+
+[p24] 原文：The tiny robot can bend, twist, crawl, walk, turn, and even jump without the use of complex hardware or special power. The engineers said this is because the robot is powered by the elastic property of its body. To construct the robot, the researchers used a shape memory alloy material that transforms to its "remembered" shape when heated.
+[p24] 译文：这种微型机器人可以弯曲、扭转、爬行、行走、转动，甚至跳跃，无需使用复杂的硬件或特殊动力。工程师们表示，这是因为机器人是由其身体的弹性特性提供动力的。为了构建机器人，研究人员使用了形状记忆合金材料，该材料在加热时会转变为“记忆”的形状。
+
+[p25] 原文：Using a laser, the team is able to heat the robot at specific parts of its body, causing it to change shape. As the robot deforms and goes back to its original shape, it creates movement from one place to another. "Because these structures are so tiny, the rate of cooling is very fast," project lead Professor John A. Rogers said.
+[p25] 译文：使用激光，该团队能够加热机器人身体的特定部位，使其改变形状。当机器人变形并恢复其原始形状时，它会产生从一个地方到另一个地方的运动。 “因为这些结构非常小，所以冷却速度非常快，”项目负责人约翰·A·罗杰斯教授说。
+
+[p26] 原文：In fact, reducing the sizes of these robots allows them to run faster. While the research is still in the exploratory phase, the team believes that technology could lead to micro-sized robots that can perform practical tasks in tightly confined spaces. "You might imagine microrobots as agents to repair or assemble small structures or machines in industry, or as surgical assistants to clear clogged arteries, to stop internal bleeding, or to eliminate cancerous tumors, all in minimally invasive procedures," Rogers said.
+[p26] 译文：事实上，减小这些机器人的尺寸可以让它们跑得更快。虽然该研究仍处于探索阶段，但该团队相信，这项技术可能会带来微型机器人，可以在狭窄的空间内执行实际任务。罗杰斯说：“你可能会把微型机器人想象成修复或组装工业中小型结构或机器的代理人，或者作为手术助手来清除堵塞的动脉、止住内出血或消除癌性肿瘤，所有这些都是在微创手术中进行的。”
+
+短文二
+
+[p27] 原文：I don't want to boast anything, but I have always considered myself something of an elite sleeper. Given the opportunity, I will sleep for marathon stretches, and can doze through the most extreme situations. On one very rough ferry crossing, on the route to the Isles of Scilly, for example, my traveling companion spent the entire 3-hour ride throwing up in the bathroom, while I dozed happily on a plastic chair.
+[p27] 译文：我不想夸耀什么，但我一直认为自己是一名精英睡眠者。如果有机会，我会在马拉松比赛中睡觉，并且可以在最极端的情况下打瞌睡。例如，在前往锡利群岛的一条非常崎岖的渡轮航线上，我的旅伴在整个 3 小时的旅程中都在浴室里呕吐，而我则高兴地在塑料椅子上打瞌睡。
+
+[p28] 原文：Unfortunately, it has come to my attention that I am not an elite sleeper after all. It seems I am just lazy, because elite sleepers are defined as the approximately 3 percent of the population who are biologically programmed to need less sleep than the rest of us. According to a study that came out in March, elite sleepers have rare genetic changes which means they can sleep fewer hours than mere mortals, without any risk of cognitive decline.
+[p28] 译文：不幸的是，我注意到我毕竟不是一个精英睡眠者。看来我只是懒惰，因为精英睡眠者被定义为大约 3% 的人口，他们在生物学上被编程为需要比我们其他人更少的睡眠。根据三月份发表的一项研究，精英睡眠者具有罕见的基因变化，这意味着他们可以比普通人睡更少的时间，而不会出现认知能力下降的风险。
+
+[p29] 原文：It may not be possible to change your own genes, but can you train yourself to need less sleep? Is there a non-biological way to reach elite sleeper status? I have spent the past year trying to answer that question. Not for fun, I should add, but because having a baby has severely disrupted my sleep, for which I still have a great passion.
+[p29] 译文：也许无法改变自己的基因，但你能训练自己减少睡眠吗？有没有一种非生物方法可以达到精英睡眠状态？过去一年我一直在试图回答这个问题。我应该补充一点，不是为了好玩，而是因为生孩子严重扰乱了我的睡眠，而我仍然对此充满热情。
+
+[p30] 原文：For a while, I assumed I'd be forced to become one of those people who jump out of bed at the crack of dawn. After a year of tough scientific study, however, I have discovered being forced to get up early in the morning is very different from being an early bird.
+[p30] 译文：有一段时间，我以为我将被迫成为那些在黎明时分从床上跳起来的人之一。然而，经过一年艰苦的科学研究，我发现被迫早起和早起的鸟儿有很大不同。
+
+讲座一
+
+[p31] 原文：If you read an article about a controversial issue, do you think you'd realize if it had changed your beliefs? No one knows your own mind like you do. It seems obvious that you would know if your beliefs had shifted. And yet, a new paper in the Quarterly Journal of Experimental Psychology suggests that we actually have very poor awareness of our own belief change, meaning that we will tend to underestimate how much we've been swayed by a convincing article.
+[p31] 译文：如果您阅读一篇有关有争议问题的文章，您是否认为您会意识到它是否改变了您的信念？没有人像你一样了解你自己的想法。很明显，如果你的信念发生了变化，你就会知道。然而，《实验心理学季刊》上的一篇新论文表明，我们实际上对自己的信念变化知之甚少，这意味着我们往往会低估一篇令人信服的文章对我们的影响有多大。
+
+[p32] 原文：The researchers recruited over 200 undergraduates across two studies and focused on their beliefs about whether physical punishment of kids is an effective form of discipline. The students reported their initial beliefs about whether physical punishment is an effective way to discipline a child on the scale from "1. Completely disbelieve" to "9. Completely believe".
+[p32] 译文：研究人员在两项研究中招募了 200 多名本科生，重点关注他们对孩子体罚是否是一种有效管教形式的看法。学生们从“1.完全不相信”到“9.完全相信”的范围内报告了他们对体罚是否是管教孩子的有效方法的初步看法。
+
+[p33] 原文：Several weeks later, they were given one of two research-based texts to read. Each was several pages long and either presented the arguments and data in favour of physical punishment or against it. After this, the students answered some questions to test their comprehension and memory of the text. Then, the students again scored their belief in whether physical punishment is effective or not. Finally, the researchers asked them to recall what their belief had been at the start of the study.
+[p33] 译文：几周后，他们获得了两本研究性文本中的一本供他们阅读。每篇都有好几页长，要么提出了支持体罚或反对体罚的论点和数据。随后，学生们回答了一些问题，以测试他们对课文的理解和记忆。然后，学生们再次对体罚是否有效的信念进行评分。最后，研究人员要求他们回忆研究开始时的信念。
+
+[p34] 原文：The students' belief about physical punishment changed when they read a text that argued against their own initial position. Crucially, the memory of their initial belief was shifted in the direction of their new belief. In fact, their memory was closer to their current belief than their original belief. The more their belief had changed, the larger this memory bias tended to be, suggesting the students were relying on their current belief to deduce their initial belief. The memory bias was unrelated to the measures of how well they'd understood or recalled the text, suggesting these factors didn't play a role in memory of initial belief or awareness of belief change.
+[p34] 译文：当学生们读到一篇反对他们最初立场的文章时，他们对体罚的看法发生了变化。至关重要的是，他们最初信仰的记忆转向了新信仰的方向。事实上，他们的记忆比他们原来的信念更接近他们当前的信念。他们的信念改变得越多，这种记忆偏差往往就越大，这表明学生们正在依靠他们当前的信念来推断他们最初的信念。记忆偏差与他们对文本的理解或回忆程度无关，这表明这些因素在最初信念的记忆或信念改变的意识中没有发挥作用。
+
+[p35] 原文：The researchers concede that this research was about changes to mostly moderate beliefs. It's likely the findings would be different in the context of changes to extreme or deeply held beliefs. However, our beliefs on most topics are in the moderate range, and as we go about our daily lives reading informative material, these intriguing findings suggest we are mostly ignorant of how what we just read has updated and altered our own position.
+[p35] 译文：研究人员承认，这项研究是关于改变大多数温和信念的。在极端或根深蒂固的信念发生变化的背景下，研究结果可能会有所不同。然而，我们对大多数主题的信念都处于中等范围，当我们在日常生活中阅读信息丰富的材料时，这些有趣的发现表明我们大多不知道我们刚刚阅读的内容如何更新和改变了我们自己的立场。
+
+讲座二
+
+[p36] 原文：As the American population grows, so does the number of American moms. But more than a century after Mother's Day became an official holiday, even as that number increases, the share of the American population who are mothers is at the lowest point in a quarter century.
+[p36] 译文：随着美国人口的增长，美国妈妈的数量也在增加。但在母亲节成为法定假日一个多世纪后，即使这一数字有所增加，美国母亲人口的比例仍处于四分之一个世纪以来的最低点。
+
+[p37] 原文：It's frequently noted that fertility rates are falling sharply in richer countries. But the less observed consequence of this trend is that a decline in births can also mean a decline in motherhood in general.
+[p37] 译文：人们经常注意到，富裕国家的生育率正在急剧下降。但这种趋势较少被观察到的后果是，出生率下降也可能意味着总体母性的下降。
+
+[p38] 原文：According to my analysis of data from the Census Bureau, the decline of American motherhood is real, occurring very quickly, and may continue for some time yet. Not only are moms making up less of the population, but their characteristics are changing too and in a way that might be linked to their proportional decline. Moms today tend to be older than in the past. Just looking at recent years, the change in age-specific birth rates has been drastic. In just the past few years, the peak childbearing age range for American women has advanced from that of 25~29 to that of 30~34.
+[p38] 译文：根据我对人口普查局数据的分析，美国母性的衰落是真实存在的，发生得非常快，而且可能会持续一段时间。不仅妈妈们在人口中所占的比例越来越少，而且她们的特征也在发生变化，这种变化可能与她们的比例下降有关。今天的妈妈们往往比过去更老。就近几年来看，分年龄出生率的变化非常剧烈。短短几年间，美国女性的生育高峰年龄已从25~29岁提前到30~34岁。
+
+[p39] 原文：Meanwhile, childbearing among women under 20 has fallen by half or more, while childbearing among women 35 and older is rising. One positive consequence of this age shift is that a larger proportion of new mothers are economically prepared to raise children. Less positively, however, many women find that, as they age, they can't have as many kids as they would like. Plus, having children later in life can increase the risk of health complications.
+[p39] 译文：与此同时，20岁以下女性的生育率下降了一半或更多，而35岁及以上女性的生育率正在上升。这一年龄转变的一个积极后果是，更大比例的新妈妈在经济上做好了养育孩子的准备。然而，不太积极的是，许多女性发现，随着年龄的增长，她们无法生育尽可能多的孩子。此外，晚育会增加出现健康并发症的风险。
+
+[p40] 原文：These finer points aside, one major consequence of the older mom's trend is that fewer years of a woman's life are spent as a mother. This means that, at any given time, a larger share of women and thus of the whole population, will report not having children in government surveys. In other words, later motherhood means less motherhood.
+[p40] 译文：撇开这些细节不谈，高龄妈妈趋势的一个主要后果是，女性一生中担任母亲的时间越来越少。这意味着，在任何特定时间，更大比例的女性以及整个人口中都会在政府调查中报告没有孩子。换句话说，较晚的母亲身份意味着较少的母亲身份。
+
+[p41] 原文：Even as motherhood rates decline, Mother's Day, of course, will endure. In fact, despite the demographic shift, retail spending on the holiday appears to be rising. It is hard to say if Mother's Day spending is rising more than one would expect, given that the American population keeps growing. But one factor might be that the proportion of women who are the mothers of adult children is rising and those adult children may spend more generously when it comes to celebrating the moms they no longer live with.
+[p41] 译文：即使孕产率下降，母亲节当然也会持续下去。事实上，尽管人口结构发生变化，节日期间的零售支出似乎仍在上升。鉴于美国人口不断增长，很难说母亲节支出的增长是否超出人们的预期。但一个因素可能是，作为成年子女母亲的女性比例正在上升，而这些成年子女在庆祝不再与他们住在一起的母亲时可能会更加慷慨。
+
+讲座三
+
+[p42] 原文：Since NASA published a paper in 1989 claiming that house plants can soak up pollution and toxic chemicals, businesses and homeowners have increasingly invested in greenery to help clean their air. But a new analysis suggests it could actually take more than 1,000 plants per square meter to gain a benefit any greater than simply opening a couple of windows.
+[p42] 译文：自从 NASA 于 1989 年发表论文声称室内植物可以吸收污染和有毒化学物质以来，企业和房主越来越多地投资于绿化，以帮助清洁空气。但一项新的分析表明，实际上每平方米种植 1,000 多株植物才能获得比简单打开几扇窗户更大的效益。
+
+[p43] 原文：The problem lies in the fact that NASA conducted their tests in sealed containers that do not simulate the conditions in most people's homes or offices. The space agency was primarily concerned about keeping the air fresh for astronauts cut off in biospheres or space stations, and helping to combat "sick building syndrome" which had become a problem due to the super-insulated and energy-efficient offices of the late 1970s.
+[p43] 译文：问题在于，美国宇航局在密封容器中进行了测试，而这些容器并不能模拟大多数人的家庭或办公室的条件。该航天局主要关心的是为生物圈或空间站中与外界隔绝的宇航员保持新鲜空气，并帮助对抗“病态建筑综合症”，该综合症由于 20 世纪 70 年代末的超隔热和节能办公室而成为一个问题。
+
+[p44] 原文：By the early 1980s, workers regularly complained of skin rashes, sleepiness, headaches, and allergies as they breathed in toxic chemicals from paints and plastics. NASA found that certain plants could remove chemicals from the air, and even today garden centers recommend the plants for air cleaning properties.
+[p44] 译文：到 20 世纪 80 年代初，工人们经常抱怨因吸入油漆和塑料中的有毒化学物质而出现皮疹、嗜睡、头痛和过敏。美国宇航局发现某些植物可以去除空气中的化学物质，即使在今天，园艺中心仍推荐这些植物具有净化空气的功效。
+
+[p45] 原文：However, a new evaluation of dozens of studies spanning 30 years found that house plants in a normal environment have little impact. In fact, natural ventilation is far better at cleaning the air. The researchers also calculated the clean air delivery rate for plants in the studies they analyzed and found that the rate at which plants disperse the compounds was well below the usual rate of air exchange in a normal building, caused by the movement of people coming and going, opening doors and windows.
+[p45] 译文：然而，对跨越 30 年的数十项研究进行的新评估发现，正常环境中的室内植物几乎没有影响。事实上，自然通风在清洁空气方面要好得多。研究人员还在他们分析的研究中计算了植物的清洁空气输送率，发现植物分散化合物的速率远低于正常建筑物中由人们进出、打开门窗的运动引起的通常空气交换速率。
+
+[p46] 原文：Many of the studies did show a reduction in the concentration of volatile organic compounds over time, which is likely why people have seized on them to praise the air purifying virtues of plants. But the researchers' calculations showed it would take 10 to 1,000 plants per square meter of floor space to compete with the air cleaning capacity of a building's air handling system or even just a couple of open windows in a house.
+[p46] 译文：许多研究确实表明，随着时间的推移，挥发性有机化合物的浓度会降低，这可能就是人们利用它们来赞扬植物净化空气的优点的原因。但研究人员的计算表明，每平方米的建筑面积需要10到1,000株植物才能与建筑物的空气处理系统甚至房屋中的几扇打开的窗户的空气净化能力相竞争。
+
+[p47] 原文：In contrast, NASA's sealed experiment recommended one pot plant per 100 square feet. This is certainly an example of how scientific findings can be misleading or misinterpreted over time. But it's also a great example of how scientific research should continually re-examine and question findings to get closer to the ground truth of understanding what's actually happening.
+[p47] 译文：相比之下，NASA 的密封实验建议每 100 平方英尺种植一盆植物。这无疑是科学发现如何随着时间的推移而产生误导或误解的一个例子。但这也是一个很好的例子，说明科学研究应该如何不断地重新审视和质疑研究结果，以更接近理解实际发生的事情的真相。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。

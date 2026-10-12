@@ -1,0 +1,165 @@
+英语六级_2019年12月_第二套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: Excuse me, where is your rock music section?
+[p0] 译文：男：请问你们的摇滚音乐区在哪里？
+
+[p1] 原文：W: Rock music? I'm sorry, we're a jazz store. We don't have any rock and roll.
+[p1] 译文：女：摇滚乐？抱歉，我们是一家爵士乐店。我们没有摇滚乐。
+
+[p2] 原文：M: Oh, you only have jazz music? Nothing else?
+[p2] 译文：男：哦，你们只有爵士乐吗？没有别的事吗？
+
+[p3] 原文：W: That's right. We're the only record store in London dedicated exclusively to jazz. Actually, we're more than just a record store. We have a café and library upstairs and a ticket office down the hall, where you can buy tickets to all the major jazz concerts in the city. Also, we have our own studio next door, where we produce albums for up-and-coming artists. We are committed to fostering new music talent.
+[p3] 译文：女：是的。我们是伦敦唯一一家专门销售爵士乐的唱片店。事实上，我们不仅仅是一家唱片店。我们楼上有一家咖啡馆和图书馆，大厅下有一个售票处，您可以在那里购买城里所有主要爵士音乐会的门票。此外，我们在隔壁还有自己的工作室，为崭露头角的艺术家制作专辑。我们致力于培养新的音乐人才。
+
+[p4] 原文：M: Wow! That's so cool. I guess there's not much of a jazz scene anymore, not like they used to be. But here you're trying to promote this great music genre.
+[p4] 译文：男：哇！太酷了。我想爵士乐场景已经不多了，不像以前那样了。但在这里你正试图推广这种伟大的音乐流派。
+
+[p5] 原文：W: Yes, indeed. Nowadays, most people like to listen to pop and rock music. Hip hop music from America is also getting more and more popular. So as a result, there are fewer listeners of jazz, which is a great shame because it's an incredibly rich genre. But that's not to say there isn't any good new jazz music being made out there anymore — far from it. It's just a much smaller market today.
+[p5] 译文：女：是的，确实如此。如今，大多数人喜欢听流行音乐和摇滚音乐。来自美国的嘻哈音乐也越来越受欢迎。因此，爵士乐的听众越来越少，这是一个巨大的耻辱，因为它是一种极其丰富的流派。但这并不是说不再有任何优秀的新爵士音乐出现——事实远非如此。今天它的市场要小得多。
+
+[p6] 原文：M: So how would you define jazz?
+[p6] 译文：男：那么您如何定义爵士乐呢？
+
+[p7] 原文：W: Well, interestingly enough, there's no agreed-upon definition of jazz. Indeed, there are many different styles of jazz. Some have singing, but most don't. Some are electric and some aren't. Some contain live experimentation, but not always. While there's no simple definition for it, and while there are many different styles of jazz, you simply know it when you hear it. Honestly, the only way to know what jazz is, is listen to it yourself. As the great trumpet player, Louis Armstrong said, "If you gotta ask, you'll never know."
+[p7] 译文：女：嗯，有趣的是，对于爵士乐并没有一致的定义。事实上，爵士乐有许多不同的风格。有些人会唱歌，但大多数人不会。有些是电动的，有些不是。有些包含现场实验，但并非总是如此。虽然它没有简单的定义，而且爵士乐有许多不同的风格，但当你听到它时你就会知道它。老实说，了解什么是爵士乐的唯一方法就是亲自聆听。作为伟大的小号演奏家，路易斯·阿姆斯特朗说过：“如果你问，你永远不会知道。”
+
+长对话二
+
+[p8] 原文：M: How did it go at the bank this morning?
+[p8] 译文：男：今天早上银行怎么样？
+
+[p9] 原文：W: Not well, my proposal was rejected.
+[p9] 译文：女：不好，我的提议被拒绝了。
+
+[p10] 原文：M: Really? But why?
+[p10] 译文：男：真的吗？但为什么？
+
+[p11] 原文：W: Bunch of reasons. For starters, they said my credit history was not good enough.
+[p11] 译文：女：有很多原因。首先，他们说我的信用记录不够好。
+
+[p12] 原文：M: Did they say how you could improve that?
+[p12] 译文：男：他们有没有说你可以如何改进？
+
+[p13] 原文：W: Yes, they said that after five more years of paying my mortgage, then I would become a more viable candidate for a business loan. But right now, it's too risky for them to lend me money. They fear I will default on any business loan I'm given.
+[p13] 译文：女：是的，他们说，再支付五年抵押贷款后，我将成为更可行的商业贷款候选人。但现在他们借钱给我风险太大了。他们担心我会拖欠我获得的任何商业贷款。
+
+[p14] 原文：M: Well, that doesn't sound fair. Your business idea is amazing. Did you show them your business plan? What did they say?
+[p14] 译文：男：嗯，这听起来不公平。你的经营理念太棒了。你向他们展示了你的商业计划吗？他们说什么？
+
+[p15] 原文：W: They didn't really articulate any position regarding the actual business plan. They simply looked at my credit history and determined it was not good enough. They said the bank has strict guidelines and requirements as to who they can lend money to. And I simply don't meet their financial threshold.
+[p15] 译文：女：他们并没有真正阐明有关实际商业计划的任何立场。他们只是查看了我的信用记录并确定它不够好。他们表示，银行对于贷款对象有严格的指导方针和要求。而我根本达不到他们的财务门槛。
+
+[p16] 原文：M: What if you ask for a smaller amount? Maybe you could gather capital from other sources. Smaller loans from more lenders?
+[p16] 译文：男：如果你要求少一点怎么办？也许你可以从其他来源筹集资金。来自更多贷方的小额贷款？
+
+[p17] 原文：W: You don't get it. It doesn't matter the size of the loan I ask for, or the type of business I propose. That's all inconsequential. The first thing every bank will do is study how much money I have and how much debt I have before they decide whether or not to lend me any more money. If I want to continue ahead with this dream of owning my own business, I have no other choice but to build up my own finances. I need around 20% more in personal savings and 50% less debt. That's all there is to it.
+[p17] 译文：女：你不明白。我申请的贷款规模或我提议的业务类型并不重要。这都是无关紧要的事。每家银行首先要做的就是研究我有多少钱，我有多少债务，然后再决定是否再借给我钱。如果我想继续实现拥有自己企业的梦想，我别无选择，只能建立自己的财务状况。我需要增加 20% 左右的个人储蓄，并减少 50% 的债务。这就是全部内容了。
+
+[p18] 原文：M: I see now. Well, it's a huge pity that they rejected your request, but don't lose hope. I still think that your idea is great and that you would turn it into a phenomenal success.
+[p18] 译文：男：我现在明白了。嗯，很遗憾他们拒绝​​了你的请求，但不要失去希望。我仍然认为你的想法很棒，你会把它变成巨大的成功。
+
+短文一
+
+[p19] 原文：There's a lot about Leo Sanchez and his farm in Salinas, California that seems unusual. The national average farm size is around 440 acres, but his is only one acre. The average age of farmers hovers around 58 years old, but he is just 26.
+[p19] 译文：利奥·桑切斯和他位于加利福尼亚州萨利纳斯的农场有很多看起来不寻常的地方。全国平均农场面积在440英亩左右，而他只有一英亩。农民的平均年龄徘徊在58岁左右，而他只有26岁。
+
+[p20] 原文：And Sanchez constantly attempts to improve everything from seeding techniques out in the field to the promotion and sale of his produce online. This is evidence of an experimental approach. It's an approach not dictated by the confines of conventional, large-scale agriculture led by international corporations.
+[p20] 译文：桑切斯不断尝试改进一切，从田间播种技术到在线推广和销售他的产品。这是实验方法的证据。这种方法不受国际公司主导的传统大规模农业的限制。
+
+[p21] 原文：While farming is often difficult for both the body and mind, Sanchez says he and many of his fellow young farmers are motivated by desire to set a new standard for agriculture.
+[p21] 译文：桑切斯说，虽然农业对身体和精神来说往往都很困难，但他和许多年轻农民的愿望激励着为农业设定新标准。
+
+[p22] 原文：Many of them are employing a multitude of technologies, some new and some not so new. Recently, Sanchez bought a hand-operated tool which pulls out weeds and loosens soil. It actually dates back to at least 1701. It stands in sharp contrast to Sanchez's other gadget, a gas-powered flame weedkiller invented in 1997. He simply doesn't discriminate when it comes to the newness of tools. If it works, it works.
+[p22] 译文：他们中的许多人正在采用多种技术，有些是新技术，有些不是那么新。最近，桑切斯购买了一种手动工具，可以拔除杂草并松土。它的历史至少可以追溯到 1701 年。它与桑切斯的另一件小玩意形成鲜明对比，后者是 1997 年发明的燃气火焰除草机。在谈到工具的新颖性时，他根本不加区别。如果有效，那就有效。
+
+[p23] 原文：Farmers have a long history of invention, and it's no different today. Young farmers are guided by their love for agriculture and aided by their knowledge of technology. To find inexpensive and appropriately sized tools, they collaborate and innovate. Sometimes the old stuff just works better or more efficiently.
+[p23] 译文：农民的发明历史悠久，今天也不例外。年轻农民以对农业的热爱为指导，并以技术知识为帮助。为了找到廉价且尺寸合适的工具，他们进行协作和创新。有时旧的东西只是工作得更好或更有效。
+
+短文二
+
+[p24] 原文：Eat Grub is Britain's first new food company that breaks western food boundaries by introducing edible insects as a new source of food. And Sainsbury's is the first UK supermarket to stock the company's crunchy roasted crickets. Sainsbury's insists that such food is no joke and could be a new, sustainable source of protein.
+[p24] 译文：Eat Grub 是英国第一家新食品公司，通过引入可食用昆虫作为新的食物来源，打破了西方食品的界限。 Sainsbury's 是英国第一家供应该公司脆脆烤蟋蟀的超市。塞恩斯伯里坚持认为，这种食物不是开玩笑，可能是一种新的、可持续的蛋白质来源。
+
+[p25] 原文：Out of curiosity, I paid a visit to Sainsbury's. As I put my hand into a packet of crickets with their tiny eyes and legs, the idea of one going in my mouth made me feel a little sick. But the first bite was a pleasant surprise. A little dry and lacking of taste, but at least a wing didn't get stuck in my throat.
+[p25] 译文：出于好奇，我参观了塞恩斯伯里百货公司。当我把手伸进一包蟋蟀的小眼睛和小腿时，一想到蟋蟀会进入我的嘴，我就感到有点恶心。但第一口却是一个惊喜。有点干，没什么味道，但至少翅膀没有卡在我的喉咙里。
+
+[p26] 原文：The roasted seasoning largely overpowered any other flavour, although there was slightly bitter aftertaste. The texture was crunchy, but smelt a little of cat food.
+[p26] 译文：烤调味料在很大程度上压倒了任何其他味道，尽管余味略带苦味。口感松脆，但闻起来有一点猫粮的味道。
+
+[p27] 原文：Eat Grub also recommends the crickets as a topping for noodles, soups and salads. The company boasts that its dried crickets contain more protein than beef, chicken and pork, as well as minerals like iron and calcium.
+[p27] 译文：Eat Grub 还推荐将蟋蟀作为面条、汤和沙拉的配料。该公司声称其干蟋蟀含有比牛肉、鸡肉和猪肉更多的蛋白质，以及铁和钙等矿物质。
+
+[p28] 原文：Unlike the production of meat, bugs do not use up large amounts of land, water or feed. And insect farming also produces far fewer greenhouse gases. However, despite 2 billion people worldwide already supplementing their diet with insects, "consumer disgust" remains a large barrier in many Western countries. I'm not sure bugs will become a popular snack anytime soon, but they're definitely food for thought.
+[p28] 译文：与肉类生产不同，昆虫不会消耗大量土地、水或饲料。昆虫养殖产生的温室气体也少得多。然而，尽管全世界有 20 亿人已经在饮食中添加昆虫，但“消费者厌恶”仍然是许多西方国家的一大障碍。我不确定虫子会很快成为一种流行的零食，但它们绝对值得深思。
+
+讲座一
+
+[p29] 原文：Have you ever had someone try to explain something to you a dozen times with no luck — but, then, when you see a picture, the idea finally clicks? If that sounds familiar, maybe you might consider yourself a visual learner. Or if reading or listening does the trick, maybe you feel like you're a verbal learner. We call these labels learning styles, but is there really a way to categorize different types of students? Well, it actually seems that multiple presentation formats, especially if one of them is visual, help most people learn.
+[p29] 译文：你是否曾经遇到过有人试图向你解释某件事十几次但没有成功的经历——但是，当你看到一张图片时，这个想法终于灵光一现？如果这听起来很熟悉，也许您可​​能会认为自己是视觉学习者。或者，如果阅读或听力能起到作用，也许你会觉得自己是一个语言学习者。我们将这些标签称为学习风格，但真的有办法对不同类型的学生进行分类吗？嗯，实际上，多种演示格式，尤其是其中一种是视觉的，可以帮助大多数人学习。
+
+[p30] 原文：When psychologists and educators test for learning styles, they're trying to figure out whether these are inherent traits that affect how well students learn, instead of just a preference. Usually they start by giving a survey to figure out what style a student favors, like visual or verbal learning. Then, they try to teach the students something with a specific presentation style, like using visual aids, and do a follow-up test to see how much they learned. That way, the researchers can see if the self-identified verbal learners really learned better when the information was just spoken aloud, for example.
+[p30] 译文：当心理学家和教育工作者测试学习风格时，他们试图弄清楚这些是否是影响学生学习效果的固有特征，而不仅仅是一种偏好。通常，他们首先进行一项调查，以确定学生喜欢哪种风格，例如视觉学习或口头学习。然后，他们尝试用特定的演示风格教学生一些东西，例如使用视觉教具，并进行后续测试以了解他们学到了多少。这样，研究人员就可以了解，例如，当信息只是大声说出时，自我认定的语言学习者是否真的学得更好。
+
+[p31] 原文：But, according to a 2008 review, only one study that followed this design found that students actually learned best with their preferred style. But the study had some big flaws. The researchers excluded two-thirds of the original participants because they didn't seem to have any clear learning style from the survey at the beginning. And, they didn't even report the actual test scores in the final paper. So it doesn't really seem like learning styles are an inherent trait that we all have. But, that doesn't mean that all students will do amazingly if they just spend all their time reading from a textbook.
+[p31] 译文：但是，根据 2008 年的一项评论，只有一项遵循这种设计的研究发现，学生实际上以自己喜欢的方式学得最好。但这项研究存在一些重大缺陷。研究人员排除了三分之二的原始参与者，因为从一开始的调查来看，他们似乎没有任何明确的学习风格。而且，他们甚至没有在期末试卷中报告实际的考试成绩。因此，学习风格似乎并不是我们所有人都具有的固有特征。但是，这并不意味着如果所有学生只花所有时间阅读教科书，他们都会取得惊人的成绩。
+
+[p32] 原文：Instead, most people seem to learn better if they're taught in several ways — especially if one is visual. In one study, researchers tested whether students remembered lists of words better if they heard them, saw them, or both. And everyone seemed to do better if they got to see the words in print, even the self-identified auditory learners. Their preference didn't seem to matter. Similar studies tested whether students learned basic physics and chemistry concepts better by reading plain text or viewing pictures, too. And everyone did better with the help of pictures.
+[p32] 译文：相反，如果以多种方式进行教学，大多数人似乎会学得更好——尤其是视觉教学。在一项研究中，研究人员测试了学生在听到、看到或两者兼而有之时是否能更好地记住单词列表。如果每个人都能看到印刷的文字，那么他们似乎都会做得更好，即使是那些自我认定的听觉学习者。他们的偏好似乎并不重要。类似的研究也测试了学生是否可以通过阅读纯文本或查看图片更好地学习基本的物理和化学概念。每个人都在图片的帮助下做得更好。
+
+讲座二
+
+[p33] 原文：Free market capitalism hasn't freed us; it has trapped us. It's imperative for us to embrace a workplace revolution. We are unlikely to spend our last moments regretting that we didn't spend enough of our lives slaving away at work. We may instead find ourselves feeling guilty about the time we didn't spend watching our children grow, or with our loved ones, or travelling, or on the cultural or leisure pursuits that bring us happiness.
+[p33] 译文：自由市场资本主义并没有解放我们；而是解放了我们。它困住了我们。我们必须拥抱工作场所革命。我们不太可能在生命的最后时刻后悔自己没有在工作上投入足够的时间。相反，我们可能会发现自己感到内疚，因为我们没有花时间看着我们的孩子成长，或者与我们所爱的人在一起，或者旅行，或者没有花在给我们带来快乐的文化或休闲追求上。
+
+[p34] 原文：Unfortunately, the average full-time employee in the world works 42 hours a week, well over a third of the time we're awake. Some of our all too precious time is being stolen. Office workers do around two billion hours of unpaid overtime each year. So it's extremely welcome that some government coalitions have started looking into potentially cutting the working week to four days.
+[p34] 译文：不幸的是，世界上全职员工平均每周工作 42 小时，远远超过我们清醒时间的三分之一。我们一些非常宝贵的时间被偷走了。办公室工作人员每年大约有 20 亿小时的无薪加班。因此，一些政府联盟已经开始考虑将每周工作时间减少到四天，这是非常受欢迎的。
+
+[p35] 原文：The champions of free market capitalism promised their way of life would bring us freedom. But it wasn't freedom at all: from the lack of secure, affordable housing to growing job insecurity and rising personal debt, the individual is trapped. Nine decades ago, leading economists predicted that technological advances and rising productivity would mean that we'd be working a 15-hour week by now: that target has been somewhat missed.
+[p35] 译文：自由市场资本主义的拥护者承诺他们的生活方式将为我们带来自由。但这根本不是自由：从缺乏安全、负担得起的住房到日益严重的工作不安全感和不断增加的个人债务，个人陷入了困境。九个十年前，领先的经济学家预测，技术进步和生产率提高将意味着我们现在每周工作 15 小时：但这个目标在某种程度上已经实现了。
+
+[p36] 原文：Here is the most malignant threat to our personal freedom, particularly as the balance of power in the workplace has been shifted so dramatically from worker to boss. A huge portion of our lives involves the surrender of our freedom and personal autonomy. It's time in which we are directed by the needs and desires of others, and denied the right to make our own choices. That's bad for us: it's hardly surprising that over half a million workers suffer from work-related mental health conditions each year, or that 15.4 million working days were lost to work-related stress last year, a jump of nearly a quarter.
+[p36] 译文：这是对我们个人自由最严重的威胁，尤其是在工作场所的权力平衡已从工人急剧转移到老板的情况下。我们生活的很大一部分涉及放弃自由和个人自主权。是时候我们被他人的需求和欲望所引导，而被剥夺了自己做出选择的权利。这对我们不利：每年有超过 50 万工人患有与工作相关的心理健康问题，或者去年因工作压力而损失了 1,540 万个工作日，这一数字猛增了近四分之一，这并不奇怪。
+
+[p37] 原文：Yes, there are those who, far from being overworked, actually seek more hours. But a shorter working week would enable us to redistribute hours from the overworked to the underworked. We need to look at ways of cutting the working week without slashing living standards: after all, the world's workers have already suffered the worst deduction in wages since the early 1800s. And cutting the working week would be conducive to the individual, giving millions of workers more time to spend as they see fit.
+[p37] 译文：是的，有些人非但没有过度劳累，反而寻求更多的工作时间。但缩短每周工作时间将使我们能够重新分配工作时间，从工作过度的人到工作不足的人。我们需要寻找在不降低生活水平的情况下缩短工作时间的方法：毕竟，世界工人已经遭受了自 1800 年代初以来最严重的工资扣除。缩短工作周时间将有利于个人，让数百万工人有更多的时间来度过他们认为合适的时光。
+
+讲座三
+
+[p38] 原文：Today I'm going to talk about Germany's dream airport in Berlin. The airport looks exactly like every other major modern airport in Europe, except for one big problem: more than seven years after it was originally supposed to open, it still stands empty.
+[p38] 译文：今天我要谈谈德国梦想中的柏林机场。该机场看起来与欧洲其他所有主要现代机场一模一样，但有一个大问题：原定开放七年多后，它仍然空着。
+
+[p39] 原文：Germany is known for its efficiency and refined engineering, but when it comes to its new ghost airport, this reputation could not be further from the truth. Plagued by long delays, perpetual mismanagement and ever-soaring costs, the airport has become something of a joke among Germans — and a source of frustration for local politicians, business leaders and residents alike.
+[p39] 译文：德国以其高效和精致的工程而闻名，但当谈到其新的幽灵机场时，这种声誉与事实相去甚远。由于长期延误、长期管理不善和成本不断飙升，该机场已成为德国人的笑柄，也是当地政客、商界领袖和居民沮丧的根源。
+
+[p40] 原文：Planning for the new airport began in 1989. At the time, it became clear that the newly-reunified Berlin would need a modern airport with far greater capacity than its existing airports. The city broke ground on the new airport in 2006.
+[p40] 译文：新机场的规划始于 1989 年。当时，人们清楚地认识到，新统一的柏林需要一座容量远远大于现有机场的现代化机场。 2006年，该市新机场破土动工。
+
+[p41] 原文：The first major sign of problems came in summer 2010, when the construction corporation pushed the opening from October 2011 to June 2012. In 2012, the city planned an opening ceremony. But less than a month beforehand, inspectors found significant problems with the fire safety system and pushed the opening back again to 2013.
+[p41] 译文：问题的第一个重大迹象出现在 2010 年夏季，当时建筑公司将开业时间从 2011 年 10 月推迟到 2012 年 6 月。2012 年，该市计划举行开业仪式。但不到一个月前，检查人员发现消防安全系统存在重大问题，并将开放时间再次推迟到2013年。
+
+[p42] 原文：It wasn't just the smoke system: many other major problems subsequently emerged. More than 90 metres of cable were incorrectly installed; 4,000 doors were wrongly numbered; escalators were too short. And there was a shortage of check-in desks.
+[p42] 译文：不仅仅是排烟系统：随后出现了许多其他重大问题。 90多米电缆错误安装； 4,000扇门被错误编号；自动扶梯太短了。而且办理登机手续的柜台也很短缺。
+
+[p43] 原文：So why, with so many problems discovered, didn't the airport corporation decide to give up on the project and start over? The reason is simple: people are often hesitant to terminate a project when they've already invested time or resources into it, even if it might make logical sense to do so.
+[p43] 译文：那么，在发现这么多问题的情况下，机场公司为什么不决定放弃该项目并重新开始呢？原因很简单：当人们已经投入了时间或资源时，人们常常会犹豫是否要终止一个项目，即使这样做在逻辑上是有意义的。
+
+[p44] 原文：The longer the delays continued, the more problems inspectors found. Leadership of the planning corporation has changed hands nearly as many times as the opening date has been pushed back. Initially, rather than appointing a general contractor to run the project, the corporation decided to manage it themselves despite lack of experience with an undertaking of that scale.
+[p44] 译文：延误持续的时间越长，检查人员发现的问题就越多。规划公司领导层的易手次数几乎与开业日期被推迟的次数一样多。最初，该公司没有任命总承包商来运营该项目，而是决定自行管理该项目，尽管缺乏如此规模的项目经验。
+
+[p45] 原文：To compound the delays, the unused airport is resulting in massive costs. Every month it remains unopened costs between 9 million and 10 million euros.
+[p45] 译文：未使用的机场导致了巨大的成本，从而加剧了延误。每个月未开封的费用在 900 万至 1000 万欧元之间。
+
+[p46] 原文：Assuming all goes well, the airport should open in October 2020. But the still-empty airport stands as the biggest embarrassment to Germany's reputation for efficiency — and a continuing drain on city and state resources.
+[p46] 译文：假设一切顺利，该机场应于 2020 年 10 月开放。但这个仍然空荡荡的机场是德国效率声誉的最大耻辱，而且持续消耗城市和国家资源。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。

@@ -1,0 +1,195 @@
+英语六级_2025年6月_第一套
+英文原文／中文参考译文
+中文参考译文，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: Good morning! My name is Bob Fetterman. I'm the computer technician.
+[p0] 译文：男：早上好！我叫鲍勃·费特曼，是电脑维修技术员。
+
+[p1] 原文：W: Didn't I call for you last week?
+[p1] 译文：女：我不是上周就打电话请你们来了吗？
+
+[p2] 原文：M: Maybe, I work for Alpha Maintenance. I imagine someone from your office called our central office and I'm the engineer designated to your case.
+[p2] 译文：男：可能是。我在阿尔法维修公司工作。我想是你们办公室有人给我们总部打了电话，而我是被指派处理你们这次故障的工程师。
+
+[p3] 原文：W: Yeah, I spoke to a lady there last Tuesday, which is now ten days ago. I made it clear it was an urgent matter and please send someone as soon as possible. Couldn't you or someone else have come sooner?
+[p3] 译文：女：是的，上周二我和你们那里的一位女士通过电话，到现在已经十天了。我明确说过这件事很紧急，请你们尽快派人来。你或者其他人就不能早点来吗？
+
+[p4] 原文：M: I'm sorry but I'm not in charge of scheduling or logistics. I simply do not know. All I can tell you is I got the call this week and came as soon as I could.
+[p4] 译文：男：很抱歉，但我不负责安排人员或后勤事务，所以确实不知道。我只能告诉你，我这周接到了通知，并且已经尽可能快地赶来了。
+
+[p5] 原文：W: I see. Well, I'll have you know, my manager is rather indignant that it's taking you this long to come. I understand that it might not be your fault, but nevertheless, you should know what the feeling is around here.
+[p5] 译文：女：明白了。不过我得告诉你，你们过了这么久才来，我的经理相当生气。我理解这可能不是你的错，但无论如何，你应该知道我们这里的人是什么感受。
+
+[p6] 原文：M: I understand and I'm sorry for any inconvenience. I'll try to resolve your computer problem as swiftly and optimally as I can. What and where is the issue?
+[p6] 译文：男：我理解，也为造成的不便感到抱歉。我会尽可能迅速、妥善地解决你们的电脑问题。出了什么问题，是哪台电脑？
+
+[p7] 原文：W: It's this machine right here. It was running slow for a while, I guess, and gradually got worse and worse. Last Tuesday, it just stopped working altogether. If you switch it on, you will see what I mean.
+[p7] 译文：女：就是这台。我想它之前有一段时间运行很慢，后来越来越糟。到了上周二，它干脆完全不工作了。你开机看看，就知道我的意思了。
+
+[p8] 原文：M: Okay. Do you know if it's backed up?
+[p8] 译文：男：好的。你知道它有没有做过备份吗？
+
+[p9] 原文：W: Backed up?
+[p9] 译文：女：备份？
+
+[p10] 原文：M: I mean do you know if its contents have been copied and saved somewhere else.
+[p10] 译文：男：我的意思是，你知道里面的内容有没有复制下来，保存在其他地方吗？
+
+[p11] 原文：W: I don't know.
+[p11] 译文：女：我不知道。
+
+[p12] 原文：M: Well, depending on the ensuing operative scenario, if I need to wipe the system directories clean in order to reconfigure default protocols, then my first intervention should be to intricately retrieve all inventories that I can. Otherwise, all data that was stored on its hard drive will be forever lost.
+[p12] 译文：男：嗯，这要看接下来实际操作时的情况。如果我需要清空系统目录来重新配置默认设置，那么第一步就应该尽可能细致地恢复、提取所有能找回的文件。否则，原来保存在硬盘上的全部数据都会永久丢失。
+
+[p13] 原文：W: My manager would know. Let me go get him.
+[p13] 译文：女：我的经理应该知道。我去叫他过来。
+
+长对话二
+
+[p14] 原文：M: Have you given more thoughts to studying law?
+[p14] 译文：男：关于学法律这件事，你有没有再认真考虑一下？
+
+[p15] 原文：W: I've been thinking about it a lot. Yes. In fact, this is why I wished to speak to you. I wanted to hear more about what it's like.
+[p15] 译文：女：我最近想了很多。是的，其实这就是我想和你聊聊的原因。我想多了解一下这一行到底是什么样的。
+
+[p16] 原文：M: A career in law is a beautiful thing, in my opinion. Many people will say it's a boring field, but I disagree. The thing is, there are many different branches of law and many different jobs.
+[p16] 译文：男：在我看来，从事法律工作是一件很美好的事。很多人会说这一领域很无聊，但我不同意。关键在于，法律有许多不同分支，也有各种不同的工作。
+
+[p17] 原文：W: You are involved with buildings and construction, right?
+[p17] 译文：女：你的工作和房屋、建筑有关，对吗？
+
+[p18] 原文：M: Correct. I'm a solicitor specializing in real estate. Most of my work involves mediating land disputes.
+[p18] 译文：男：没错。我是一名专门从事房地产法律事务的律师。我的大部分工作都涉及调解土地纠纷。
+
+[p19] 原文：W: Do you mind giving me an example?
+[p19] 译文：女：你能给我举个例子吗？
+
+[p20] 原文：M: Sure. So in many cases, I am employed to arbitrate between two clashing parties. Let's say, for example, there are two landowners who are in a thorny disagreement about something like the borders of their adjacent plots. Someone may employ me to break the deadlock and resolve the dispute. Often my work involves negotiating agreements, plain and simple.
+[p20] 译文：男：当然。很多时候，人们会雇我来为发生冲突的双方进行仲裁。比如，两位土地所有者可能就相邻地块的边界之类的问题产生了棘手的分歧。这时可能有人聘请我来打破僵局、解决纠纷。通常我的工作说白了就是协商达成协议。
+
+[p21] 原文：W: So you are saying that a lot of what you do is fix people's legal issues like you try to find a solution that benefits everyone and that prevents a problem from escalating.
+[p21] 译文：女：所以你的意思是，你做的很多事情都是解决人们的法律问题，比如努力找到一个对各方都有利的方案，避免问题进一步升级。
+
+[p22] 原文：M: Exactly. Well put. You need to remember that courts — like all bureaucracies, really — can be very messy, frustrating and expensive. For this reason, it's usually better to resolve problems outside of court whenever possible.
+[p22] 译文：男：完全正确，你说得很好。你要记住，法院其实和所有官僚机构一样，可能非常复杂混乱，让人烦恼，费用也很高。因此，只要有可能，通常最好在法庭之外解决问题。
+
+[p23] 原文：W: I see. So besides knowing the law inside out, you need good people skills, right?
+[p23] 译文：女：明白了。所以除了对法律了如指掌，你还需要善于与人打交道，对吗？
+
+[p24] 原文：M: Of course, any job that involves people requires good interpersonal skills, and any law professional needs to be very eloquent at articulating their argument.
+[p24] 译文：男：当然。任何涉及与人相处的工作都需要良好的人际交往能力，而任何法律专业人士都必须善于清楚、有说服力地表达自己的论点。
+
+[p25] 原文：W: Right. So I've been thinking about studying criminal law. I think it sounds very interesting.
+[p25] 译文：女：对。我一直在考虑学刑法，觉得听起来很有意思。
+
+[p26] 原文：M: Hmm, yes. I'd say there's more money in property law, but the stakes are higher in criminal law. I can see how you would find it more interesting.
+[p26] 译文：男：嗯，是的。我会说房地产法可能更赚钱，但刑法涉及的利害关系更重大。我能理解你为什么觉得刑法更有意思。
+
+短文一
+
+[p27] 原文：When a person tries to access a memory, their brains quickly examine everything stored in it to find the relevant information. But as we age, many of us have difficulty retrieving memories.
+[p27] 译文：当一个人试图提取某段记忆时，大脑会迅速检查其中储存的各种内容，以找到相关信息。但是，随着年龄增长，很多人在提取记忆时会遇到困难。
+
+[p28] 原文：In a review published in the journal Trends in Cognitive Sciences on February 11, researchers propose an explanation for why this might be happening: the brains of older adults allocate more space to accumulated knowledge and have more material to navigate when attempting to access memories.
+[p28] 译文：在2月11日发表于《认知科学趋势》的一篇综述中，研究人员提出了对这一现象的解释：老年人的大脑为积累的知识分配了更多空间，因此在尝试提取记忆时，需要在更多材料中寻找。
+
+[p29] 原文：While this wealth of prior knowledge can make memory retrieval challenging, the researchers say it has its upsides — this life experience can aid with creativity and decision-making.
+[p29] 译文：研究人员说，虽然丰富的已有知识会让记忆提取变得困难，但它也有好处——这些人生经验有助于创造力和决策。
+
+[p30] 原文：Researchers Tarek Amer, Jordana Wynn and Lynn Hasher looked at several behavioral and brain imaging studies which show that older adults have difficulty suppressing information that is no longer relevant and that when searching for a specific memory, they often retrieve other irrelevant memories along with it. The studies also showed that when given a cognitive task, older adults rely more heavily on previous knowledge than younger adults do.
+[p30] 译文：研究人员塔雷克·阿梅尔、乔丹娜·温和琳恩·哈舍尔考察了多项行为与脑成像研究。这些研究表明，老年人难以抑制已经不再相关的信息；当他们搜索某个特定记忆时，常常也会同时提取出其他无关的记忆。研究还显示，面对认知任务时，老年人比年轻人更依赖已有知识。
+
+[p31] 原文：While the researchers focus primarily on the difficulties that these disorderly, crowded memories may pose, they also highlight a few situations in which these same memory patterns may be useful. "Evidence suggests that older adults show preserved, and at times enhanced, creativity as a function of enriched memories," the researchers write. They further hypothesize that older adults may be well served by their prior knowledge when it comes to decision-making, where they can pull on their accumulated wisdom.
+[p31] 译文：虽然研究人员主要关注这些杂乱、拥挤的记忆可能带来的困难，但他们也强调，在一些情境下，同样的记忆模式可能有用。他们写道：“证据表明，由于记忆更加丰富，老年人的创造力得以保留，有时甚至有所增强。”他们进一步推测，在作决策时，老年人可以调用长期积累的智慧，因此已有知识可能对他们大有帮助。
+
+短文二
+
+[p32] 原文：There are at least four major problems with work in America today.
+[p32] 译文：当今美国的工作至少存在四个主要问题。
+
+[p33] 原文：First, work can be alienating. Workers are often not in control of how they work, when they work, what is done with the goods and services they produce, and what is done with the profits made from their work.
+[p33] 译文：第一，工作可能使人产生疏离感。劳动者往往无法决定自己如何工作、何时工作，也无法决定自己生产的商品和提供的服务如何使用，以及劳动产生的利润如何分配。
+
+[p34] 原文：Second, workers are not paid the full value of their labor. Real wages have not kept pace with productivity, driving economic inequality and a decline in labor's share of income.
+[p34] 译文：第二，劳动者的报酬没有体现其劳动的全部价值。实际工资没有跟上生产率的增长，这加剧了经济不平等，也使劳动报酬在总收入中所占的份额下降。
+
+[p35] 原文：Third, people are time poor. In the U.S., full-time employees work an average of 8.72 hours per day, despite productivity increases. Long working hours contribute to the feeling of time poverty, which has an adverse effect on psychological well-being.
+[p35] 译文：第三，人们缺乏时间。在美国，即使生产率提高了，全职员工每天平均仍要工作8.72小时。长时间工作会加剧“时间贫困”的感受，对心理健康产生不利影响。
+
+[p36] 原文：Fourth, automation puts jobs and wages at risk. Technological innovation could in theory liberate people from the 40-hour workweek. But unless changes are made to the structure of work, automation will simply exert downward pressure on wages and further diminish work opportunities.
+[p36] 译文：第四，自动化使就业和工资面临风险。理论上，技术创新可以让人们摆脱每周工作40小时的制度。但如果不改变工作的组织结构，自动化只会压低工资，并进一步减少工作机会。
+
+[p37] 原文：So what can be done to alleviate these problems? There are competing visions of the best way to arrive at a solution. One vision is what's known as the "post-work" position. The post-work theorists believe that work should not hold a central position in our lives or take up so much of our time. They assert that although doing some work might be necessary, meaning, purpose and social value reside in the communities and relationships built and sustained outside of the workplace. Thus, life should be seen as an end in itself.
+[p37] 译文：那么，怎样才能缓解这些问题呢？对于最佳解决途径，人们有不同的设想。其中一种被称为“后工作”主张。支持这一主张的理论家认为，工作不应该占据生活的中心地位，也不应该耗费我们这么多时间。他们认为，虽然做一些工作可能是必要的，但生活的意义、目的和社会价值存在于工作场所以外建立并维系的社群与人际关系中。因此，生活本身就应被视为目的。
+
+讲座一
+
+[p38] 原文：Recent studies show that self-control and persistence increase academic outcomes independent of IQ. Even our personal beliefs about effort can affect academic outcomes. Children who think effort leads to achievement outperform those who believe ability is a fixed trait.
+[p38] 译文：最近的研究表明，自我控制和坚持不懈能够提高学业表现，这种作用独立于智商。甚至我们对于努力的个人信念也会影响学业表现。认为努力能带来成就的孩子，比认为能力是一种固定特质的孩子表现更好。
+
+[p39] 原文：Given the link between persistence and academic success, decisions about effort are particularly important in childhood. Yet relatively little research has explored how young children learn what's worth the effort.
+[p39] 译文：鉴于坚持与学业成功之间的联系，关于是否付出努力的决定在童年时期尤为重要。然而，探讨幼儿如何学会判断哪些事情值得努力的研究相对较少。
+
+[p40] 原文：We all know that infants are keen observers of the social world. But they're not just idly watching; they are tiny learning machines. They can generalize such abstract concepts as causal relationships and social roles from just a few examples. Even a 15-month-old infant can outperform a high-level computer in such tasks.
+[p40] 译文：我们都知道，婴儿是社会世界中敏锐的观察者。但他们并非只是无所事事地观看，而是小小的学习机器。他们只需观察几个例子，就能概括出因果关系、社会角色等抽象概念。即使是一个15个月大的婴儿，在这类任务中的表现也可能超过一台高性能计算机。
+
+[p41] 原文：Could infants also make broad, generalizable inferences from a few examples when it comes to effort? If so, then maybe persistence isn't simply a character trait. Maybe it's flexible and adaptable based on social context.
+[p41] 译文：在努力这件事上，婴儿是否也能仅凭几个例子，作出广泛且可推广的推断呢？如果能，那么坚持也许不仅仅是一种性格特征，而可能是灵活的、能够根据社会情境作出调整的。
+
+[p42] 原文：To explore this question, we showed 15-month-old babies one of two things: an experimenter working hard to achieve two different goals, or an experimenter who effortlessly reached each goal.
+[p42] 译文：为了探索这个问题，我们让15个月大的婴儿观看两种情况中的一种：实验人员为实现两个不同目标而努力，或者实验人员轻而易举地实现每个目标。
+
+[p43] 原文：Then we introduced the baby to a novel "music" toy that seemed as if it could be activated by pushing a big button on top. The button could be pressed down but didn't actually activate anything. Out of sight of the babies, we turned on the music toy with a hidden button so that they heard the toy making music. We gave the babies the music toy and left the room. Then analysts, who didn't know which condition each baby was in, watched videotapes of the experiment and counted how many times babies tried to activate the toy by pressing the button.
+[p43] 译文：然后，我们给婴儿看一个新颖的“音乐”玩具，看上去只要按下顶部的大按钮就能启动。这个按钮可以按下，但实际上不会启动任何东西。我们在婴儿看不到的地方，用一个隐藏按钮打开音乐玩具，让他们听到玩具发出的音乐。随后，我们把玩具交给婴儿并离开房间。分析人员并不知道每个婴儿观看过哪种情况，他们观看实验录像，统计婴儿为了启动玩具而按下按钮的次数。
+
+[p44] 原文：Across one study and a preregistered duplication, babies who had seen an adult persist and succeed pushed the button about twice as many times as those who saw an adult effortlessly succeed. In other words, babies learned that effort was valuable after watching just two examples of an adult working hard and succeeding.
+[p44] 译文：在一项研究及一次预先注册的重复研究中，看过成人坚持并成功的婴儿，按按钮的次数约为看过成人轻松成功的婴儿的两倍。换句话说，婴儿只观察了两个成人努力并成功的例子，就学会了努力是有价值的。
+
+[p45] 原文：Part of what's exciting about this finding is that the babies didn't just imitate the adult's actions; instead, they generalized the value of effort to a novel task. The experimenter never demonstrated pushing a button or trying to make music. Instead the babies learned from different examples of effortful actions that the new toy probably also required persistence.
+[p45] 译文：这个发现令人兴奋的一个原因是，婴儿并非只是模仿成人的动作，而是把努力的价值推广到了一个新任务中。实验人员从未示范过按按钮或尝试播放音乐。相反，婴儿从不同的努力行为示例中学到了：这个新玩具很可能同样需要坚持尝试。
+
+讲座二
+
+[p46] 原文：If chronic lateness has taken over your life and turned into a defining trait of who you are, it's likely that you're losing out on job offers, recreational opportunities, friendships and more. If you're showing up late to your own life, get organized, prioritize punctuality, and address any underlying causes.
+[p46] 译文：如果长期迟到已经控制了你的生活，并成为别人认识你时的一个显著特征，那么你很可能正在失去工作机会、娱乐机会、友谊以及更多东西。如果你总是在人生的各种事情上迟到，就要把事情安排好，把准时放在重要位置，并处理背后可能存在的原因。
+
+[p47] 原文：When you have to be somewhere, try to arrive 15 to 30 minutes before you need to. If you always run late, that means you must be failing to account for something you always do. Anticipate that by giving yourself extra time to arrive. Keep track of whether or not you actually do arrive early! You might find that leaving "early" gets you to places exactly on time.
+[p47] 译文：如果你必须到某个地方，试着比规定时间早15到30分钟到达。如果你总是迟到，说明你一定没有把某件经常要做的事情算进时间安排。提前考虑到这一点，给自己留出更多到达目的地的时间。记录一下自己是否真的提前到了！你可能会发现，所谓“提前”出发，实际上只是让你恰好准时到达。
+
+[p48] 原文：Set two alarms. Set one alarm that lets you know it's time to drop what you're doing, and a second alarm that means you need to walk out the door. Obey the alarms! As soon as the first alarm goes off, stop what you're doing. If it's something you'll be coming back to, like a project for work, make a note to remind yourself where you left off. Grab everything you need and make sure you know how to get where you're going. Aim to be out the door and on your way before the second alarm rings. This will only work if you take the alarms seriously, so make sure you react as soon as you hear them.
+[p48] 译文：设置两个闹钟。第一个提醒你该放下正在做的事，第二个提醒你该出门了。一定要听从闹钟的提醒！第一个闹钟一响，就停止手头的事情。如果这件事之后还要继续，比如一个工作项目，就写个便条提醒自己做到哪里了。拿好所需物品，确保知道怎样到达目的地。争取在第二个闹钟响之前就出门上路。只有认真对待闹钟，这个办法才有效，所以一定要在听到铃声时立即行动。
+
+[p49] 原文：Prepare for the day ahead. Have all of your notes and materials organized well in advance of each event so that all you have to do is grab them and go when it's the actual day. If mornings are a struggle for you, do as much as you can to ready yourself the night before: before you go to bed, lay out your clothes and pack your bag for the next day.
+[p49] 译文：为第二天做好准备。在每次活动前，提前把笔记和材料整理好，这样到了当天，只需拿上它们就能出发。如果你早上总是手忙脚乱，就在前一晚尽可能多做些准备：睡觉前，摆好第二天要穿的衣服，收拾好第二天要带的包。
+
+[p50] 原文：Learn to leave time in between tasks and meetings. It soon becomes unbearable to shift between one meeting and another without a space in between. If you overschedule yourself, however, you'll arrive late as soon as you hit a bump. As well as giving you space, this time also acts as a buffer between events which can be "borrowed" from should you be held up in a prior meeting, allowing you to still get to the next one on time. Calculate transit time between activities and then add 10 to 30 minutes for unexpected delays.
+[p50] 译文：学会在任务和会议之间留出时间。会议一个接一个、中间毫无空隙，很快就会令人难以承受。而如果日程安排得过满，只要遇到一点意外，你就会迟到。除了留出喘息空间，这段时间还可以充当活动之间的缓冲；如果上一场会议拖延了，就可以“借用”这段时间，让你仍能准时参加下一场。算出活动之间的交通时间，再额外增加10到30分钟，以应对意外延误。
+
+讲座三
+
+[p51] 原文：Do you think Bostonians put out the welcome mat? Do you find other cities to be more or less polite? Different cities have different feels for visitors. Some are friendly and open. Some are formal and distant. Boston tends to seem hurried and sometimes a little rude. That's what some tourists have said. One study found that people here are less willing to volunteer to help strangers than those residents of other U.S. cities.
+[p51] 译文：你认为波士顿人热情欢迎外来者吗？你觉得其他城市的人更有礼貌，还是更没礼貌？不同城市给游客的感觉各不相同。有的友好而开放，有的拘谨而疏远。波士顿往往显得匆忙，有时还有点粗鲁——这是一些游客的说法。一项研究发现，这里的人比美国其他城市的居民更不愿意主动帮助陌生人。
+
+[p52] 原文：Take a close look next time you're in Boston, and here are some of the things you'll probably see: people smoking in the subway stations despite the frequent reminders not to do so; pedestrians walking when the crosswalk lights say not to do so, ignoring the cars; car drivers speeding, making a loud noise with the horn, and occasionally cursing at each other; drivers who can't be bothered to find a place to park but instead simply turn on their blinker and stop in the middle of the street.
+[p52] 译文：下次你去波士顿时，不妨仔细观察。你很可能会看到这些情况：尽管经常有人提醒禁止吸烟，人们仍在地铁站里抽烟；行人无视汽车，在人行横道信号灯禁止通行时照样穿行；司机超速驾驶，大声鸣笛，有时还互相咒骂；还有一些司机懒得找停车位，直接打起转向灯，就把车停在街道中央。
+
+[p53] 原文：Sometimes Bostonians seem like they're just too busy to be polite. Why is the city like that? Former U.S. Representative Chester Atkins says it's because the Puritan Founding Fathers were themselves impatient and bad-tempered and had little time for courtesy. That culture has carried down to the present day, he believes.
+[p53] 译文：有时波士顿人似乎忙得顾不上礼貌。为什么这座城市会这样？前美国众议员切斯特·阿特金斯说，这是因为建立这座城市的清教徒先辈本来就没有耐心、脾气不好，也没有多少时间讲究礼节。他认为，这种文化一直延续到了今天。
+
+[p54] 原文：Boston College professor Thomas O'Connor thinks a contributing factor is Boston's history as a city where each new group of immigrants was treated with suspicion and exclusion. That's given Boston a sense of clannishness and reserve, he thinks. The idea of a stranger greeting another stranger is simply not part of the local culture, he says. People would begin a conversation with someone they know, but not with a stranger.
+[p54] 译文：波士顿学院教授托马斯·奥康纳认为，一个原因与波士顿的历史有关：每一批新移民都曾遭遇猜疑和排斥。他认为，这使波士顿形成了一种抱团、矜持的氛围。他说，陌生人向另一个陌生人打招呼，这种做法根本不属于当地文化。人们会和认识的人交谈，但不会主动和陌生人聊起来。
+
+[p55] 原文：Ralph Whitehead, a professor of journalism at the University of Massachusetts at Amherst, thinks it's because Boston's upper class used manners to make class distinctions by being snobbish about manners. Proper Bostonians made other people scornful of courtesy, he says.
+[p55] 译文：马萨诸塞大学阿默斯特分校新闻学教授拉尔夫·怀特黑德认为，这是因为波士顿上层社会对礼仪抱有势利的态度，并用它来区分阶层。他说，那些自诩举止得体的波士顿人，反而使其他人对礼节产生了轻蔑。
+
+[p56] 原文：Some say that's just the way Boston is and that the city will never change. Still, other cities with reputations for worse rudeness are trying hard to change their images. Paris is one example where people are trying to be friendly. New York City is another; there, the city is trying to persuade subway riders to be more considerate. If those cities can make the effort, maybe Boston should as well.
+[p56] 译文：有人说，波士顿就是这个样子，这座城市永远不会改变。不过，其他一些以更粗鲁著称的城市正在努力改变自己的形象。巴黎就是一个例子，人们正试着更友善一些。纽约也是如此；这座城市正努力劝说地铁乘客多为他人着想。如果这些城市都能努力，也许波士顿也应该这样做。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：本应用整理
+录音保留原始文件；译文为参考译文，非官方答案。

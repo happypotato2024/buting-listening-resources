@@ -1,0 +1,123 @@
+英语六级_2021年6月_第二套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: How are you enjoying your new job?
+[p0] 译文：男：你对新工作感觉如何？
+
+[p1] 原文：W: So far, so good. I don't miss having managers who deliver blunt, harsh feedback in the name of efficiency.
+[p1] 译文：女：到目前为止，一切都很好。我并不怀念那些以效率的名义提供直率、严厉反馈的经理。
+
+[p2] 原文：M: From the way you described your last company, no wonder they had a problem with high staff turnover.
+[p2] 译文：男：从您描述上一家公司的方式来看，难怪他们存在员工流动率高的问题。
+
+[p3] 原文：W: Yeah, I couldn't wait to get out of there once my contract expired. The problem with a company culture that prizes directness above all else is that it creates a toxic culture of brilliant jerks that drives people out and erodes itself from within.
+[p3] 译文：女：是的，合同一到期我就迫不及待地想离开那里。重视直接性高于一切的公司文化的问题在于，它创造了一种由才华横溢的混蛋组成的有毒文化，将人们赶出并从内部侵蚀自身。
+
+[p4] 原文：M: My company's managers tend to be accommodating and kind, overlooking mistakes or issues so as not to hurt feelings. Issues often get ignored there until they build up and reach a crisis point.
+[p4] 译文：男：我公司的经理往往都很包容和友善，会忽视错误或问题，以免伤害感情。问题往往会被忽视，直到问题逐渐累积并达到危机点。
+
+[p5] 原文：W: That's not surprising. My new company seems to employ a feedback policy that combines compassion and directness. Employees have the power to speak up, give feedback, disagree and discuss problems in real time. It seems to help us to course correct, improve and meet challenges, while also building teams that collaborate and care for one another.
+[p5] 译文：女：这并不奇怪。我的新公司似乎采用了一种结合了同情心和直接性的反馈政策。员工有权实时畅所欲言、提供反馈、提出异议和讨论问题。它似乎可以帮助我们纠正、改进和应对挑战，同时还能建立相互协作和互相关心的团队。
+
+[p6] 原文：M: But that would be based on an atmosphere of mutual trust, wouldn't it? Otherwise people might interpret feedback as some kind of personal attack.
+[p6] 译文：男：但这需要建立在相互信任的氛围之上，不是吗？否则，人们可能会将反馈解读为某种人身攻击。
+
+[p7] 原文：W: True. Without an atmosphere of trust, feedback can create stress and self-doubt. But I think when we get feedback from someone we trust, we understand that the feedback isn't some kind of personal attack. It's actually a kind of support, because it's offered in the spirit of helping us improve. I think sometimes people need to shift their mindsets around how they receive feedback.
+[p7] 译文：女：确实如此。如果没有信任的氛围，反馈就会产生压力和自我怀疑。但我认为，当我们从我们信任的人那里得到反馈时，我们明白该反馈并不是某种人身攻击。这实际上是一种支持，因为它是本着帮助我们进步的精神提供的。我认为有时人们需要围绕如何接收反馈转变思维方式。
+
+[p8] 原文：M: Yes. Constructive feedback, after all, is how we learn and grow. It's the basis for healthy parenting, lasting friendships, career development and so much more. If we shelter our children, friends and colleagues from information that might enrich and enhance their lives, we're not being caring. We're actually doing harm to them.
+[p8] 译文：男：是的。毕竟，建设性反馈是我们学习和成长的方式。它是健康养育、持久友谊、职业发展等等的基础。如果我们保护我们的孩子、朋友和同事免受可能丰富和改善他们生活的信息的影响，那么我们就不是在关心他们。我们实际上正在伤害他们。
+
+[p9] 原文：W: That's exactly right.
+[p9] 译文：女：完全正确。
+
+长对话二
+
+[p10] 原文：W: How was your holiday? Not too many other tourists around, were there?
+[p10] 译文：女：你的假期过得怎么样？周围没有太多其他游客，是吗？
+
+[p11] 原文：M: No, very few relatively. But I found myself moving from one accommodation to another, trying to find the perfect place. It made me realize that indecision is a big problem for me. Instead of relaxing, I was looking for the best spot.
+[p11] 译文：男：没有，相对来说很少。但我发现自己从一个住宿地搬到另一个住宿地，试图找到一个完美的地方。这让我意识到优柔寡断对我来说是一个大问题。我不是在放松，而是在寻找最好的地点。
+
+[p12] 原文：W: It seems you suffer from fear of better options. I've read about it. It describes this loop of indecision as part of our programming. Essentially, we have this tendency to keep stretching out the decision-making process, because as human beings, we are hard-wired to optimize. We have always looked to get the best things we can as a sort of survival of the fittest. Optimizing isn't the problem, but rather the process that we go through.
+[p12] 译文：女：看来你害怕有更好的选择。我读过相关内容。它将这种犹豫不决的循环描述为我们编程的一部分。从本质上讲，我们有这种不断延长决策过程的倾向，因为作为人类，我们生来就有优化的能力。我们总是寻求尽可能获得最好的东西，这是一种适者生存的方式。优化不是问题，而是我们经历的过程。
+
+[p13] 原文：M: Well, that makes me feel better. But I think thanks to technology, we can make comparisons more easily and have more access to choice and customization. We can now see what we could have, how we might get it, and what others have that we might want. We keep looking over and returning to the same options again and again.
+[p13] 译文：男：嗯，这让我感觉好多了。但我认为，借助技术，我们可以更轻松地进行比较，并有更多机会进行选择和定制。我们现在可以看到我们可以拥有什么、如何获得它以及其他人拥有什么我们可能想要的。我们不断地审视并一次又一次地返回相同的选项。
+
+[p14] 原文：W: Yes, fear of better options offers little benefit. It's an ailment of abundance. You must have choices to have that fear of missing out on better options.
+[p14] 译文：女：是的，对更好选择的恐惧几乎没有什么好处。这是一种丰富的疾病。你必须有选择，才能避免错过更好的选择。
+
+[p15] 原文：M: Yes. I need to note when I'm worrying about inconsequential things, I guess. If I'm spending too much time worrying over what to have for lunch, I'm robbing myself of the energy to focus on the things that matter.
+[p15] 译文：男：是的。我想，当我担心无关紧要的事情时，我需要注意一下。如果我花太多时间担心午餐吃什么，我就失去了专注于重要事情的精力。
+
+[p16] 原文：W: Exactly. But for more important matters, I think gut instinct might be overrated. When you have 30-odd options, trusting your gut is not practical. What you need to do is research, have a process, invest time exploring your options, and eliminate as many things as you can. The most toxic part of decision-making is going over the same options time and time again.
+[p16] 译文：女：没错。但对于更重要的事情，我认为直觉可能被高估了。当你有 30 多种选择时，相信自己的直觉是不切实际的。你需要做的是研究，制定一个流程，投入时间探索你的选择，并尽可能多地消除一些事情。决策中最有害的部分是一次又一次地考虑相同的选择。
+
+短文一
+
+[p17] 原文：The role of homework in classrooms is not a new debate. Many parents and teachers are ardent supporters of homework. But do all students benefit from homework? A 2006 research paper suggested some correlation between the amount of homework done by a student and future academic achievement for middle and high school students, but not so much for younger kids. A Stanford study in 2014 suggested that the same was true for students in California's affluent communities. The findings challenged the idea that homework was inherently good. The researchers concluded that there was an upper limit to the correlation between homework and achievement, suggesting that high school students shouldn't be doing more than two hours of homework a night. And the most valuable kind of homework for elementary-level children was simply assigned free reading.
+[p17] 译文：家庭作业在课堂中的作用并不是一个新的争论。许多家长和老师都是家庭作业的热心支持者。但所有学生都可以从家庭作业中受益吗？ 2006 年的一篇研究论文表明，对于中学生和高中生来说，学生完成的家庭作业量与未来的学业成绩之间存在一定的相关性，但对于年幼的孩子来说则不那么明显。斯坦福大学 2014 年的一项研究表明，加州富裕社区的学生也是如此。研究结果对“家庭作业本质上是好的”这一观点提出了挑战。研究人员得出的结论是，家庭作业和成绩之间的相关性存在上限，这表明高中生每晚的家庭作业不应超过两个小时。对于小学阶段的孩子来说，最有价值的家庭作业就是免费阅读。
+
+[p18] 原文：The topic gets more complicated when we talk about the divide between rural and urban communities. Studies found that in remote areas, the poor quality or lack of Internet access can put students at a disadvantage because 70% of teachers in these areas assign homework that requires Internet access. But one in three households doesn't have Internet. Experts assert homework requiring the Internet isn't fair. While the debate continues about the effect of homework on academic achievements, there are studies focusing on other benefits of homework. A study in Germany found that homework could have an effect on students' personalities, suggesting that doing homework might help kids to become more conscientious and independent learners.
+[p18] 译文：当我们谈论农村和城市社区之间的鸿沟时，这个话题变得更加复杂。研究发现，在偏远地区，网络质量差或缺乏互联网接入可能使学生处于不利地位，因为这些地区 70% 的教师布置的作业需要接入互联网。但三分之一的家庭没有互联网。专家断言需要互联网的家庭作业是不公平的。虽然关于家庭作业对学业成绩的影响的争论仍在继续，但也有研究关注家庭作业的其他好处。德国的一项研究发现，家庭作业可能会对学生的性格产生影响，这表明做家庭作业可能会帮助孩子成为更加认真和独立的学习者。
+
+短文二
+
+[p19] 原文：Robert Goddard, an American born in 1882, is widely regarded as the world's first rocket scientist. At age 27, Goddard published his first book, in which he hypothesized that a rocket launched from Earth could reach the moon. Like many visionaries, the young scientist encountered numerous skeptics. In January 1920, the New York Times ridiculed Goddard's theory that rockets could be utilized for space exploration. Forty-nine years later, Apollo 11 reached the moon, and the famed newspaper published an apology to Goddard.
+[p19] 译文：罗伯特·戈达德 (Robert Goddard) 出生于 1882 年，美国人，被广泛认为是世界上第一位火箭科学家。 27 岁时，戈达德出版了他的第一本书，其中他假设从地球发射的火箭可以到达月球。和许多有远见的人一样，这位年轻的科学家也遇到了许多怀疑论者。 1920年1月，《纽约时报》嘲笑戈达德关于火箭可用于太空探索的理论。四十九年后，阿波罗 11 号登上月球，这家著名的报纸发表了向戈达德道歉的文章。
+
+[p20] 原文：Goddard launched his first rocket from an aunt's farm in his native Massachusetts in March 1926. His maiden rocket voyage lasted a mere three seconds. It scaled an altitude of only 12 meters. Nonetheless, it was a milestone in rocket science. Goddard later consulted with a weather expert and determined that the climate of New Mexico was ideal for year-round rocket launches. In 1930, Goddard and his family relocated there, to a remote valley in the southwest of the country. There, he established a laboratory and test range.
+[p20] 译文：1926 年 3 月，戈达德在他的家乡马萨诸塞州一位姑妈的农场发射了他的第一枚火箭。他的首次火箭飞行只持续了三秒钟。它的海拔高度仅为12米。尽管如此，它仍然是火箭科学的一个里程碑。戈达德后来咨询了一位气象专家，并确定新墨西哥州的气候非常适合全年火箭发射。 1930 年，戈达德和他的家人搬到了该国西南部的一个偏远山谷。在那里，他建立了一个实验室和测试场。
+
+[p21] 原文：However, the ambitious scientist received negligible support from the government. For four years, wealthy businessman Daniel Guggenheim provided Goddard with an annual $25,000 grant to pursue his dreams. Other rocket enthusiasts also raised funds for him. Over time, Goddard's rockets grew more sophisticated and included the installation of instruments. In spite of his many successes, Goddard was never able to interest the U.S. military in rocket-propelled weapons. He was granted over 200 patents and continued to pioneer rocket technology until his death in 1945.
+[p21] 译文：然而，这位雄心勃勃的科学家从政府那里得到的支持却微乎其微。四年来，富有的商人丹尼尔·古根海姆每年向戈达德提供 25,000 美元的资助，以帮助他追求梦想。其他火箭爱好者也为他筹集资金。随着时间的推移，戈达德的火箭变得越来越复杂，并安装了仪器。尽管戈达德取得了许多成功，但他始终未能引起美国军方对火箭推进武器的兴趣。他获得了 200 多项专利，并继续开拓火箭技术，直至 1945 年去世。
+
+讲座一
+
+[p22] 原文：Working for a new venture comes with a lot of risks. There's instability, unclear responsibilities, and the need to be a master of all trades. But the primary benefit is usually the passion and excitement associated with playing a role in a promising new company. The person to thank for that passion and excitement is almost always the entrepreneur. There's something about the founder's energy and enthusiasm that infects the rest of the team. The willingness to take risks may inspire others to be more courageous. The optimism and positivity may motivate people to focus less on trivial and unimportant matters. The celebration of milestones may prompt staff to be more grateful about their own accomplishments and privileges. What becomes set in the firm's culture is a contagious collection of affirmative and positive emotions, which are usually shared among the team.
+[p22] 译文：为新企业工作会带来很多风险。这里存在不稳定、责任不明确以及需要成为所有行业的大师。但主要的好处通常是在一家有前途的新公司中发挥作用所带来的热情和兴奋。要感谢这种热情和兴奋的人几乎总是企业家。创始人的活力和热情感染了团队的其他成员。愿意承担风险可能会激励其他人变得更加勇敢。乐观和积极可能会促使人们减少对琐碎和不重要的事情的关注。庆祝里程碑可能会促使员工对自己的成就和特权更加感激。公司文化中形成的是一系列具有感染力的肯定和积极情绪，这些情绪通常在团队中共享。
+
+[p23] 原文：Science has already done a good job of proving the results that follow. These include better processes, greater team cohesion, reduced conflict, and sharper alertness. But what is yet to be demonstrated is whether the founder's passion leads to increased team performance. This was recently tested in research, which analyzed the teams of 73 new companies across a range of industries, such as IT, medicine, and energy. The CEOs were consulted once again years after the initial analysis, and most shared their firm's performance reports so that their success could be more objectively measured.
+[p23] 译文：科学已经很好地证明了接下来的结果。其中包括更好的流程、更强的团队凝聚力、减少冲突和更敏锐的警觉性。但还有待证明的是创始人的热情是否会带来团队绩效的提高。最近的研究对此进行了测试，该研究分析了 IT、医药和能源等一系列行业的 73 家新公司的团队。在最初的分析几年后，首席执行官们再次接受了咨询，大多数人分享了他们公司的业绩报告，以便更客观地衡量他们的成功。
+
+[p24] 原文：Entrepreneurial teams generally progress through three phases. The first is inventing a product or service. The second is founding the venture to sell that product or service. And the third is developing the firm so it continues to grow. The researchers discovered that when the team is passionate about the third phase, developing the firm, there's a clear link to performance. But the first phase, a passion for invention, is not a reliable indicator that the firm will still be open for business a few years later. Likewise, the second, a passion for founding the venture, doesn't necessarily translate into greater success. The solution to great team performance stems from a willingness to recruit others who could direct their passion towards the third phase of entrepreneurialism, developing the business. Employing more staff can in itself be a risk for an entrepreneur, as is paying them big dollars to attract them. On many occasions, the entrepreneurs reported not paying themselves a wage at all initially in order to cover salaries and expenses.
+[p24] 译文：创业团队的发展一般经历三个阶段。第一个是发明产品或服务。第二是建立一家企业来销售该产品或服务。第三是发展公司，使其不断发展。研究人员发现，当团队对第三阶段（即公司发展）充满热情时，与绩效之间存在明显的联系。但第一阶段，即对发明的热情，并不能可靠地表明该公司几年后仍将继续营业。同样，第二点，即对创办企业的热情，并不一定会转化为更大的成功。实现出色团队绩效的解决方案源于愿意招募能够将热情投入到创业精神第三阶段（即发展业务）的其他人。对于企业家来说，雇用更多员工本身就是一种风险，支付大笔资金来吸引他们也是如此。在很多情况下，企业家表示最初根本没有给自己支付工资，以支付工资和开支。
+
+讲座二
+
+[p25] 原文：Aging is a curious thing, and people's desire to beat it — and death — has become an industry worth hundreds of billions of dollars. Despite the huge investment into research, aging remains somewhat obscure, although there are certain things researchers do understand. They know that women tend to have longer lifespans, living on average six years longer than men. No one is really certain of the reason for this, although the speculation centers around the idea that women are more capable of surviving or handling disease than men. For virtually every disease, the effects are greater on men than they are on women. Some suggest that women's immune systems benefit from their tendency to prioritize and nurture social connections, but for me, this explanation is hardly convincing.
+[p25] 译文：衰老是一件奇怪的事情，人们战胜衰老和死亡的愿望已经成为一个价值数千亿美元的产业。尽管研究人员投入巨额资金，但衰老问题仍然有些模糊，尽管研究人员确实了解某些事情。他们知道女性的寿命往往更长，平均比男性长六年。没有人真正确定其中的原因，尽管猜测的核心是女性比男性更有能力生存或应对疾病。几乎每种疾病对男性的影响都大于对女性的影响。一些人认为，女性的免疫系统受益于她们优先考虑和培养社会关系的倾向，但对我来说，这种解释很难令人信服。
+
+[p26] 原文：Researchers also know, to an extent, what causes aging. For 60 years, it was believed that cells would continue to divide forever. It was only uncovered in relatively recent times that older people's cells divide a smaller number of times than younger people's. Only cancer cells, in fact, are capable of dividing forever. Human cells have a limited reproductive ability. To an extent, we can postpone the eventual stop of cells dividing through nutrition, exercise, good sleep, and even relaxation techniques. But we cannot stop the aging process.
+[p26] 译文：研究人员在某种程度上也知道导致衰老的原因。 60 年来，人们一直相信细胞会永远分裂。直到最近才发现，老年人的细胞分裂次数比年轻人的细胞少。事实上，只有癌细胞能够永远分裂。人类细胞的繁殖能力是有限的。在某种程度上，我们可以通过营养、锻炼、良好的睡眠，甚至放松技巧来推迟细胞分裂的最终停止。但我们无法阻止衰老过程。
+
+[p27] 原文：And researchers are yet to answer the ultimate question of aging. Why does the body ultimately fall to pieces? In the opinion of some of the world's best scientific minds on the subject, part of the reason we don't yet have an answer is because many researchers are looking in the wrong direction. Many public health policy makers believe that the resolution of age-associated disease will tell us something fundamental about the aging process. But, say some top scientists, that's completely erroneous. They point to when the diseases of childhood were eliminated, but this did not provide any insight into childhood development. In the same way, the idea that the resolution of age-associated disease like heart disease and stroke will inform us about aging is not based on sound science or logic. At best, if the major causes of death in developed countries were eliminated, this would only add a decade to average life expectancy. But while there is money available to be spent on it, the search to understand the secrets of aging will be ongoing.
+[p27] 译文：研究人员尚未回答衰老的终极问题。为什么身体最终会崩溃？在世界上一些关于这个问题的最优秀的科学头脑看来，我们还没有答案的部分原因是许多研究人员正在寻找错误的方向。许多公共卫生政策制定者认为，解决与年龄相关的疾病将告诉我们一些有关衰老过程的基本信息。但是，一些顶尖科学家说，这是完全错误的。他们指出了儿童时期的疾病何时被消除，但这并没有提供任何有关儿童发展的见解。同样，心脏病和中风等与年龄相关的疾病的解决将让我们了解衰老的想法也不是基于合理的科学或逻辑。如果消除发达国家的主要死亡原因，充其量也只会使平均预期寿命延长十年。尽管有足够的资金可以花在这上面，但对衰老秘密的探索仍将持续进行。
+
+讲座三
+
+[p28] 原文：Good afternoon. In today's talk, we will discuss how managers can get their staff to do what they are asked. Much to their frustration, managers often struggle to get their staff to comply with even simple instructions. Often they blame their employees. They don't read emails. They don't listen. They don't care. That kind of thing. But according to recent research conducted in Australia, it looks like it's not the employees' fault, but the managers'.
+[p28] 译文：下午好。在今天的演讲中，我们将讨论管理者如何让员工按照要求去做。令他们沮丧的是，管理者常常很难让员工遵守哪怕是简单的指示。他们常常责怪自己的员工。他们不阅读电子邮件。他们不听。他们不在乎。那种事。但根据澳大利亚最近进行的研究，这似乎不是员工的错，而是管理者的错。
+
+[p29] 原文：It's easy to understand why people sometimes disobey procedures intentionally. Occasionally, it's because they're pressured to finish in a short time. At other times, they may disagree with the spirit of the procedure, the effort demanded, the time consumed, the lack of potential effectiveness. And every now and then, they just don't want to, maybe deliberately or out of stubbornness.
+[p29] 译文：很容易理解为什么人们有时会故意违反程序。有时，这是因为他们被迫在短时间内完成。在其他时候，他们可能不同意程序的精神、所需的努力、消耗的时间、缺乏潜在的有效性。有时，他们只是不想这样做，也许是故意的，也许是出于固执。
+
+[p30] 原文：So apart from that, what else gets in the way of procedural compliance? The research scholars surveyed 152 blue-collar workers from two separate sites in the mining industry. They asked the workers a range of procedure-related questions, such as whether they found the procedures useful, how confident they felt in their job, how comfortable they were to speak up in the workplace, and how closely they followed any new procedures set by their managers. They were also asked to rate the extent to which they perceived their supervisors to be helpful.
+[p30] 译文：那么除此之外，还有什么阻碍程序合规性呢？研究学者对来自采矿业两个不同地点的 152 名蓝领工人进行了调查。他们向员工询问了一系列与程序相关的问题，例如他们是否认为这些程序有用、他们对工作的信心如何、他们在工作场所畅所欲言的程度如何，以及他们对经理制定的新程序的遵守程度如何。他们还被要求评价他们认为主管提供帮助的程度。
+
+[p31] 原文：That last statement was the most instructive because, as the researchers found, there was a remarkably strong correlation between how helpful supervisors were perceived to be and how likely their employees were to follow their directives. Supervisors' helping behavior was found to be motivational in nature. It increased employees' perception of the likelihood of success in the attainment of job goals and therefore fostered a willingness to dedicate their effort and ability to their work. In short, managers should be ongoing role models for the change. As the saying goes, do as I do, not as I say. To effect behavioral change, what's most required is interaction and involvement, the human touch. And naturally, processes that add value. Although procedures are designed to guide and support employees' work, employees, it seems, can't always be expected to comply with procedures that are not seen as useful.
+[p31] 译文：最后一句话最具启发性，因为正如研究人员发现的那样，主管被认为有多大帮助与员工遵守指示的可能性之间存在着非常强的相关性。研究发现，主管的帮助行为本质上是激励性的。它提高了员工对实现工作目标成功可能性的认识，从而培养了为工作奉献努力和能力的意愿。简而言之，管理者应该成为变革的持续榜样。俗话说，照我做的做，而不是照我说的做。为了实现行为改变，最需要的是互动和参与，即人情味。当然，还有增加价值的流程。尽管程序旨在指导和支持员工的工作，但似乎不能总是指望员工遵守那些被视为无用的程序。
+
+[p32] 原文：And, of course, managers shouldn't keep resending emails. They're an effective tool for the sharing of data and reports, but they're a hopeless tool if what a manager is desiring is a change in behavior.
+[p32] 译文：当然，管理者不应该不断地重新发送电子邮件。它们是共享数据和报告的有效工具，但如果管理者希望改变行为，那么它们就是一个无望的工具。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。

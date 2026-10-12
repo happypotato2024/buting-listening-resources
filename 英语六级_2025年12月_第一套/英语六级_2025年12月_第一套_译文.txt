@@ -1,0 +1,144 @@
+英语六级_2025年12月_第一套
+英文原文／中文参考译文
+中文参考译文，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：W: Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats. Welcome.
+[p0] 译文：女：今天的特别嘉宾是布莱克韦尔勋爵，他是我国经验最丰富、最杰出的职业外交官之一。欢迎您。
+
+[p1] 原文：M: It's my pleasure.
+[p1] 译文：男：很高兴来到这里。
+
+[p2] 原文：W: Our audience will be most interested in learning about a career in the foreign service. However, before we talk about that, I'd like to ask you about the current developments hitting the news today regarding the Republic of Winopia. What can you tell us?
+[p2] 译文：女：我们的观众一定很想了解外交工作的职业生涯。不过，在谈这个话题之前，我想先问问您，今天新闻里报道的维诺皮亚共和国的最新局势。您能向我们介绍些什么？
+
+[p3] 原文：M: I'm afraid I don't know much beyond what we've all seen on the news. It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy and an interim administration has been transitionally established until a head of state is agreed on. But my career work has mostly focused around the Continental spheres of Europe and the Americas, and thus I've never been involved with Winopian relations. It's for this reason that I don't know anything on this matter beyond what we can all read in the newspapers.
+[p3] 译文：男：恐怕除了大家从新闻中了解到的情况，我也知道得不多。看来维诺皮亚政府正经历某种合法性危机，目前已经暂时成立了过渡行政机构，直到各方就国家元首人选达成一致。不过，我的职业工作主要集中在欧洲和美洲，因此从未参与过与维诺皮亚有关的外交事务。也正因如此，关于这件事，我所知道的并不比大家能从报纸上看到的更多。
+
+[p4] 原文：W: Oh, I see.
+[p4] 译文：女：哦，我明白了。
+
+[p5] 原文：M: Nevertheless, be rest assured that our export envoys at our consulate there will be closely monitoring the situation and I expect our bilateral relations with that country will not be affected.
+[p5] 译文：男：不过，请放心，我们驻当地领事馆的使节会密切关注局势。我预计，我们与该国的双边关系不会受到影响。
+
+[p6] 原文：W: So how does one get a career in foreign relations?
+[p6] 译文：女：那么，怎样才能从事外交工作呢？
+
+[p7] 原文：M: There are many different paths one can take. All diplomats have their own story. But in my case, I got a degree in electrical engineering followed by six years' service in the Air Force. Then I went to a law school and upon obtaining a degree in international law, I joined the diplomatic core where I've been for 22 years.
+[p7] 译文：男：可以走的道路有很多。每位外交官都有自己的经历。就我而言，我先获得了电气工程学位，然后在空军服役六年。之后，我进入法学院，获得国际法学位后加入了外交队伍，至今已在那里工作了22年。
+
+[p8] 原文：W: What would you say are the key skills one needs for the job?
+[p8] 译文：女：您认为这份工作需要哪些关键技能？
+
+[p9] 原文：M: There are so many. Being a hard worker and good student is important—you never stop learning. In addition, a diplomat needs to be very articulate in their discourse and rhetoric. Whether it is diffusing tension or enacting policy, people and communication skills are vital.
+[p9] 译文：男：需要的技能太多了。勤奋工作、善于学习很重要——你永远不能停止学习。另外，外交官在言谈和措辞上必须善于清晰表达。无论是缓和紧张局势还是推行政策，人际交往和沟通能力都至关重要。
+
+长对话二
+
+[p10] 原文：M: It's getting late and we're both displaying signs of weariness. I think we should call it a day and meet again tomorrow morning.
+[p10] 译文：男：时间不早了，我们俩也都显得很疲惫。我想今天就到这里吧，明天早上再碰面。
+
+[p11] 原文：W: Oh, come on Jeff. We are so close. Don't you think we're almost done? Let's do two more hours, please.
+[p11] 译文：女：哎，杰夫，别这样。我们已经很接近完成了。你不觉得快做完了吗？拜托，再干两个小时吧。
+
+[p12] 原文：M: One hour, then I'm going home.
+[p12] 译文：男：一个小时，然后我就回家。
+
+[p13] 原文：W: OK, fine. I think we are making good progress and that with a few more amendments we will be all done.
+[p13] 译文：女：好吧，可以。我觉得我们进展不错，再修改几处就能全部完成了。
+
+[p14] 原文：M: I'm sure looking forward to it. I'm so tired of this project. Don't get me wrong—it's a great professional opportunity for me and a milestone for the company, but it's just been so long.
+[p14] 译文：男：我确实很期待完成。我对这个项目实在感到疲惫了。别误会——它对我来说是一个很好的职业机会，对公司而言也是一个里程碑，但它拖得太久了。
+
+[p15] 原文：W: Yeah, two months working on nothing but the same contract is a little tough. Nevertheless, I think that with a bit of luck we'll be done by next week.
+[p15] 译文：女：是啊，两个月来一直只做同一份合同，确实有点难熬。不过，我觉得如果运气不错，下周我们就能完成。
+
+[p16] 原文：M: Ha! You must be delusional.
+[p16] 译文：男：哈！你一定是在做白日梦。
+
+[p17] 原文：W: You don't think so?
+[p17] 译文：女：你不这么认为吗？
+
+[p18] 原文：M: No chance. Sections four, five, eight and nine still have to be aligned in the new framework. Then we need to proofread the whole thing and make sure all selling points are watertight.
+[p18] 译文：男：根本不可能。第四、第五、第八和第九部分还要在新框架下协调一致。然后我们得把整份文件校对一遍，确保所有卖点都无懈可击。
+
+[p19] 原文：W: But that will all take no more than a couple of days.
+[p19] 译文：女：但这些最多也就需要几天吧。
+
+[p20] 原文：M: I wasn't finished. When we are done with it and send it upstairs, what do you think will happen?
+[p20] 译文：男：我还没说完。等我们做完，把它交给上级之后，你觉得会发生什么？
+
+[p21] 原文：W: What?
+[p21] 译文：女：什么？
+
+[p22] 原文：M: They'll argue about it for like a month. There's always going to be the odd board member who intervenes and demands rectifications be made. They might think they're being helpful but in reality they're being obstructive and hampering progress.
+[p22] 译文：男：他们大概会为它争论一个月。总会有那么一两个董事插手，要求作出修改。他们可能觉得自己在帮忙，实际上却是在设置障碍、拖慢进度。
+
+[p23] 原文：W: Oh Jeff, you're too preoccupied and cynical. It won't be anywhere as bad as that. You'll see. The entire managerial hierarchy wants to see this project implemented as soon as possible and the board too is virtually unanimous in its support. Go on then, let's stop there and meet up again, same time tomorrow.
+[p23] 译文：女：哦，杰夫，你太忧心忡忡，也太悲观了。事情远不会像你说的那么糟。你会看到的。整个管理层都想尽快落实这个项目，董事会也几乎一致表示支持。好吧，那今天就到这里，明天同一时间再见。
+
+短文一
+
+[p24] 原文：One thing I’ve learned in a quarter century of management is that there are ample gray areas in human behavior and that there may not always be clear right-or-wrong solutions to employee disputes. When two people have different versions of the same event, it can be hard to know whom to believe. One such circumstance always comes back to me. It happened years ago and it’s a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution. Two talented young executives, one of whom I was managing, had vastly different accounts of the same event and it seemed likely we’d never get to the truth. We reached the deadlock. And the manager of the other individual said, “Here’s something I learned from an excellent manager I once worked for. He used to say, ‘when in doubt, assume positive intent.’” And just like that, we had a path forward.
+[p24] 译文：在长达四分之一世纪的管理工作中，我学到的一点是：人的行为有很多灰色地带，员工争执也不一定总有是非分明的解决办法。当两个人对同一事件的说法不同，就很难判断该相信谁。我总会想起这样一次经历。那是多年前的事了。这场冲突本身并不值得记住，以至于我现在连争执的起因都想不起来，但我清楚地记得它是怎么解决的。两名才华出众的年轻主管对同一事件的描述大相径庭，其中一人由我管理，我们似乎永远也无法弄清真相。我们陷入了僵局。另一人的经理说：“我曾经跟随一位优秀的经理工作，从他那里学到了一点。他常说：‘拿不准的时候，先假定对方出于善意。’”就这样，我们找到了继续前进的办法。
+
+[p25] 原文：My counterpart and I agreed we might never ascertain the actual facts of the matter. Quite likely there were elements of truth in both employees' stories. We agreed to monitor their actions and relationship going forward, but to intervene no further. We assumed the best about both of them and moved on. The result was that we were able to put the conflict behind us. In fact, their problems didn't recur. Over the years this general approach has proved useful. Whenever the truth is obscure, assuming positive intent and agreeing to move on can be a constructive decision.
+[p25] 译文：我和那位经理一致认为，我们可能永远无法确定事情的真实经过。很可能两位员工的叙述都包含一些事实。我们同意继续关注他们今后的行为和关系，但不再进一步干预。我们对两人都作了善意的理解，然后继续向前。结果，我们得以把这场冲突抛在身后。事实上，他们的问题也没有再次出现。多年来，这种总体思路被证明很有用。每当真相不明时，先假定对方出于善意，并同意向前看，可能是一个有建设性的决定。
+
+短文二
+
+[p26] 原文：For some Americans, going out to dinner is a treat, planned and budgeted for. For others, it's just a daily occurrence. And that second group of people is becoming the majority, as the number of Americans who enjoy cooking is declining. In the early 2000s, researcher Eddie Yoon conducted a survey to ascertain Americans' attitudes to cooking. The survey found that 15% of Americans loved to cook, 50% said they hated to cook and 35% reported mixed feelings. When Yoon conducted the same survey 15 years later, only 10% of respondents reported a love of cooking, 45% said they hated it, and 45% had mixed feelings. Yoon asserts cooking is akin to sewing. As recently as the early 20th century, many Americans sewed their own clothing. Today, the vast majority of Americans buy clothing; only a tiny minority still sew and they do it mainly as a hobby. Yoon believes the number of home cooks will diminish in a similar fashion.
+[p26] 译文：对一些美国人来说，出去吃晚餐是一种享受，需要提前计划并安排预算；对另一些人来说，这只是每天都会发生的事。随着喜欢做饭的美国人越来越少，第二类人正在成为多数。21世纪初，研究人员埃迪·尹进行了一项调查，了解美国人对做饭的态度。调查发现，15%的美国人喜欢做饭，50%表示讨厌做饭，35%则持有复杂的感受。15年后，尹再次进行同样的调查，只有10%的受访者表示喜欢做饭，45%说讨厌做饭，还有45%持有复杂感受。尹认为，做饭与缝纫很相似。直到20世纪初，许多美国人还会自己缝制衣服。如今，绝大多数美国人购买成衣；只有极少数人仍然缝纫，而且主要是把它当作爱好。尹认为，自己在家做饭的人也会以类似的方式减少。
+
+[p27] 原文：Currently, the average American household spends over $3,000 per year on dining out. However, what people save in convenience, they lose in cash. Take buying lunch on work days, for example. People spend on average $10 per meal when they buy lunch. Making your own lunch, meanwhile, will cost less. One survey found people only spend on average $6.30 when they bring lunch prepared at home. Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry. It's likely to detrimentally impact family finances as well.
+[p27] 译文：目前，美国家庭每年外出用餐的平均花费超过3000美元。然而，人们虽然省了事，却多花了钱。以工作日买午餐为例，人们购买午餐时平均每餐花10美元。相比之下，自己做午餐成本更低。一项调查发现，从家里带自制午餐的人平均只花6.30美元。美国人越来越不愿意花时间待在厨房，这意味着食品杂货行业将面临一系列挑战，也很可能对家庭财务状况产生不利影响。
+
+讲座一
+
+[p28] 原文：Every year, of the more than 2.5 billion bags checked onto flights worldwide, 26 million go missing. And of that 26 million, 1 million never make it back to their original owner. Bad weather and flight delays, miscoded destination tags, and some people simply forgetting to pick up one of their bags are a few of the reasons. But the number one reason a bag ends up lost is that it has no ID tag and airlines don't know to whom it belongs.
+[p28] 译文：每年，全球航班托运的行李超过25亿件，其中有2600万件会失踪。而在这2600万件中，有100万件最终再也没有回到原主人手中。恶劣天气和航班延误、目的地标签编码错误，以及有人忘记领取其中一件行李，都是原因之一。但行李最终丢失的首要原因是，它没有身份识别标签，航空公司不知道它属于谁。
+
+[p29] 原文：Transferring baggage from check-in to departure gates to arrival gates to baggage claim is a delicate piece of timing. If the system moves too slowly, the bags won't make connecting flights. If it's too fast, the bags may make the connection, but the passengers might miss the flight. Each airport has its own way of allotting how much time a bag needs to move in transit. Some airports have sophisticated automated systems, including scanners that read baggage labels, destination coded vehicles that load and unload the bags without stopping, and sorting machines that route baggage to the appropriate gate.
+[p29] 译文：把行李从值机处运到出发登机口，再运到到达登机口和行李领取处，需要精确安排时间。如果系统运行得太慢，行李就赶不上转机航班。如果太快，行李可能赶上了转机，乘客却可能错过航班。每个机场都有自己的办法，为行李转运分配所需时间。一些机场配备了先进的自动化系统，包括读取行李标签的扫描仪、带目的地编码且可以不停机装卸行李的运输设备，以及把行李送往相应登机口的分拣机器。
+
+[p30] 原文：Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name. Once a bag goes missing and the passenger files a claim, the bag is declared mishandled by the carrier. Mishandled refers to bags that have been delayed, lost, stolen or damaged. Most delayed bags are only one flight behind their owners and can be delivered within 24 hours. The other bags are examined by airline employees for clues to their ownership and destination. If the mystery is solved, those bags are returned to their owners within four or five days.
+[p30] 译文：即便如此，这些技术也未必能防止你的行李标签在传送带上被扯掉，让你的行李变成一件没有姓名标识的行李。一旦行李失踪，乘客提出索赔申请，承运方就会将其认定为处理不当的行李。“处理不当”包括行李延误、丢失、被盗或损坏。大多数延误行李只比主人晚一班航班，能在24小时内送达。其余行李则由航空公司员工检查，寻找有关主人和目的地的线索。如果查明了这些信息，行李就能在四五天内送回主人手中。
+
+[p31] 原文：Bags with no destination code or identification tag are shipped to a central warehouse and undergo a comprehensive baggage tracing process over the next 90 days. Airlines inventory their mishandled baggage, and many use a database to match the contents with owners' descriptions. It takes about three months to go from missing inaction to irretrievably lost. Once that happens, the bags are donated to charity, sold at auction, or purchased by a company which sells them to the public. So never pack anything of real value in your checked baggage and make sure your name is on the bag along with your phone number so an agent can contact you.
+[p31] 译文：没有目的地编码或身份标签的行李会被送往中央仓库，并在接下来的90天内接受全面的追查。航空公司会登记处理不当的行李，许多公司还使用数据库，将行李中的物品与失主的描述进行匹配。从下落不明到被认定为彻底无法找回，大约需要三个月。一旦到了这一步，行李就会被捐给慈善机构、拍卖，或者由某家公司买下，再出售给公众。所以，千万不要把真正贵重的物品放在托运行李里，并且务必在行李上写上姓名和电话号码，以便工作人员联系你。
+
+讲座二
+
+[p32] 原文：You've probably been with someone who ignored you while interacting with his or her smartphone, and you've probably engaged in this behavior yourself. In a recent survey, nine out of ten respondents said they'd used their smartphone during their most recent social activity. There's also evidence that this behavior is socially harmful. It can leave people less satisfied with their face-to-face interactions, and it can generate feelings of resentment and jealousy. Now, the Journal of Applied Social Psychology has published a new study exploring the reasons for these effects.
+[p32] 译文：你很可能遇到过这样的情况：与你在一起的人只顾使用智能手机而忽视了你；你自己也很可能这样做过。在最近的一项调查中，十分之九的受访者表示，他们在最近一次社交活动中使用过智能手机。还有证据表明，这种行为会伤害社交关系。它会降低人们对面对面交流的满意度，还可能引发怨恨和嫉妒。如今，《应用社会心理学杂志》发表了一项新研究，探索这些影响产生的原因。
+
+[p33] 原文：The study included 128 mostly female student participants. The participants watched a three-minute animation in which two cartoon figures interacted and engaged in a conversation. The conversation couldn't be heard, but could be detected through mouth movements. Participants had to imagine themselves as the closest figure in the video, and then make judgments about the conversations and how they felt about their conversation partners.
+[p33] 译文：该研究招募了128名学生参与者，其中大多数为女性。参与者观看一段三分钟的动画，画面中的两个卡通人物正在互动、交谈。虽然听不到谈话内容，但能从嘴部动作看出他们在说话。参与者需要想象自己就是视频中离镜头较近的那个人，然后评价这次交谈，以及自己对交谈对象的感受。
+
+[p34] 原文：In one version of the experiment, the phone of the participant's conversation partner remained unused on the table throughout the conversation. In another version, their partner's attention was quickly drawn to something on their phone, and they spent the rest of the time interacting with their phone. A third version involved the participant's partner alternating between periods of interaction with their phone and periods where they ignored their phone.
+[p34] 译文：在一种实验版本中，参与者交谈对象的手机在整个谈话期间都放在桌上，没有被使用。在另一种版本中，对方的注意力很快被手机上的内容吸引，之后一直在使用手机。第三种版本中，对方交替表现出两种行为：一段时间使用手机，一段时间不理会手机。
+
+[p35] 原文：If you've experienced the similar situation, you probably won't be surprised by the results of the experiments. The participants had a negative view of phone use during social interactions. The more it was present, the worse they considered both the quality of the interaction and the quality of the relationship.
+[p35] 译文：如果你经历过类似的情境，可能不会对实验结果感到意外。参与者对社交互动期间使用手机的行为持负面看法。这种行为越多，他们对互动质量和双方关系质量的评价就越差。
+
+[p36] 原文：The researchers believed that focusing on one's phone instead of the person one is with has this effect because it's seen as a form of social exclusion. They assert that the behavior is analogous to when people have no choice but to eat alone in the school cafeteria. The twist is that this exclusion occurs while sharing a physical encounter and having a conversation. Researchers found that the behavior had adverse effects on participants' sense of belonging, need for meaning and self-esteem. These negative effects are similar to those caused by traditional forms of social exclusion. The new findings are important because they elaborate our understanding of a subtle but common aspect of our daily experience. This common behavior can create vicious cycles of detachment even as we try to connect with others.
+[p36] 译文：研究人员认为，只顾手机而忽视身边的人之所以会产生这种影响，是因为它被看作一种社交排斥。他们指出，这种行为类似于有人在学校食堂里别无选择，只能独自吃饭。不同之处在于，这种排斥发生在两人身处同一场合、正在交谈的时候。研究人员发现，这种行为会对参与者的归属感、对意义的需求和自尊产生不利影响。这些负面影响与传统形式的社交排斥所造成的影响相似。新发现很重要，因为它深化了我们对日常经历中一种微妙却常见现象的理解。即使我们正在努力与他人建立联系，这种常见行为也可能造成彼此疏离的恶性循环。
+
+讲座三
+
+[p37] 原文：More and more people travel for a variety of reasons. Many are tourists, but many venture for some personal or professional business. Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find. After spending five consecutive nights in five similar hotels, the business traveler may find it difficult to remember what happened from day to day or even what towns were visited. And the tourists may get the mistaken impression that all cities are pretty much the same, at least as far as decoration, food and service are concerned.
+[p37] 译文：越来越多的人因各种原因出行。很多人是游客，也有许多人是为处理个人事务或公务而出行。不论出行原因是什么，旅客常见的抱怨都是住宿缺乏人情味。商务旅客连续五晚住在五家相似的酒店后，可能很难记起每天发生过什么，甚至去过哪些城镇。游客也可能误以为，所有城市都差不多，至少在装饰、餐饮和服务方面如此。
+
+[p38] 原文：To combat this sense of impersonal sameness, travelers are taking advantage of in-home hospitality or bed-and-breakfast arrangements. B&Bs, I mean, bed-and-breakfast arrangements, are private homes which offer lodging and breakfast in a very personalized friendly setting. For decades, B&Bs have been the classic way to visit Europe, especially the British Isles. And in fact, they are not really a new idea in America. The tradition dates back to colonial times when inns were few and far between, and the weary traveler had to depend on the kindness of strangers for a meal and a bed. But the revival of B&Bs as desirable accommodations is a fairly recent phenomenon.
+[p38] 译文：为了摆脱这种缺乏个性的雷同感，旅客开始选择家庭接待或提供住宿和早餐的民宿。所谓B&B，也就是“住宿加早餐”，是私人住宅在非常个性化、友好的环境里提供住宿和早餐。几十年来，入住这种民宿一直是游览欧洲、尤其是不列颠群岛的一种经典方式。实际上，这在美国也并非新鲜事。这个传统可以追溯到殖民时期：当时旅店稀少，相隔很远，疲惫的旅客只能依靠陌生人的善意获得一顿饭和一张床。不过，民宿重新成为受欢迎的住宿选择，则是相对较近才出现的现象。
+
+[p39] 原文：If the idea of operating a B&B arouses your interest, there are several factors to consider before plunging into this business. The first consideration is your property, not only the building itself, but the location. If you live near a famous historical site or in a popular destination such as New York City or Washington D.C., your home can be fairly simple yet still do well as a B&B. On the other hand, if your home is architecturally unique or has facilities for the traveler such as a private entrance, private bath or swimming pool, people may be willing to go some distance to reach you. Another important factor is the lifestyle of you and your family. You must take into account whether all members of the family truly enjoy visitors, want to repeatedly discuss local sites and activities, and have the time and energy to handle the additional cooking, cleaning, laundry and the book keeping involved. The final consideration is a financial one. Potential B&B hosts must be realistic about opportunities for income. While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.
+[p39] 译文：如果经营民宿的想法引起了你的兴趣，在投身这门生意之前，有几个因素需要考虑。首先要考虑的是你的房产，不只是建筑本身，还包括位置。如果你住在著名历史遗址附近，或纽约、华盛顿特区等热门目的地，那么即使房屋比较简单，也仍可能把民宿经营得不错。另一方面，如果你的房子建筑风格独特，或者提供独立入口、独立浴室、游泳池等旅客设施，人们也可能愿意多走一些路来住。另一个重要因素是你和家人的生活方式。你必须考虑，是否每位家庭成员都真心喜欢接待客人，愿意反复介绍当地景点和活动，并且有时间、有精力处理额外的做饭、清洁、洗衣和记账工作。最后一个考虑因素是财务。打算经营民宿的人必须对收入机会有现实的判断。虽然民宿的启动成本通常较低，但专家估计，至少需要经常出租五间客房，经营者才能靠民宿维持生计。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：本应用整理
+录音保留原始文件；译文为参考译文，非官方答案。

@@ -1,0 +1,156 @@
+英语六级_2023年6月_第二套
+英文原文／中文参考译文
+机器参考译文，未经逐句人工校订，非官方答案。
+按原文段落对照；单句的所属段落由时间标记中的 paragraphId 关联。
+
+长对话一
+
+[p0] 原文：M: Have you decided what you wish to study?
+[p0] 译文：男：你决定要学什么了吗？
+
+[p1] 原文：W: Yes, professor. I wish to study architecture.
+[p1] 译文：女：是的，教授。我想学习建筑学。
+
+[p2] 原文：M: Ah, that's a wonderful profession. Why did you choose it?
+[p2] 译文：男：啊，这是一个很棒的职业。你为什么选择它？
+
+[p3] 原文：W: I gave a lot of thought to things you said during our last discussion, and I decided architecture made the most sense for me. In particular, I'm attracted to the marriage of design and engineering.
+[p3] 译文：女：我对你在上次讨论中所说的话进行了很多思考，我认为建筑对我来说最有意义。我特别喜欢设计和工程的结合。
+
+[p4] 原文：M: That's great, but I seem to remember you were preoccupied with all the lofty mathematics. You no longer think this aspect will be too hard for you?
+[p4] 译文：男：那太好了，但我似乎记得你全神贯注于所有崇高的数学。您不再认为这方面对您来说太难了吗？
+
+[p5] 原文：W: No. I was doing some online research and I think I should be able to manage. Math might be the toughest subject I encounter in the curriculum, but I'll simply put in the work required. I'm certain the fruits of my labor will pay off.
+[p5] 译文：女：不。我正在做一些在线研究，我想我应该能够应付。数学可能是我在课程中遇到的最难的科目，但我会简单地完成所需的工作。我确信我的劳动成果将会得到回报。
+
+[p6] 原文：M: I'm sure that's true. Due to its material nature, architecture is one field where you will be able to clearly witness the contribution you make to a city. And the legacies you build will last much longer than any of us mortals.
+[p6] 译文：男：我确信这是真的。由于其物质性质，建筑是您能够清楚地见证您对城市做出的贡献的领域。你所创造的遗产将比我们任何凡人持续得更长久。
+
+[p7] 原文：W: Yeah, I guess that's true too. So what subjects do you think I should start brushing up on in preparation? I have the whole summer.
+[p7] 译文：女：是的，我想这也是真的。那么你认为我应该开始温习哪些科目来准备呢？我有一整个夏天。
+
+[p8] 原文：M: These days, architecture is a very diverse and dynamic degree. Most universities will encourage you to learn different things from fields as wide-ranging as philosophy and economics. Nevertheless, I would suggest you start with computer science because there will be many intricate visuals you will have to produce as part of your projects.
+[p8] 译文：男：如今，建筑是一个非常多样化和动态的领域。大多数大学都会鼓励你学习哲学和经济学等广泛领域的不同知识。尽管如此，我建议您从计算机科学开始，因为作为项目的一部分，您必须制作许多复杂的视觉效果。
+
+[p9] 原文：W: Any software in particular you think I should start with?
+[p9] 译文：女：您认为我应该从什么软件开始？
+
+[p10] 原文：M: Photoshop is a good place. If you aren't yet, try to become as proficient as you can with it. And another thing that I would recommend you learn as much as you can is fine arts, in particular, the history of Western art.
+[p10] 译文：男：Photoshop 是个好地方。如果您还没有，请尝试尽可能熟练地使用它。我建议你尽可能多学习的另一件事是美术，特别是西方艺术史。
+
+长对话二
+
+[p11] 原文：W: So as I mentioned over the phone, we are looking for someone who is very discreet. I can't stress this enough.
+[p11] 译文：女：正如我在电话中提到的，我们正在寻找非常谨慎的人。我怎么强调都不为过。
+
+[p12] 原文：M: I fully understand.
+[p12] 译文：男：我完全理解。
+
+[p13] 原文：W: As we all know, being such a famous football player at Real Madrid, Mr. Sanchez has a very high public profile. This means he cannot leave the house without being recognized and harassed.
+[p13] 译文：女：众所周知，桑切斯先生是皇马的著名足球运动员，他的公众形象非常高。这意味着他不能在不被认出和骚扰的情况下离开家。
+
+[p14] 原文：M: Yes, I completely understand how imperative it would be to respect Mr. Sanchez's private life.
+[p14] 译文：男：是的，我完全理解尊重桑切斯先生的私生活是多么必要。
+
+[p15] 原文：W: Good. As his personal assistant, you would be required to run common everyday chores for Mr. Sanchez, things he cannot do himself due to his fame, like going to the supermarket or post office. So, well, at first sight it may appear that working for a celebrity is very glamorous. Nothing could be further from the truth. I'm telling you this so that you don't get any false expectations of what the job has to offer you.
+[p15] 译文：女：好。作为他的私人助理，您需要为桑切斯先生处理日常琐事，但由于他的名气，他无法自己做这些事情，例如去超市或邮局。所以，乍一看，为名人工作似乎非常有魅力。事实并非如此。我告诉你这些是为了让你不会对这份工作抱有任何错误的期望。
+
+[p16] 原文：M: Thanks. I understand this too. This is my first job after graduating from university. So frankly, I don't have much prior working experience. I am, however, very excited about the prospect of joining this company and very keen to start from the bottom in whatever capacity I may be of use.
+[p16] 译文：男：谢谢。我也明白这一点。这是我大学毕业后的第一份工作。坦白说，我之前没有太多工作经验。然而，我对加入这家公司的前景感到非常兴奋，并且非常热衷于从底层做起，无论我能发挥什么作用。
+
+[p17] 原文：W: That's good to hear. You sound very energetic. Tell me why do you think you are well suited for this job?
+[p17] 译文：女：很高兴听到这个消息。听起来你很有活力。告诉我为什么你认为你非常适合这份工作？
+
+[p18] 原文：M: Well, firstly, I love football. I'm a lifelong Real Madrid supporter and go to their games every weekend I can. I would simply love to have a job where I'm involved in some capacity with Real Madrid, regardless of the position and salary. And secondly, I think what this company does in sports consultancy is very cool. And I think my language skills could prove very useful down the road.
+[p18] 译文：男：嗯，首先，我热爱足球。我是皇家马德里的终身支持者，每个周末我都会去看他们的比赛。我只是想找到一份能在皇家马德里担任某种职务的工作，无论职位和薪水如何。其次，我认为这家公司在体育咨询方面所做的事情非常酷。我认为我的语言技能将来会非常有用。
+
+[p19] 原文：W: Please tell me more about your language skills.
+[p19] 译文：女：请告诉我更多关于你的语言能力的信息。
+
+[p20] 原文：M: I am fully fluent in English and Spanish and have a working proficiency in French.
+[p20] 译文：男：我能说流利的英语和西班牙语，并能熟练使用法语。
+
+短文一
+
+[p21] 原文：Adventure sports are undeniably attractive to many energetic and thrill-seeking kids. Sports like rock climbing, surfing, skiing, and mountain biking, thus have lots of appeal. They don't have many of the rules and pressures of traditional team sports, but they still have all the benefits of outdoor physical activity.
+[p21] 译文：不可否认，冒险运动对许多精力充沛、寻求刺激的孩子来说很有吸引力。因此，攀岩、冲浪、滑雪和山地自行车等运动具有很大的吸引力。他们没有传统团队运动的很多规则和压力，但他们仍然拥有户外体育活动的所有好处。
+
+[p22] 原文：When properly supervised, extreme sports can be a part of a healthy, balanced life. Some adventure sports may be associated with higher risks of injury, so it's important for kids to figure out when to take risks, and when not to. Risk-free activities deprive kids of the opportunity to test themselves and overcome their fears. But to some, these very risks are what makes these sports a bad choice. They say that extreme sports can often lead to devastating injuries, especially as young thrill-seekers may attempt feats that are too advanced for them.
+[p22] 译文：如果监督得当，极限运动可以成为健康、平衡生活的一部分。一些冒险运动可能会带来较高的受伤风险，因此对于孩子来说，弄清楚何时冒险、何时不冒险非常重要。无风险的活动剥夺了孩子们测试自己和克服恐惧的机会。但对一些人来说，正是这些风险使得这些运动成为一个糟糕的选择。他们说，极限运动常常会导致毁灭性的伤害，尤其是年轻的寻求刺激的人可能会尝试对他们来说过于先进的动作。
+
+[p23] 原文：But let's be real. Most kids do all kinds of dangerous stuff whether you want them to or not. Adventure sports have many of the same risks and dangers, but they have an additional sense of adventure, courage and autonomy that is important to foster in young children. As always, it's up to parents to decide what's best for their kids. But if you do decide that adventure sports are a bit too much, do try to introduce other forms of outdoor adventures into their lives. Camping under the stars, fishing, stargazing or even just playing in the woods can help a lot in building the same sense of self-confidence and risk-taking as in adventure sports.
+[p23] 译文：但让我们面对现实吧。无论你是否愿意，大多数孩子都会做各种危险的事情。冒险运动有许多相同的风险和危险，但它们有额外的冒险感、勇气和自主权，这对幼儿的培养很重要。一如既往，由父母决定什么对孩子最好。但如果您确实认为冒险运动有点太多，请尝试将其他形式的户外冒险引入他们的生活。在星空下露营、钓鱼、观星，甚至只是在树林里玩耍，都有助于建立与冒险运动相同的自信和冒险精神。
+
+短文二
+
+[p24] 原文：The shiny gadgets of today will be waste tomorrow. Manufacturers don't talk much about this when they announce the big new thing that will replace your mostly just as good old thing. In fact, technology firms often purposely design devices that will not last long and cannot be repaired so that consumers will have to spend their money on a new one.
+[p24] 译文：今天闪亮的小玩意明天就会变成废物。当制造商宣布将取代您大部分同样好的旧产品的新产品时，他们并没有过多谈论这一点。事实上，科技公司经常故意设计出使用寿命不长且无法维修的设备，以便消费者不得不花钱购买新设备。
+
+[p25] 原文：This year, the French government began requiring tech manufacturers to list a repairability score. If a device can be repaired, then its life can be extended, saving consumers money and the planet the burden of so many trashed gadgets. Equipped with this knowledge, consumers can make better choices about which products to buy.
+[p25] 译文：今年，法国政府开始要求科技制造商列出可修复性评分。如果设备可以修复，那么它的使用寿命就可以延长，从而为消费者节省金钱，并为地球减轻许多废弃设备的负担。有了这些知识，消费者就可以更好地选择购买哪些产品。
+
+[p26] 原文：Some 59 million tons of old TVs, computers, screens, smartphones, washers and other electronics are discarded every year. This waste is dangerous. Batteries explode in recycling facilities. Toxic substances like mercury leak into soil and groundwater and disperse in the air. Manufacturing flat screens adds greenhouse gases to the atmosphere. We need tech companies to take the lead to solve this problem. If they won't, governments must make them do so.
+[p26] 译文：每年约有 5900 万吨旧电视、电脑、屏幕、智能手机、洗衣机和其他电子产品被丢弃。这种浪费是危险的。电池在回收设施中爆炸。汞等有毒物质泄漏到土壤和地下水中并扩散到空气中。制造平板屏幕会向大气中排放温室气体。我们需要科技公司带头解决这个问题。如果他们不这样做，政府必须迫使他们这样做。
+
+[p27] 原文：Although tech companies will often speak of environmental sustainability, many lobby against repair legislation, fearful it will eat into their profits. Sustainability matters, but marketable design appears to matter more to these companies. Consumers should support right-to-repair legislation. In this world, damage is a certainty. But we cannot leave things broken: A problem of our creation is a problem that can be fixed.
+[p27] 译文：尽管科技公司经常谈论环境可持续性，但许多公司游说反对修复立法，担心这会侵蚀他们的利润。可持续性很重要，但适销对路的设计对这些公司来说似乎更重要。消费者应支持维修权立法。在这个世界上，伤害是必然的。但我们不能让事情变得支离破碎：我们创造的问题是可以解决的。
+
+讲座一
+
+[p28] 原文：On average, US workers spend about 10% of their workday surfing the internet, emailing friends or shopping online. This behavior, called cyberloafing, is believed to cost employers up to $85 billion a year in lost productivity.
+[p28] 译文：平均而言，美国工人每天大约花 10% 的时间上网、给朋友发电子邮件或网上购物。这种被称为“网络闲逛”的行为据信每年会给雇主带来高达 850 亿美元的生产力损失。
+
+[p29] 原文：The majority of cyberloafing research focuses on ways to prevent employees from engaging in this behavior through interventions such as internet monitoring and computer use policies. But it turns out, such behaviors may not be a sign that a worker is lazy or just wasting time. Social media use at work has been linked to higher levels of employee engagement and job satisfaction. New research suggests cyberloafing can help workers cope with an exceptionally stressful work environment.
+[p29] 译文：大多数网络闲置研究的重点是如何通过互联网监控和计算机使用政策等干预措施来防止员工参与这种行为。但事实证明，这种行为可能并不表明员工懒惰或只是浪费时间。工作中社交媒体的使用与更高水平的员工敬业度和工作满意度有关。新研究表明，网络闲逛可以帮助员工应对异常紧张的工作环境。
+
+[p30] 原文：But is cyberloafing actually effective at reducing employee stress levels? That's the question my research team wanted to answer in our new study. Our hypothesis was that cyberloafing may serve as a mini-break, giving employees an opportunity to recover from stressful work situations. To test this, we asked workers to complete an online survey and rank how much time they spent cyberloafing, checking non-work emails and shopping. We also asked them to rank job satisfaction, their desire to quit, and how often they've experienced mistreatment at work, such as being bullied, threatened or yelled at. As you might expect, we found that overall, more mistreatment at work was correlated with lower levels of job satisfaction and a greater desire to quit. More interestingly, we found that cyberloafing effectively buffered this connection. That is, mistreated workers who spent more time surfing the web and checking emails reported higher job satisfaction and were less likely to want to quit than similar participants who didn't cyberloaf as much. This suggests that cyberloafing acts as a sort of relief valve for workers, helping them recover from stressful experiences.
+[p30] 译文：但网络闲逛真的能有效减轻员工的压力吗？这就是我的研究团队想要在我们的新研究中回答的问题。我们的假设是，网络闲逛可以作为一种短暂的休息，让员工有机会从紧张的工作环境中恢复过来。为了测试这一点，我们要求员工完成一项在线调查，并对他们花在网上闲逛、检查非工作电子邮件和购物的时间进行排名。我们还要求他们对工作满意度、辞职意愿以及在工作中遭受虐待（例如被欺负、威胁或吼叫）的频率进行排名。正如您所料，我们发现总体而言，工作中更多的虐待与较低的工作满意度和更大的辞职意愿相关。更有趣的是，我们发现网络游荡有效地缓冲了这种连接。也就是说，与不经常上网的类似参与者相比，那些花更多时间上网和检查电子邮件的受虐待员工的工作满意度更高，并且不太愿意辞职。这表明网络闲散对员工来说是一种减压阀，可以帮助他们从压力经历中恢复过来。
+
+[p31] 原文：While we did not directly assess how cyberloafing affects worker performance, we believe by relieving stress it may not only reduce worker turnover, but also ultimately bolster productivity. This fits with other recent research that suggests taking short breaks is associated with higher levels of daily job performance. That isn't to say cyberloafing is always good. Too much time spent on non-work activities likely causes performance to suffer. All in all, managers should be more lenient with employees. We believe a bit of online shopping or surfing the internet at work could make workers more productive in the long run.
+[p31] 译文：虽然我们没有直接评估网络闲散如何影响员工绩效，但我们相信，通过缓解压力，它不仅可以减少员工流动率，而且最终可以提高生产力。这与最近的其他研究相一致，这些研究表明短暂休息与更高水平的日常工作绩效相关。这并不是说网络闲逛总是好的。在非工作活动上花费太多时间可能会导致绩效下降。总而言之，管理者应该对员工更加宽容。我们相信，从长远来看，在工作中上网购物或上网可以提高员工的工作效率。
+
+讲座二
+
+[p32] 原文：When Julius Morton moved to Nebraska City in 1854, he faced a problem shared by many settlers in the territory: It was a treeless plain. That meant no trees for building materials, or for fuel. But Morton was one of the world's first conservationists, stating, "For prosperity, we ought to plant as many forests as we have exhausted and consumed". So he started planting trees, beginning with his own land. By 1860 Morton possessed a forest of more than 300 trees. A few years later, he had more than 1,000.
+[p32] 译文：1854 年，当朱利叶斯·莫顿 (Julius Morton) 搬到内布拉斯加州时，他面临着该地区许多定居者共同面临的问题：这是一片没有树木的平原。这意味着没有树木可以用作建筑材料或燃料。但莫顿是世界上最早的自然资源保护主义者之一，他说：“为了繁荣，我们应该种植与我们耗尽和消耗的森林一样多的森林”。于是他开始植树，从自己的土地开始。到 1860 年，莫顿拥有一片拥有 300 多棵树的森林。几年后，他的数量已经超过了1000个。
+
+[p33] 原文：As the forest grew, so did Morton's influence in Nebraska. This was largely because Morton founded the Nebraska City News, the state's first newspaper, in which he frequently wrote editorials about the practical and aesthetic benefits of tree planting. He also organized the Nebraska State Gardening Society and served on the Nebraska State Board of Agriculture.
+[p33] 译文：随着森林的发展，莫顿在内布拉斯加州的影响力也随之扩大。这主要是因为莫顿创办了该州第一份报纸《内布拉斯加州城市新闻》，他经常在其中撰写有关植树的实用和美学益处的社论。他还组织了内布拉斯加州园艺协会，并在内布拉斯加州农业委员会任职。
+
+[p34] 原文：While serving on the Board, Morton came up with an idea to spread his belief in tree planting statewide. On January 4, 1872, Morton drafted a resolution that April 10 be designated day for the planting of trees in the State of Nebraska and urged people to go out and plant trees themselves.
+[p34] 译文：在董事会任职期间，莫顿想出了一个想法，在全州范围内传播他的植树信念。 1872年1月4日，莫顿起草了一项决议，将4月10日定为内布拉斯加州的植树日，并敦促人们外出植树。
+
+[p35] 原文：Morton called the special event Arbor Day as "arbor" is Latin for "tree". The state government agreed. And on April 10, 1872, the first unofficial Arbor Day was celebrated throughout Nebraska. Prizes were awarded to counties, cities, and individuals who planted the largest number of trees. That day, an astounding one million trees were planted in Nebraska—an average of more than six for every man, woman and child in the state. Since 1885, Nebraska has planted more than 700,000 acres of trees, earning it the nickname "the Tree Planters State".
+[p35] 译文：莫顿将这一特殊活动称为“植树节”，“arbor”在拉丁语中是“树”的意思。州政府同意了。 1872 年 4 月 10 日，内布拉斯加州庆祝了第一个非官方的植树节。奖励植树数量最多的县、市和个人。那天，内布拉斯加州种植了令人震惊的一百万棵树——该州每个男人、女人和儿童平均种植了六棵树以上。自 1885 年以来，内布拉斯加州已种植了超过 700,000 英亩的树木，赢得了“植树之州”的绰号。
+
+[p36] 原文：Arbor Day became a legal, civic holiday in the state in 1885. It was held on April 22—Julius Morton's birthday. In addition to a parade in Nebraska City, Morton introduced what has since become a long-standing Arbor Day tradition: Schoolchildren went outside and planted trees together.
+[p36] 译文：1885 年，植树节成为该州的法定公民假日。植树节于 4 月 22 日举行，这一天是朱利叶斯·莫顿 (Julius Morton) 的生日。除了在内布拉斯加州市举行游行之外，莫顿还介绍了植树节的一项长期传统：学生们到户外一起植树。
+
+[p37] 原文：In 1970, nearly a century after Arbor Day was first celebrated, President Richard Nixon declared the last Friday of every April to be observed as National Arbor Day. All 50 states recognize the April observance, although many hold an additional state Arbor Day in a month more suited to local tree planting.
+[p37] 译文：1970 年，在首次庆祝植树节近一个世纪后，理查德·尼克松总统宣布每年四月的最后一个星期五为国家植树节。所有 50 个州都承认四月份的庆祝活动，尽管许多州在更适合当地植树的一个月内额外举办了植树节。
+
+讲座三
+
+[p38] 原文：Modern humans arose in Africa about 200,000 years ago. They then spread across Europe and Asia sometime after 60,000 years ago. This is the "Out of Africa" model, as it's commonly known. In the 1990s, the hypothesis found widespread acceptance. But this popular idea is in need of revision, particularly given the number of important findings across Asia over the past few decades.
+[p38] 译文：现代人类大约20万年前出现在非洲。六万年前的某个时候，它们传播到了欧洲和亚洲。这就是众所周知的“走出非洲”模式。 20 世纪 90 年代，这一假说被广泛接受。但这种流行的想法需要修改，特别是考虑到过去几十年来亚洲各地出现了大量重要发现。
+
+[p39] 原文：For instance, many new human fossils found, particularly in China, are now dated as older than 60,000 years. This calls into question the idea that modern humans migrated out of Africa only 60,000 years ago. Take the recent discovery of two modern human teeth found in the Luna cave in China's Guangxi Zhuang Autonomous Region. When my research team and I dated these teeth, we found they were more than 70,000 years old—a situation clearly impossible if modern humans moved out of Africa only 60,000 years ago.
+[p39] 译文：例如，许多新发现的人类化石，特别是在中国发现的化石，其历史已有 6 万多年的历史。这对现代人类仅在六万年前迁出非洲的观点提出了质疑。以最近在中国广西壮族自治区月神洞发现的两颗现代人类牙齿为例。当我和我的研究团队对这些牙齿进行年代测定时，我们发现它们已有 7 万多年的历史——如果现代人类在 6 万年前才离开非洲，这种情况显然是不可能的。
+
+[p40] 原文：So with such findings, what happened exactly? Where does the most current data suggest we came from?
+[p40] 译文：那么有了这样的发现，究竟发生了什么？最新数据表明我们来自哪里？
+
+[p41] 原文：The first question we should ask is why did modern humans leave Africa to begin with? If a population is perfectly adapted to a particular environment and has access to an abundance of resources, then there really is no reason to move or change. For instance, some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years, indicating that they found a place that has worked for them.
+[p41] 译文：我们要问的第一个问题是，现代人类为什么要离开非洲？如果一个群体完全适应了特定的环境并且能够获得丰富的资源，那么就没有理由迁移或改变。例如，非洲的一些猴子有一套牙齿，在数百万年的时间里几乎没有改变，这表明它们找到了一个适合它们的地方。
+
+[p42] 原文：So what happened with humans? Some researchers have suggested that population density increased to the point where smaller human groups were forced to explore new lands. Other researchers have suggested that due to major environmental events in East Africa, humans were prompted to find greener pastures. Yet another explanation could simply be that early modern human hunters were following the large animals that they relied on, and so they moved out of Africa without realizing that they were actually moving from one continent to another.
+[p42] 译文：那么人类到底发生了什么？一些研究人员认为，人口密度增加到了较小的人类群体被迫探索新土地的程度。其他研究人员认为，由于东非发生的重大环境事件，促使人类寻找更绿色的牧场。另一种解释可能是，早期现代人类猎人追随他们所依赖的大型动物，因此他们离开了非洲，却没有意识到他们实际上是从一个大陆迁移到另一个大陆。
+
+[p43] 原文：Humans need daily access to reliable fresh water, which appears to be absent from many coastal areas. This brings us to another question: by which route did modern humans move out of Africa? No clear routes across the Mediterranean from North Africa appear to be present, so the earlier dispersals out of Africa and into Europe and Asia might have been across the Arabian Peninsula.
+[p43] 译文：人类每天都需要获得可靠的淡水，而许多沿海地区似乎缺乏这种淡水。这给我们带来了另一个问题：现代人类是通过什么路线走出非洲的？似乎不存在从北非跨越地中海的明确路线，因此早期从非洲扩散到欧洲和亚洲的可能是穿越阿拉伯半岛。
+
+资料来源：https://github.com/Ysoseri1224/CET-6-Listening-10-Years-Resources-and-Analysis
+来源版本：42fc6658e0b4a3dbae06755ba105d79169820576
+音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
+译文来源：Google Translate
+录音保留原始文件；译文为参考译文，非官方答案。
