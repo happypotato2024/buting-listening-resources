@@ -157,3 +157,659 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Welcome to the Book Club.
+欢迎来到读书俱乐部。
+
+[p0s1]
+Today's guest is Susan Lane, the author of a new book on personal finances that has already sold half a million copies.
+今天的嘉宾是苏珊·莱恩 (Susan Lane)，她是一本有关个人理财的新书的作者，该书已售出 50 万册。
+
+[p0s2]
+Hi, Susan, your book is extremely successful.
+嗨，苏珊，你的书非常成功。
+
+[p0s3]
+Why do you think that is?
+你认为这是为什么？
+
+[p1s0]
+I think that's because of my message, which is making happiness a priority over money.
+我认为这是因为我的信息，即让幸福优先于金钱。
+
+[p1s1]
+So many of us in my generation have spent decades trying to earn more money, just to consume more, but it made us more miserable.
+我们这一代人中的许多人花了几十年的时间试图赚更多的钱，只是为了增加消费，但这让我们更加痛苦。
+
+[p2s0]
+You yourself were once caught in that cycle, working for two decades as an executive and earning a high salary, but still accumulating debt.
+男：你自己也曾经陷入过这样的循环，当了二十年的高管，拿着高薪，但仍然负债累累。
+
+[p3s0]
+I most certainly was.
+我当然是。
+
+[p3s1]
+I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $30,000.
+我赚了数百万美元，但当我四年前辞去工作成为一名作家时，我欠了 3 万多美元。
+
+[p4s0]
+So how did you escape that pattern?
+那么你是如何摆脱这种模式的呢？
+
+[p4s1]
+And what would you advise other people to do?
+您会建议其他人做什么？
+
+[p5s0]
+The first change is in what we value.
+第一个变化是我们价值观的改变。
+
+[p5s1]
+We need to emphasize things that actually make us happy, like relationships, the environment or even our hobbies.
+我们需要强调真正让我们快乐的事情，比如人际关系、环境甚至我们的爱好。
+
+[p5s2]
+Once we make the right things our priority, our goals will change and so will our financial behavior.
+一旦我们把正确的事情作为优先事项，我们的目标就会改变，我们的财务行为也会改变。
+
+[p6s0]
+How does that translate into practical action?
+如何转化为实际行动？
+
+[p6s1]
+Can you give our audience examples of what you are talking about on an everyday basis?
+您能给我们的观众举例说明您每天谈论的内容吗？
+
+[p7s0]
+The major areas for action are usually housing, food and transportation.
+主要行动领域通常是住房、食物和交通。
+
+[p7s1]
+So people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.
+因此，人们可能会与朋友合住而不是自己居住，从家里带午餐而不是去餐馆，使用公共交通工具而不是拥有汽车。
+
+[p8s0]
+Those sound like major sacrifices.
+这些听起来像是重大牺牲。
+
+[p8s1]
+I could never share my home.
+我永远无法分享我的家。
+
+[p8s2]
+I need my own space.
+我需要自己的空间。
+
+[p9s0]
+But they aren't sacrifices.
+但它们不是牺牲。
+
+[p9s1]
+When people change their values, their desires change.
+当人们改变价值观时，他们的欲望就会改变。
+
+[p9s2]
+So in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space, but giving us an opportunity to spend more time with our loved ones.
+因此，以住房为例，如果我们重视人际关系，那么共享一个家并不会剥夺我们自己的空间，而是让我们有机会与所爱的人共度更多时间。
+
+[p10s0]
+Indeed it is.
+男：确实如此。
+
+[p11s0]
+Thank you for inviting me to the gallery, Christopher.
+谢谢你邀请我去画廊，克里斯托弗。
+
+[p11s1]
+I haven't visited here since your predecessor's retirement functioned.
+自从你的前任退休后我就没有来过这里。
+
+[p12s0]
+Would you like to see the newest additions to our collection first, Catherine?
+男：凯瑟琳，您想先看看我们系列中的最新产品吗？
+
+[p13s0]
+Are those the landscapes by Daniel Gregory?
+这些是丹尼尔·格雷戈里的风景画吗？
+
+[p13s1]
+I absolutely adore her work.
+我非常喜欢她的工作。
+
+[p14s0]
+This first piece was a gift to the gallery from the artist herself, and it's quite exquisite.
+男：这第一幅作品是艺术家本人送给画廊的礼物，非常精致。
+
+[p15s0]
+I love how she depicts the barren landscape.
+我喜欢她描绘贫瘠风景的方式。
+
+[p15s1]
+The colors complement each other perfectly.
+颜色完美互补。
+
+[p16s0]
+You can sense the desolation in the picture.
+从图中你就能感受到那种荒凉的感觉。
+
+[p16s1]
+This piece was inspired by Gregory's recent trek in the Gobi Desert.
+这件作品的灵感来自格雷戈里最近在戈壁沙漠的跋涉。
+
+[p17s0]
+And how did you obtain her other piece, over here?
+女：那么你是怎么得到她的另一件作品的呢？
+
+[p18s0]
+It was purchased at auction by an anonymous collector who lent it to the gallery for display.
+它是由一位匿名收藏家在拍卖会上购买的，并借给画廊展示。
+
+[p18s1]
+This composition is one of her most acclaimed paintings.
+这幅作品是她最受欢迎的画作之一。
+
+[p19s0]
+It must have cost that collector a small fortune to purchase this.
+女：这位收藏家肯定花了一大笔钱才买下这个。
+
+[p20s0]
+Obviously.
+显然。
+
+[p20s1]
+I can't disclose the exact amount he paid, but it was substantial.
+我无法透露他支付的具体金额，但金额很大。
+
+[p21s0]
+There's so much detail in this painting.
+这幅画里有很多细节。
+
+[p21s1]
+I feel like I can really immerse myself in the scene.
+我感觉我真的可以沉浸在场景中。
+
+[p21s2]
+I particularly like the symmetry created by the reflection of the mountain in the lake.
+我特别喜欢山在湖中倒影所形成的对称性。
+
+[p22s0]
+This particular piece was the one that was nominated for a Gateway Award.
+这件特别的作品被提名为 Gateway 奖。
+
+[p22s1]
+I was lucky enough to attend the awards ceremony as Gregory's guest.
+我有幸作为格雷戈里的嘉宾参加了颁奖典礼。
+
+[p23s0]
+So you know her personally.
+所以你个人认识她。
+
+[p23s1]
+I assume she is an eccentric artist.
+我认为她是一位古怪的艺术家。
+
+[p24s0]
+Quite the opposite.
+恰恰相反。
+
+[p24s1]
+In fact, she's not at all eccentric.
+事实上，她一点也不古怪。
+
+[p24s2]
+I would say she's one of the most easygoing and intelligent people I know.
+我想说她是我认识的最随和、最聪明的人之一。
+
+[p25s0]
+I'd love to be able to meet her.
+我很想见到她。
+
+[p25s1]
+There are so many questions I'd like to ask.
+我有很多问题想问。
+
+[p26s0]
+What a coincidence!
+真是巧合啊！
+
+[p26s1]
+I'm meeting her for dinner tonight.
+今晚我要和她一起吃晚饭。
+
+[p26s2]
+Would you like to come along?
+你愿意一起去吗？
+
+[p27s0]
+I'd love to.
+我很乐意。
+
+[p27s1]
+Thank you.
+谢谢你。
+
+[p28s0]
+Forgiveness is the release of resentment or anger.
+宽恕是怨恨或愤怒的释放。
+
+[p28s1]
+Forgiveness doesn't mean reconciliation.
+宽恕并不意味着和解。
+
+[p28s2]
+We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender.
+我们不必回到同样的关系，也不必接受犯罪者同样的有害行为。
+
+[p28s3]
+Forgiveness is vitally important for the mental health of certain victims.
+宽恕对于某些受害者的心理健康至关重要。
+
+[p28s4]
+It propels people forward rather than keeping them emotionally engaged in an injustice or trauma.
+它推动人们前进，而不是让他们在情感上陷入不公正或创伤。
+
+[p28s5]
+Carrying the hurt or anger of an offense leads the body to release stress chemicals.
+承受伤害或冒犯的愤怒会导致身体释放压力化学物质。
+
+[p28s6]
+Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits.
+消除这些化学物质的持续流动也可以解释为什么宽恕可以带来身体健康益处。
+
+[p29s0]
+There are scenarios in which forgiveness is not the best course.
+在某些情况下，宽恕并不是最好的选择。
+
+[p29s1]
+Sometimes the victim becomes more empowered when they give themselves permission not to forgive.
+有时，当受害者允许自己不宽恕时，他们会变得更有力量。
+
+[p29s2]
+Forgiveness can be challenging.
+宽恕可能具有挑战性。
+
+[p29s3]
+This is especially true when the offending party offers an insincere apology, or maybe they haven't offered anything at all.
+当冒犯方提供不真诚的道歉，或者他们根本没有提供任何东西时，尤其如此。
+
+[p29s4]
+However, it's often the healthiest path forward.
+然而，这通常是最健康的前进道路。
+
+[p29s5]
+It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent, or whether it was caused by challenging circumstances in the offender's life.
+重要的是通过对罪犯产生同情心来培养宽恕，反思该行为是否出于恶意，或者是否是由罪犯生活中的挑战性环境造成的。
+
+[p30s0]
+What about forgiving ourselves?
+原谅我们自己又怎样呢？
+
+[p30s1]
+We sometimes need to take responsibility for mistakes, but intense guilt and shame aren't a desirable outcome in the long run.
+有时我们需要为错误承担责任，但从长远来看，强烈的内疚和羞耻并不是一个理想的结果。
+
+[p30s2]
+Forgiving yourself may seem like an ambiguous process.
+原谅自己似乎是一个模棱两可的过程。
+
+[p30s3]
+You can begin by acknowledging that you are at fault, take responsibility for the hurt you caused, then reflect on why the event occurred.
+你可以首先承认自己有错，对自己造成的伤害承担责任，然后反思事件发生的原因。
+
+[p30s4]
+Draw the lessons you learned and try to avoid committing a similar offense in the future.
+汲取教训，并尽量避免将来再犯类似的罪行。
+
+[p31s0]
+The Glasgow subway first opened in 1896 as a cable-hauled system.
+格拉斯哥地铁于 1896 年首次开通，采用电缆牵引系统。
+
+[p31s1]
+It is generally recognized as the world's third underground railway, after London and Budapest.
+它被普遍认为是继伦敦和布达佩斯之后世界第三条地下铁路。
+
+[p31s2]
+In its long history, it has never been expanded remaining as a single loop line with a mere 15 stations.
+在其悠久的历史中，它从未扩建过，仅保留了一条只有15个车站的单环线。
+
+[p31s3]
+At its peak, it served the shipyard workers on the south side of the city.
+在其鼎盛时期，它为城市南侧的造船厂工人提供服务。
+
+[p31s4]
+In the 1960s, there was a decline in the shipbuilding industry, and the popularity of private transport grew.
+20 世纪 60 年代，造船业衰退，私人交通日益普及。
+
+[p31s5]
+As a result, the subway saw a rapid decline in ridership.
+结果，地铁客流量迅速下降。
+
+[p32s0]
+It ran with little further change until 1977 when its new operators closed it for major modernization investment.
+直到 1977 年，新运营商将其关闭以进行重大现代化投资之前，它的运行几乎没有发生任何进一步的变化。
+
+[p32s1]
+Carriages were replaced, ventilation was improved, and the main depot was also renovated and fitted with connecting tracks to replace the outdated crane transfer mechanism.
+更换了车厢，改善了通风，主仓库也进行了翻新，并安装了连接轨道，以取代过时的起重机转移机构。
+
+[p32s2]
+The subway in its present form reopened for operation in April 1980.
+当前形式的地铁于 1980 年 4 月重新开放运营。
+
+[p32s3]
+Since its relaunch, the subway has seen a revival in its fortunes.
+自重新开通以来，地铁的命运开始复苏。
+
+[p32s4]
+It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city center.
+它是其他交通方式的可行替代方案，在缓解市中心交通拥堵方面发挥了很大作用。
+
+[p32s5]
+In 1996, the system reached an important milestone—100 years.
+1996 年，该系统迎来了一个重要的里程碑——100 周年。
+
+[p32s6]
+To commemorate this special event, the color scheme of the train carriages was updated.
+为了纪念这一特殊事件，火车车厢的配色方案进行了更新。
+
+[p33s0]
+Recently, high-tech systems such as smart card ticketing machines and smart gates are used across all subway stations.
+近年来，智能卡售票机、智能闸机等高科技系统已在所有地铁站使用。
+
+[p33s1]
+The smart card provides more convenient travel and passengers simply top up their cards and tap them to get in and out the subway.
+智能卡让出行更加便捷，乘客只需充值刷卡即可进出地铁。
+
+[p33s2]
+Since its launch, the technology has been adopted by more than 100,000 subway customers.
+自推出以来，该技术已被超过10万地铁客户采用。
+
+[p34s0]
+If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or campground bears above all else.
+如果您参观大烟山国家公园，您很可能首先会记住路边或露营地的熊。
+
+[p34s1]
+Bears are the most popular animals in a number of our national parks.
+熊是我们许多国家公园中最受欢迎的动物。
+
+[p34s2]
+In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer.
+在这些山区，熊的数量达到数百只，夏季观察这些大型野生动物的机会很多。
+
+[p34s3]
+Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans.
+由于国家公园是野生动物保护区，不允许干扰本土动物，多年的保护已经消除了野熊对人类的恐惧。
+
+[p34s4]
+Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds.
+现在，许多熊不再依靠自己的资源谋生，而是在公园道路和露营地巡逻。
+
+[p34s5]
+They give the garbage cans a frequent going over.
+他们经常检查垃圾桶。
+
+[p34s6]
+An occasional offer of food from a park visitor, an illegal and dangerous practice, makes beggars of them.
+公园游客偶尔提供食物是一种非法且危险的做法，使它们成为乞丐。
+
+[p34s7]
+Bears are very often hungry and since they will feed on almost any kind of plant or animal, garbage is quite acceptable.
+熊经常感到饥饿，并且由于它们几乎以任何种类的植物或动物为食，因此垃圾是完全可以接受的。
+
+[p35s0]
+Feeding them, however, represents misguided kindness because the bears come to expect such generosity from everyone and consequently, trouble could lie ahead.
+然而，喂养它们却代表着一种被误导的善意，因为熊开始期望每个人都如此慷慨，因此，麻烦可能会随之而来。
+
+[p35s1]
+Park rules prohibit the feeding of bears.
+公园规定禁止喂熊。
+
+[p35s2]
+Violators are arrested.
+违法者被逮捕。
+
+[p35s3]
+Every year, doctors who have offices near the park treat a number of cases of bear bites and bear scratches.
+每年，在公园附近设有办公室的医生都会治疗多起熊咬伤和熊抓伤病例。
+
+[p35s4]
+Some of the accidents have come about in strange ways.
+有些事故的发生方式很奇怪。
+
+[p35s5]
+One man was in the process of feeding two small cubs, when the mother bear appeared and insisted upon having some of the food.
+一名男子正在喂养两只小熊，这时母熊出现并坚持要吃一些食物。
+
+[p35s6]
+Shoving the big bear aside with one hand, the man continued feeding the cubs when suddenly he was struck a fierce blow in the face.
+男子一手将大熊推到一边，继续喂小熊，突然，他的脸上遭到了猛烈的一击。
+
+[p35s7]
+A bear, prompted by the food that a lady kept offering to him, entered the car where the generous person was sitting.
+一只熊在一位女士不断提供给他的食物的驱使下，进入了这位慷慨之人所坐的汽车里。
+
+[p35s8]
+Her efforts to push the bear out of the car resulted in injuries.
+她努力将熊推出车外，结果导致熊受伤。
+
+[p35s9]
+A man required medical attention after he applied a lighted cigarette to a bear's nose.
+一名男子将点燃的香烟放在熊的鼻子上，需要就医。
+
+[p35s10]
+Another man tried to boost a bear into the front seat of his car so that he might take a picture of a bear sitting beside his wife who was behind the wheel.
+另一名男子试图将一只熊推到他汽车的前座上，以便他可以给坐在方向盘后面的妻子旁边的一只熊拍照。
+
+[p36s0]
+Because bears prefer roads and campgrounds, the possibility of a hiker meeting up with a bear along park trails is small, but there's always that chance, for a bear seems to know if you are carrying a lunch or a candy bar.
+由于熊更喜欢道路和露营地，因此徒步旅行者在公园小径上遇到熊的可能性很小，但总有这种机会，因为熊似乎知道您是否携带午餐或糖果。
+
+[p36s1]
+He may even insist on taking it.
+他甚至可能坚持要接受它。
+
+[p37s0]
+Why do we form opinions or attitudes about someone or something without really knowing much about them?
+为什么我们在没有真正了解某人或某事的情况下就对他们形成意见或态度？
+
+[p37s1]
+Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively.
+仅仅听到关于一个人、一个地方或一件事的好或坏就会对我们的看法产生积极或消极的影响。
+
+[p37s2]
+But letting the opinions of another person determine what our opinions will be is dangerous.
+但让别人的意见决定我们的意见是危险的。
+
+[p37s3]
+Forming opinions about someone or something before really knowing them well is called prejudice.
+在真正了解某人或某事之前就对其形成看法称为偏见。
+
+[p37s4]
+"Pre-" means before and "-judice" refers to judgment.
+“Pre-”是指之前，“-judice”是指判断。
+
+[p37s5]
+Hence, prejudice means to judge before having adequate knowledge.
+因此，偏见意味着在没有足够的知识之前就做出判断。
+
+[p38s0]
+We can be prejudiced toward or against someone or something.
+我们可能会对某人或某事抱有偏见或反对。
+
+[p38s1]
+In either case, we are only allowing ourselves to see half of the picture.
+无论哪种情况，我们都只允许自己看到一半的图片。
+
+[p38s2]
+Very few people or things in this world are all good or all bad.
+这个世界上很少有人或事都是好或都是坏的。
+
+[p38s3]
+Prejudiced attitudes are usually based on myths, half truths or incorrect information, and they are dangerous because they can keep us from learning the truth about someone or something.
+偏见态度通常基于神话、半真半假或不正确的信息，它们很危险，因为它们会阻止我们了解某人或某事的真相。
+
+[p38s4]
+People form prejudices against others for many reasons—differences in their race, religion, gender or occupation.
+人们对他人形成偏见的原因有很多——种族、宗教、性别或职业的差异。
+
+[p38s5]
+Prejudices keep people apart.
+偏见使人与人分离。
+
+[p38s6]
+They keep us from really knowing and understanding each other.
+它们使我们无法真正了解和理解彼此。
+
+[p39s0]
+We should feel proud of who we are and the group of people we represent.
+我们应该为我们是谁以及我们所代表的群体感到自豪。
+
+[p39s1]
+If feelings of pride begin to turn to feelings of superiority when we think that our group or our beliefs are better than those around us, however, then we begin to develop prejudiced attitudes that can be harmful.
+然而，如果当我们认为我们的群体或我们的信仰比周围的人更好时，自豪感开始转变为优越感，那么我们就会开始形成可能有害的偏见态度。
+
+[p39s2]
+For example, the prejudiced attitudes of one group may keep another group from attending certain schools, from living in any neighborhood they want, or from getting a job or a promotion.
+例如，一个群体的偏见态度可能会阻止另一群体就读某些学校，无法住在他们想要的任何社区，或者无法找到工作或升职。
+
+[p39s3]
+Extreme feelings of prejudice have caused the deaths of innocent people.
+极端的偏见情绪造成了无辜者的死亡。
+
+[p39s4]
+We are responsible for our own thoughts and opinions.
+我们对自己的想法和意见负责。
+
+[p39s5]
+When we let someone else tell us what to think about someone or something, we are giving up some control of our own lives.
+当我们让别人告诉我们如何看待某人或某事时，我们就放弃了对自己生活的一些控制。
+
+[p40s0]
+Before you form an attitude or opinion, find out for yourself about the person or the thing in question.
+在形成态度或观点之前，请自己了解有关的人或事。
+
+[p40s1]
+Sometimes we don't realize that we hold prejudiced attitudes toward or against someone or something.
+有时我们没有意识到我们对某人或某事抱有偏见的态度。
+
+[p40s2]
+We need to carefully examine our lives and our fears, and to ask ourselves whether our attitudes come from our personal knowledge and experience or from rumors and fear of the unknown.
+我们需要仔细审视我们的生活和我们的恐惧，并扪心自问，我们的态度是来自我们的个人知识和经验，还是来自谣言和对未知的恐惧。
+
+[p40s3]
+The good news about prejudice is that we are not born with it.
+关于偏见的好消息是我们并非生来就有偏见。
+
+[p40s4]
+Prejudiced attitudes and opinions develop over time.
+偏见的态度和观点随着时间的推移而形成。
+
+[p40s5]
+But with education and knowledge, we can replace our prejudices with cooperation and understanding.
+但通过教育和知识，我们可以用合作和理解来取代偏见。
+
+[p41s0]
+When I started high school, it was a shock.
+当我开始上高中时，我感到很震惊。
+
+[p41s1]
+I had spent eight years fighting my way to be the most popular kid in the Catholic school student body.
+我花了八年的时间努力成为天主教学校学生中最受欢迎的孩子。
+
+[p41s2]
+I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school.
+我曾经是一个高大、强硬的八年级学生，突然之间，我变成了一个孤独的九年级学生，被管理高中的高大、强硬的十二年级高年级生欺负。
+
+[p41s3]
+I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are.
+那时我意识到，为某件事而努力是件好事，但你也必须享受你所处的时刻，并为你所在的地方感到高兴。
+
+[p41s4]
+Rock and roll had always been an important part of my life.
+摇滚乐一直是我生活的重要组成部分。
+
+[p41s5]
+I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends.
+我记得我和我的朋友们常常开车到处听摇滚传奇的音乐直到深夜。
+
+[p41s6]
+During those teenage years, I built friendships that I thought would last a lifetime.
+在青少年时期，我建立了我认为会持续一生的友谊。
+
+[p41s7]
+Most people that age think the same thing, but people drift apart.
+大多数同龄人的想法都是一样的，但人们却渐行渐远。
+
+[p41s8]
+Jobs, families and tragedies separate people from those lasting friendships.
+工作、家庭和悲剧使人们与那些持久的友谊分离。
+
+[p42s0]
+The tragedy that separated me from my friends forever was the Vietnam war.
+使我与朋友永远分离的悲剧是越南战争。
+
+[p42s1]
+A year after I graduated from high school, I left for Vietnam.
+高中毕业一年后，我前往越南。
+
+[p42s2]
+I came back, burned out, and tired, as though I had lived 10 lifetimes in the short span of 14 months, the 14 months I was in the war.
+我回来时，精疲力竭，疲惫不堪，仿佛我在短短的 14 个月里活了 10 辈子，而这 14 个月是我在战争中度过的。
+
+[p42s3]
+I couldn't relate to the friends I had had in high school.
+我无法与高中时的朋友建立联系。
+
+[p42s4]
+They still seem childish, concerned with childish things that weren't important to me.
+他们看起来仍然很幼稚，关心对我来说不重要的幼稚事情。
+
+[p42s5]
+I was still trying to cope with the death, destruction and evil I had seen in Vietnam.
+我仍在努力应对我在越南看到的死亡、破坏和邪恶。
+
+[p42s6]
+I felt like we had done terrible things to innocent people there and in turn, I had seen terrible things done to my friends.
+我觉得我们对那里的无辜人民做了可怕的事情，反过来，我也看到我的朋友们也受到了可怕的事情。
+
+[p43s0]
+I withdrew for my friends and started college.
+我为了朋友们退出并开始上大学。
+
+[p43s1]
+Then I quit college and took many different jobs.
+然后我从大学退学并从事了许多不同的工作。
+
+[p43s2]
+I spent a lot of my time and money on alcohol and other drugs.
+我花了很多时间和金钱在酒精和其他毒品上。
+
+[p43s3]
+Finally, in an effort to get my life going in the right direction again, I sold everything and took what little money I had and bought myself an airplane ticket to Israel.
+最后，为了让我的生活重新回到正确的方向，我变卖了一切，用仅有的一点钱给自己买了一张飞往以色列的机票。
+
+[p43s4]
+I went there to study history.
+我去那里学习历史。
+
+[p43s5]
+While studying at Haifa University, I met my wife, who was also an American student.
+在海法大学学习期间，我认识了我的妻子，她也是一名美国学生。
+
+[p44s0]
+I now teach in a high school back in America.
+我现在在美国的一所高中教书。
+
+[p44s1]
+I look at my students and see them struggling with many of the very things I struggled with many years ago.
+我看着我的学生，看到他们正在为许多我多年前所困扰的事情而苦苦挣扎。
+
+[p44s2]
+As a teacher, I try to help them over the rough spots as best I can.
+作为一名老师，我会尽力帮助他们度过难关。
+

@@ -142,3 +142,675 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+It's my last day at work tomorrow.
+明天是我最后一天工作。
+
+[p0s1]
+I start my new job in two weeks.
+两周后我开始新工作。
+
+[p0s2]
+My human resources manager wants to conduct an interview with me before I leave.
+我的人力资源经理想在我离开之前对我进行面试。
+
+[p1s0]
+Ah, an exit interview.
+啊，离职面谈。
+
+[p1s1]
+Are you looking forward to it?
+你期待吗？
+
+[p2s0]
+I'm not sure how I feel about it.
+我不确定我对此有何感受。
+
+[p2s1]
+I resigned because I've been unhappy at that company for a long time, but I'm not sure if I should tell them how I really feel.
+我辞职是因为我长期以来在那家公司不开心，但我不确定是否应该告诉他们我的真实感受。
+
+[p3s0]
+To my way of thinking, there are two main potential benefits that come from unleashing an agitated stream of truth during an exit interview.
+在我看来，在离职面谈中说出一系列激动人心的真相有两个主要的潜在好处。
+
+[p3s1]
+The first is release.
+首先是释放。
+
+[p3s2]
+Unburdening yourself of frustration and perhaps even anger to someone who isn't a friend or close colleague can be wonderfully freeing.
+向不是朋友或亲密同事的人倾诉沮丧甚至愤怒，可以带来极大的自由。
+
+[p4s0]
+And let me guess.
+让我猜猜。
+
+[p4s1]
+The second is that the criticism will, theoretically, help the organization I'm leaving to improve, making sure employees of the future are less likely to encounter what I did?
+第二个是，从理论上讲，这些批评会帮助我离开的组织得到改进，确保未来的员工不太可能遇到我所做的事情？
+
+[p5s0]
+That's right.
+没错。
+
+[p5s1]
+But the problem with the company improvement part is that very often it doesn't happen.
+但公司改进部分的问题是，它通常不会发生。
+
+[p5s2]
+An exit interview is supposed to be private, but often isn't.
+离职面谈应该是私密的，但事实往往并非如此。
+
+[p5s3]
+In my company, the information gained from these interviews is often not confidential, and the information is used as dirt against another manager or can be traded among senior managers.
+在我的公司，从这些访谈中获得的信息通常不是保密的，这些信息会被用作攻击另一位经理的污点，或者可以在高级管理人员之间进行交易。
+
+[p6s0]
+Now you've got me rethinking what I'll disclose in the interview.
+现在你让我重新考虑我将在采访中透露的内容。
+
+[p6s1]
+There is always the chance that it could affect my reputation and my ability to network in the industry.
+它总是有可能影响我的声誉和我在行业中的人际网络能力。
+
+[p6s2]
+It is a pretty small industry after all.
+毕竟这是一个相当小的行业。
+
+[p7s0]
+Anything you initially gain from the instant satisfaction of telling it like it is, you might lose down the track by injuring your future career prospects.
+女：任何你最初从如实讲述的即时满足感中获得的任何东西，你都可能会因损害你未来的职业前景而失去。
+
+[p8s0]
+Right.
+对。
+
+[p8s1]
+Perhaps I would be better getting things off my chest by going to one of those rate-your-employer websites.
+也许我可以通过访问那些为雇主评分的网站之一来倾诉心事。
+
+[p9s0]
+You could, and don't do the interview at all.
+你可以，但根本不接受采访。
+
+[p9s1]
+Exit interviews are not mandatory.
+离职面谈不是强制性的。
+
+[p10s0]
+Today, I'm talking to the renowned botanist, Jane Forster.
+今天，我正在采访著名的植物学家简·福斯特。
+
+[p10s1]
+Thank you for inviting me to join you on the show, Henry.
+谢谢你邀请我和你一起参加这个节目，亨利。
+
+[p11s0]
+Recently, Jane, you've become quite a celebrity, since the release of your latest documentary.
+最近，简，自从你最新的纪录片上映以来，你已经成为了名人。
+
+[p11s1]
+Can you tell us a little about it?
+您能告诉我们一些情况吗？
+
+[p12s0]
+Well, it follows my expedition to study the vegetation indigenous to the rainforest in equatorial areas of Southeast Asia.
+女：嗯，这是我对东南亚赤道地区雨林原生植被进行考察之后的事情。
+
+[p13s0]
+You certainly get to travel to some very exotic locations.
+男：你当然会去一些非常有异国情调的地方旅行。
+
+[p14s0]
+It was far from glamorous, to be honest.
+老实说，它远非迷人。
+
+[p14s1]
+The area we visited was accessible only by canoe, and the living conditions in the hut were primitive, to say the least.
+我们参观的地区只能乘独木舟到达，而且小屋里的生活条件至少可以说很原始。
+
+[p14s2]
+There was no electricity, and our water supply was a nearby stream.
+没有电，我们的供水是附近的一条小溪。
+
+[p15s0]
+How were the weather conditions while you were there?
+男：你去的时候天气怎么样？
+
+[p16s0]
+The weather was not conducive to our work at all, since the humidity was almost unbearable.
+天气根本不利于我们的工作，因为湿度几乎难以忍受。
+
+[p16s1]
+At midday, we stayed in the hut and did nothing.
+中午，我们呆在小屋里，什么也不做。
+
+[p16s2]
+It was too humid to either work or sleep.
+天气太潮湿，无法工作或睡觉。
+
+[p17s0]
+How long did your team spend in the jungle?
+男：你们的团队在丛林里待了多长时间？
+
+[p18s0]
+Originally, we planned to be there for a month, but in the end, we stayed for only two weeks.
+女：本来我们计划在那里待一个月，但最终只待了两周。
+
+[p19s0]
+Why did you cut the expedition short?
+男：你为什么缩短这次探险？
+
+[p20s0]
+Halfway through the trip, we received news that a hurricane was approaching, and we had to evacuate at very short notice.
+女：在行程中途，我们收到飓风即将来临的消息，我们不得不在很短的时间内撤离。
+
+[p21s0]
+That sounds like a fascinating anecdote.
+男：这听起来像是一个有趣的轶事。
+
+[p22s0]
+It was frightening.
+太可怕了。
+
+[p22s1]
+The fastest evacuation route was through river rapids.
+最快的疏散路线是穿过急流。
+
+[p22s2]
+We had to navigate them carrying all of our equipment.
+我们必须携带我们所有的设备来引导他们。
+
+[p23s0]
+So overall, was the journey unsuccessful?
+男：那么总的来说，这次旅行是不成功的吗？
+
+[p24s0]
+Absolutely not.
+绝对不是。
+
+[p24s1]
+We gathered a massive amount of data about the local plant life.
+我们收集了大量有关当地植物生命的数据。
+
+[p25s0]
+Why do you put up with such adverse conditions?
+男：为什么要忍受如此不利的条件呢？
+
+[p26s0]
+Botany is an obsession for me.
+植物学对我来说是一种痴迷。
+
+[p26s1]
+Many of the destinations I visit have stunning scenery, and I get to meet a variety of people from all over the world.
+我访问的许多目的地都有令人惊叹的风景，我遇到了来自世界各地的各种各样的人。
+
+[p27s0]
+So where will your next destination be?
+男：那么你的下一个目的地会是哪里？
+
+[p28s0]
+I haven't decided yet.
+女：我还没决定。
+
+[p29s0]
+Then we can leave it for another occasion.
+然后我们可以把它留到另一个场合。
+
+[p29s1]
+Thanks.
+谢谢。
+
+[p30s0]
+Scientists often use specialised jargon terms while communicating with laymen.
+科学家在与外行交流时经常使用专业术语。
+
+[p30s1]
+Most of them don't realise the harmful effects of this practice.
+他们中的大多数人没有意识到这种做法的有害影响。
+
+[p30s2]
+In a new study, people exposed to jargon when reading about subjects like autonomous vehicles and surgical robots later said they were less interested in science than others who read about the same topics but without the use of specialised terms.
+在一项新的研究中，在阅读自动驾驶汽车和手术机器人等主题时接触过行话的人后来表示，他们对科学的兴趣不如那些阅读相同主题但不使用专业术语的人。
+
+[p30s3]
+They also felt less informed about science and less qualified to discuss science topics.
+他们还觉得自己对科学了解较少，也没有资格讨论科学话题。
+
+[p30s4]
+It's noteworthy that it made no difference if the jargon terms were defined in the text.
+值得注意的是，行话术语是否在文本中定义并没有什么区别。
+
+[p30s5]
+Even when the terms were defined, readers still felt the same lack of engagement as readers who read jargon that wasn't explained.
+即使定义了术语，读者仍然会像阅读未解释的术语的读者一样感到缺乏参与度。
+
+[p30s6]
+The problem is that the mere presence of jargon sends a discouraging message to readers.
+问题在于，行话的存在就会给读者带来令人沮丧的信息。
+
+[p30s7]
+Hilary Shulman, the author of the study, asserts that specialised words are a signal.
+该研究的作者希拉里·舒尔曼 (Hilary Shulman) 断言，专用词是一种信号。
+
+[p30s8]
+Jargon tells people that the message isn't for them.
+行话告诉人们该信息不适合他们。
+
+[p30s9]
+There's an even darker side to how people react to jargon.
+人们对行话的反应还有更阴暗的一面。
+
+[p30s10]
+In another study, researchers found that reading scientific articles containing jargon led people to doubt the actual science.
+在另一项研究中，研究人员发现，阅读包含行话的科学文章会导致人们怀疑真正的科学。
+
+[p30s11]
+They found the opposite when a text is easier to read.
+当文本更容易阅读时，他们发现了相反的情况。
+
+[p30s12]
+Then, people are more persuaded.
+这样一来，人们就更加信服了。
+
+[p30s13]
+Thus, it's important to communicate clearly when talking about complex science subjects.
+因此，在谈论复杂的科学主题时，清晰地沟通非常重要。
+
+[p30s14]
+This is especially true with issues related to public health, like the safety of new medications and the benefits of vaccines.
+对于与公共卫生相关的问题尤其如此，例如新药物的安全性和疫苗的益处。
+
+[p30s15]
+Shulman concedes that the use of jargon is appropriate with scientific audiences.
+舒尔曼承认，术语的使用适合科学受众。
+
+[p30s16]
+But scientists who want to communicate with the general public need to modify their language.
+但想要与公众交流的科学家需要修改他们的语言。
+
+[p30s17]
+They need to eliminate jargon.
+他们需要消除行话。
+
+[p31s0]
+At the beginning of the 20th century, on the Gulf Coast in the U.S. state of Texas, there was a hill where gas leakage was so noticeable that schoolboys would sometimes set the hill on fire.
+20世纪初，在美国得克萨斯州墨西哥湾沿岸，有一座小山，煤气泄漏非常明显，以至于学生们有时会放火烧山。
+
+[p31s1]
+Patio Higgins, a disreputable local businessman, became convinced that there was oil below the gassy hill.
+帕蒂奥·希金斯是一位声名狼藉的当地商人，他确信这座充满气体的山下蕴藏着石油。
+
+[p31s2]
+Oil wells weren't drilled back then.
+那时还没有开采油井。
+
+[p31s3]
+They were essentially dug.
+它们基本上是被挖出来的。
+
+[p31s4]
+The sand under the hill defeated several attempts by Higgins' workers to make a proper hole.
+希金斯的工人们多次试图挖一个合适的洞，但山下的沙子却挫败了他们的努力。
+
+[p31s5]
+Higgins had forecast oil at 1,000 feet, a totally made-up figure.
+希金斯预测石油高度为 1,000 英尺，这完全是捏造的数字。
+
+[p31s6]
+Higgins subsequently hired a mining engineer, Captain Anthony Lucas.
+希金斯随后聘请了一位采矿工程师安东尼·卢卡斯上尉。
+
+[p31s7]
+After encountering several setbacks, Captain Lucas decided to use a drill, and his innovations created the modern oil drilling industry.
+几经周折后，卢卡斯船长决定使用钻头，他的创新创造了现代石油钻探行业。
+
+[p31s8]
+In January 1901, at 1,020 feet, almost precisely the depth predicted by Higgins' wild guess, the well roared and suddenly ejected mud and six tons of drilling pipe out of the ground, terrifying those present.
+1901 年 1 月，在 1,020 英尺处，几乎正是希金斯疯狂猜测的深度，井发出轰鸣声，突然将泥浆和 6 吨钻杆从地下喷出，吓坏了在场的人。
+
+[p31s9]
+For the next nine days until the well was capped, the well poured out more oil than all the wells in America combined.
+在接下来的九天内，直到该井被封顶为止，该井流出的石油比美国所有油井的总和还多。
+
+[p31s10]
+In those days, Texas was almost entirely rural, with no large cities and practically no industry.
+当时，德克萨斯州几乎完全是农村，没有大城市，几乎没有工业。
+
+[p31s11]
+Cotton and beef were the foundation of the economy.
+棉花和牛肉是经济的基础。
+
+[p31s12]
+Higgins' well changed that.
+希金斯很好地改变了这一点。
+
+[p31s13]
+The boom made some prospectors millionaires, but the sudden surplus of petroleum was not entirely a blessing for Texas.
+繁荣使一些探矿者成为百万富翁，但石油的突然过剩对德克萨斯州来说并不完全是一件幸事。
+
+[p31s14]
+In the 1930s, prices crashed to the point that, in some parts of the country, oil was cheaper than water.
+20 世纪 30 年代，价格暴跌，在该国某些地区，石油比水还便宜。
+
+[p31s15]
+That would become a familiar pattern of the boom-or-bust Texas economy.
+这将成为德克萨斯州经济繁荣或萧条的常见模式。
+
+[p32s0]
+Most people dislike their jobs.
+大多数人不喜欢他们的工作。
+
+[p32s1]
+It's an astonishing but statistical fact.
+这是一个令人惊讶的统计事实。
+
+[p32s2]
+A primary cause of employee dissatisfaction, according to fresh research, is that many believe they have terrible managers.
+根据最新研究，员工不满的主要原因是许多人认为他们的经理很糟糕。
+
+[p32s3]
+Few describe their managers as malicious or manipulative, though.
+不过，很少有人形容他们的经理是恶意的或善于操纵的。
+
+[p32s4]
+While those types certainly exist, they're a minority.
+虽然这些类型确实存在，但他们只是少数。
+
+[p32s5]
+The majority of managers seemingly just don't know any better.
+大多数经理似乎对此一无所知。
+
+[p32s6]
+They're often emulating bad managers they've had in the past.
+他们经常效仿过去的糟糕管理者。
+
+[p32s7]
+It's likely they've never read a management book or attended a management course.
+他们很可能从未读过管理书籍或参加过管理课程。
+
+[p32s8]
+They might not have even reflected on what good management looks like and how it would influence their own management style.
+他们甚至可能没有反思过什么是好的管理以及它将如何影响他们自己的管理风格。
+
+[p33s0]
+The researchers interviewed employees about their managers, beginning with a question about the worst manager they had ever had.
+研究人员采访了员工关于他们的经理的情况，首先询问了他们遇到过的最糟糕的经理。
+
+[p33s1]
+From this, the researchers came up with four main causes of why some managers are perceived as being simply awful at their jobs.
+由此，研究人员得出了一些管理者被认为工作表现不佳的四个主要原因。
+
+[p33s2]
+The first cause was company culture, which was seen by employees as enabling poor management practices.
+第一个原因是公司文化，员工认为这种文化会导致不良的管理实践。
+
+[p33s3]
+It was specifically stressful work environments, minimal training, and a lack of accountability that were found to be the most blameworthy.
+人们发现，最应该受到指责的是特别紧张的工作环境、最少的培训和缺乏责任感。
+
+[p33s4]
+Often, a manager's superiors can effectively encourage a manager's distasteful behavior when they fail to discipline the person's wrongdoings.
+通常，当经理的上级未能对经理的不当行为进行纪律处分时，他们会有效地鼓励经理的令人反感的行为。
+
+[p33s5]
+Such workplaces are sometimes described as toxic.
+此类工作场所有时被描述为有毒的。
+
+[p33s6]
+The second cause was attributed to the manager's characteristics.
+第二个原因是管理者的性格。
+
+[p33s7]
+Those deemed to be most destructive were odd people, those without drive, those who allow personal problems into the workplace, and those with an unpleasant temperament or personality in general.
+那些被认为最具破坏性的人是奇怪的人、没有动力的人、允许个人问题进入工作场所的人以及那些脾气或性格总体上令人不愉快的人。
+
+[p33s8]
+The third cause of poor management was associated with a deficiency of qualifications.
+管理不善的第三个原因与资质不足有关。
+
+[p33s9]
+Not so much the formal variety one obtains from a university, but the informal variety that comes from credible work experience and professional accomplishments.
+与其说人们从大学获得了正式的多样性，不如说是来自可靠的工作经验和专业成就的非正式的多样性。
+
+[p33s10]
+The fourth cause concerned managers who've been promoted for reasons other than potential.
+第四个原因涉及那些因潜力以外的原因而得到晋升的经理。
+
+[p33s11]
+One reason in particular why these people had been promoted was that they had been around the longest.
+这些人获得晋升的一个特别原因是他们在位时间最长。
+
+[p33s12]
+It wasn't their skill set or other merits that got them the job.
+并不是他们的技能或其他优点让他们获得了这份工作。
+
+[p33s13]
+It was their tenure.
+这是他们的任期。
+
+[p34s0]
+A point worth making is that the study was based only on the perspective of employees.
+值得一提的是，这项研究仅基于员工的观点。
+
+[p34s1]
+The researchers didn't ask senior leaders what they thought of their frontline managers.
+研究人员没有询问高级领导者对一线经理的看法。
+
+[p34s2]
+It's quite possible they're content with how the individuals they promoted are now performing, merrily ignorant of the damage they're actually causing, which might explain why, as the researchers conclude, those same middle managers are usually unaware that they are a bad manager.
+他们很可能对他们提拔的个人现在的表现感到满意，而对他们实际造成的损害一无所知，这也许可以解释为什么，正如研究人员得出的结论，这些中层管理者通常没有意识到他们是一个糟糕的管理者。
+
+[p35s0]
+With the use of driverless vehicles seemingly inevitable, mining companies in the vast Australian desert state of Western Australia are definitely taking the lead.
+随着无人驾驶汽车的使用似乎不可避免，西澳大利亚州广阔的沙漠州的矿业公司无疑处于领先地位。
+
+[p35s1]
+Iron ore is a key ingredient in steelmaking.
+铁矿石是炼钢的关键原料。
+
+[p35s2]
+The mining companies here produce almost 300 million tons of iron ore a year.
+这里的矿业公司每年生产近3亿吨铁矿石。
+
+[p35s3]
+The 240 giant autonomous trucks in use in the Western Australian mines can weigh 400 tons fully loaded and travel at speeds of up to 60 km per hour.
+西澳大利亚矿山使用的 240 辆巨型自动驾驶卡车满载重达 400 吨，行驶速度可达每小时 60 公里。
+
+[p35s4]
+They are a technological leap, transporting iron ore along routes which run for hundreds of kilometers from mines to their destinations.
+它们是一次技术飞跃，将铁矿石沿着从矿山长达数百公里的路线运输到目的地。
+
+[p35s5]
+Here, when the truck arrives at its destination, staff in the operations center direct it precisely where to unload.
+在这里，当卡车到达目的地时，运营中心的工作人员会准确地指示它到哪里卸货。
+
+[p35s6]
+Vast quantities of iron ore are then transported by autonomous trains to ocean ports.
+然后，大量铁矿石通过自动列车运输到海港。
+
+[p35s7]
+Advocates argue these automated vehicles will change mining forever.
+支持者认为这些自动化车辆将永远改变采矿业。
+
+[p35s8]
+It may only be five years before the use of automation technology leads to a fully robotic mine.
+自动化技术的使用可能只需要五年就能实现完全机器人化的矿山。
+
+[p36s0]
+A range of factors has pushed Western Australia's desert region to the lead of this automation revolution.
+一系列因素推动西澳大利亚沙漠地区成为这场自动化革命的领先者。
+
+[p36s1]
+These include the huge size of the mines, the scale of equipment, and the repetitive nature of some of the work.
+其中包括矿山规模庞大、设备规模庞大以及一些工作的重复性。
+
+[p36s2]
+Then there's the area's remoteness.
+然后是该地区的偏远。
+
+[p36s3]
+At 502,000 square kilometers, it can sometimes make recruiting staff a challenge.
+面积达 502,000 平方公里，有时招聘员工会成为一项挑战。
+
+[p36s4]
+Another consideration is the risks when humans interact with large machinery.
+另一个考虑因素是人类与大型机械互动时的风险。
+
+[p36s5]
+There are also the financial imperatives.
+还有财务上的需要。
+
+[p36s6]
+The ongoing push by the mining corporations to be more productive and more efficient is another powerful driver in embracing automation technology.
+矿业公司不断推动提高生产力和效率是采用自动化技术的另一个强大推动力。
+
+[p37s0]
+The concept of a fully autonomous mine is a bit of a misleading term, however.
+然而，完全自主矿山的概念有点误导性。
+
+[p37s1]
+This is because the more technology is put into the field, the more people are needed to deploy, maintain, and improve it.
+这是因为投入该领域的技术越多，就需要更多的人来部署、维护和改进它。
+
+[p37s2]
+The automation and digitization of the industry is creating a need for different jobs.
+该行业的自动化和数字化正在创造对不同工作的需求。
+
+[p37s3]
+These include data scientists and engineers in automation and artificial intelligence.
+其中包括自动化和人工智能领域的数据科学家和工程师。
+
+[p37s4]
+The mining companies claim automation and robotics present opportunities to make mining more sustainable and safer.
+矿业公司声称自动化和机器人技术为使采矿业变得更加可持续和安全提供了机会。
+
+[p37s5]
+Employees will be offered a career that is even more fulfilling and more rewarding.
+员工将获得更充实、更有价值的职业生涯。
+
+[p37s6]
+Workers' unions have accepted the inevitability of the introduction of new technology, but they still have reservations about the rise of automation technology.
+工会已经接受了新技术引入的必然性，但他们对自动化技术的兴起仍持保留态度。
+
+[p37s7]
+Their main concern is the potential impact on remote communities.
+他们主要担心的是对偏远社区的潜在影响。
+
+[p37s8]
+As automation spreads further, the question is how these remote communities will survive when the old jobs are eliminated.
+随着自动化的进一步普及，问题是当旧的工作岗位被淘汰时，这些偏远社区将如何生存。
+
+[p37s9]
+And this may well prove to be the most significant impact of robotic technology in many places around the world.
+这很可能被证明是机器人技术对世界许多地方最重大的影响。
+
+[p38s0]
+According to official statistics, Thailand's annual road death rate is almost double the global average.
+据官方统计，泰国每年的道路死亡率几乎是全球平均水平的两倍。
+
+[p38s1]
+Thai people know that their roads are dangerous, but they don't know this could easily be changed.
+泰国人知道他们的道路很危险，但他们不知道这种情况可以轻易改变。
+
+[p38s2]
+Globally, road accidents kill more people every year than any infectious disease.
+在全球范围内，道路交通事故每年造成的死亡人数比任何传染病造成的死亡人数还要多。
+
+[p38s3]
+Researchers at the Institute for Health Metrics and Evaluation in America put the death toll in 2017 at 1.24 million.
+美国健康指标与评估研究所的研究人员估计，2017 年的死亡人数为 124 万人。
+
+[p38s4]
+According to the Institute, the overall number of deaths has been more or less static since the turn of the century.
+该研究所表示，自世纪之交以来，死亡总数或多或少保持不变。
+
+[p38s5]
+But that disguises a lot of changes in individual countries.
+但这掩盖了个别国家的许多变化。
+
+[p38s6]
+In many poor countries, road accidents are killing more people than ever before.
+在许多贫穷国家，道路交通事故造成的死亡人数比以往任何时候都多。
+
+[p38s7]
+Those countries have swelling, young populations, a fast-growing fleet of cars and motorbikes, and a limited supply of surgeons.
+这些国家的年轻人口不断膨胀，汽车和摩托车数量快速增长，而外科医生的供应却有限。
+
+[p38s8]
+It is impossible to know for sure because official statistics are so inadequate.
+由于官方统计数据非常不充分，因此无法确定。
+
+[p38s9]
+But deaths are thought to have risen by 40% since 1990 in many low-income countries.
+但自 1990 年以来，许多低收入国家的死亡人数据信增加了 40%。
+
+[p38s10]
+In many rich countries, by contrast, roads are becoming even safer.
+相比之下，在许多富裕国家，道路变得更加安全。
+
+[p38s11]
+In Estonia and Ireland, for example, the number of deaths has fallen by about two-thirds since the late 1990s.
+例如，自 20 世纪 90 年代末以来，爱沙尼亚和爱尔兰的死亡人数下降了约三分之二。
+
+[p39s0]
+But the most important and intriguing changes are taking place in middle-income countries, which contain most of the world's people and most dangerous roads.
+但最重要和最有趣的变化正在中等收入国家发生，这些国家拥有世界上大多数人口和最危险的道路。
+
+[p39s1]
+According to researchers, in China and South Africa, traffic deaths have been falling since 2000 and in India since 2012.
+研究人员称，中国和南非的交通死亡人数自 2000 年以来一直在下降，印度自 2012 年以来一直在下降。
+
+[p39s2]
+And the Philippines reached its peak four years ago.
+菲律宾在四年前达到了顶峰。
+
+[p39s3]
+The question is whether Thailand can soon follow suit.
+问题是泰国是否可以很快效仿。
+
+[p39s4]
+Rob McKinney, head of the International Road Assessment Program, says that all countries tend to go through three phases.
+国际道路评估计划负责人罗布·麦金尼表示，所有国家都倾向于经历三个阶段。
+
+[p39s5]
+They begin with poor, slow roads.
+他们从糟糕、缓慢的道路开始。
+
+[p39s6]
+In the second phase, as they grow wealthier, they pave the roads, allowing traffic to move faster and pushing up the death rate.
+在第二阶段，随着他们变得更加富有，他们铺平了道路，使交通变得更快并推高了死亡率。
+
+[p39s7]
+Lastly, in the third phase, countries act to make their roads safer.
+最后，在第三阶段，各国采取行动使道路更加安全。
+
+[p39s8]
+The trick, then, is to reach the third stage sooner by focusing earlier and more closely on fatal accidents.
+那么，诀窍就是通过更早、更密切地关注致命事故来更快地进入第三阶段。
+
+[p39s9]
+How to do that?
+怎么做呢？
+
+[p39s10]
+The solution lies not just in better infrastructure but in better social incentives.
+解决方案不仅在于更好的基础设施，还在于更好的社会激励措施。
+
+[p39s11]
+Safe driving habits are practices which people know they should follow but often don't.
+安全驾驶习惯是人们知道应该遵循但往往没有遵循的做法。
+
+[p39s12]
+Dangerous driving is not a fixed cultural trait, as some imagine.
+危险驾驶并不像一些人想象的那样是一种固定的文化特征。
+
+[p39s13]
+People respond to incentives such as traffic laws that are actually enforced.
+人们会对实际执行的交通法规等激励措施做出反应。
+

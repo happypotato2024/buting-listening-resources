@@ -190,3 +190,619 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Hi, my name's Cathy.
+嗨，我叫凯茜。
+
+[p0s1]
+Nice to meet you!
+很高兴认识你！
+
+[p1s0]
+Nice to meet you too, Cathy.
+我也很高兴认识你，凯茜。
+
+[p1s1]
+My name's John.
+我叫约翰。
+
+[p1s2]
+I'm a university friend of the bride.
+我是新娘的大学朋友。
+
+[p1s3]
+What about you?
+你呢？
+
+[p1s4]
+Who do you know at this party?
+这次聚会你认识谁？
+
+[p2s0]
+I am a colleague of Brenda.
+我是布伦达的同事。
+
+[p2s1]
+I was a little surprised to be invited, to be honest.
+说实话，我对被邀请感到有点惊讶。
+
+[p2s2]
+We've only been working together the last six months, but we quickly became good friends.
+我们只在一起工作了六个月，但我们很快就成为了好朋友。
+
+[p2s3]
+We just wrapped up a project with a difficult client last week.
+上周我们刚刚完成了一个与一位棘手的客户合作的项目。
+
+[p2s4]
+I bet Brenda is glad it's done with and she can focus on wedding preparations.
+我敢打赌布伦达很高兴一切都结束了，她可以专注于婚礼准备工作。
+
+[p3s0]
+Oh, yes, so you're Cathy from the office.
+哦，是的，你是办公室的凯茜。
+
+[p3s1]
+Actually I've heard a lot about you, and that project.
+事实上，我听说过很多关于你和那个项目的事。
+
+[p3s2]
+The client sounded like a real nightmare.
+客户听起来就像一场真正的噩梦。
+
+[p4s0]
+Oh, he was.
+哦，他是。
+
+[p4s1]
+I mean we deal with all kinds of people on a regular basis.
+我的意思是我们经常与各种各样的人打交道。
+
+[p4s2]
+It's part of the job, but he was especially particular.
+这是工作的一部分，但他特别特别。
+
+[p4s3]
+Enough about that.
+够了。
+
+[p4s4]
+What line of work are you in?
+您从事什么工作？
+
+[p5s0]
+Well, right out of college, I worked in advertising for a while.
+嗯，大学刚毕业，我就在广告业工作过一段时间。
+
+[p5s1]
+Recently though, I turned my photography hobby into a small business.
+不过最近，我把摄影爱好变成了一项小生意。
+
+[p5s2]
+I'll actually be taking photos during the big event as a wedding gift.
+实际上我会在大型活动期间拍照作为结婚礼物。
+
+[p6s0]
+That sounds wonderful, and very thoughtful of you.
+听起来很棒，而且你想得很周到。
+
+[p6s1]
+I bake just as a hobby, but Brenda has asked me to do the cake for the wedding.
+我烘焙只是一种爱好，但布伦达请我为婚礼做蛋糕。
+
+[p6s2]
+I was a bit nervous saying yes, because I'm far from a professional.
+我有点紧张地说“是”，因为我距离专业人士还很远。
+
+[p7s0]
+Did you bake the cookies here at the party tonight?
+男：今晚聚会上你在这里烤饼干了吗？
+
+[p8s0]
+Yes, I got the idea from a magazine.
+女：是的，我从一本杂志上得到了这个想法。
+
+[p9s0]
+They're delicious.
+它们很好吃。
+
+[p9s1]
+You've got nothing to worry about.
+你无需担心。
+
+[p9s2]
+You're a natural.
+你是天生的。
+
+[p10s0]
+You really think so?
+女：你真的这么认为吗？
+
+[p11s0]
+If you hadn't told me that, I would have guessed they were baked by the restaurant.
+如果你不告诉我，我会猜它们是餐厅烤的。
+
+[p11s1]
+You know, with your event planning experience, you could very well open your own shop.
+您知道，凭借您的活动策划经验，您完全可以开设自己的商店。
+
+[p12s0]
+One step at a time.
+一次一步。
+
+[p12s1]
+First I'll see how baking the wedding cake goes.
+首先我来看看如何烘烤婚礼蛋糕。
+
+[p12s2]
+If it's not a disaster, maybe I'll give it some more thought.
+如果不是一场灾难，也许我会再考虑一下。
+
+[p13s0]
+You are heading for a completely different world now that you are about to graduate from high school.
+男：现在你即将高中毕业，你正在走向一个完全不同的世界。
+
+[p14s0]
+I know it's the end of high school, but many of my classmates are going on to the same university and we are still required to study hard, so what's the difference?
+女：我知道高中已经结束了，但是我的很多同学都考上了同一所大学，我们仍然需要努力学习，那有什么区别呢？
+
+[p15s0]
+Many aspects are different here at university.
+大学里的很多方面都不同。
+
+[p15s1]
+The most important one is that you have to take more individual responsibility for your actions.
+最重要的是你必须对自己的行为承担更多的个人责任。
+
+[p15s2]
+It's up to your own self-discipline how much effort you put into study.
+学习上付出多少努力就看你自己的自律了。
+
+[p15s3]
+Living in college dormitories, there are no parents to tell you to study harder or stop wasting time.
+住在大学宿舍里，没有父母告诉你要更加努力地学习或者不要再浪费时间了。
+
+[p15s4]
+Lecturers have hundreds of students and they are not going to follow you up or question you if you miss their lectures.
+讲师有数百名学生，如果您错过了他们的讲座，他们不会跟踪您或询问您。
+
+[p16s0]
+Nobody cares, you mean?
+女：没有人在乎，你是说？
+
+[p17s0]
+It's not that nobody is concerned about you.
+并不是没人关心你。
+
+[p17s1]
+It's just that suddenly at university you are expected to behave like an adult, that means concentrating on the direction of your life in general and your own academic performance specifically.
+只是突然间，在大学里，你被要求表现得像个成年人，这意味着你要关注你的生活方向，特别是你自己的学业表现。
+
+[p18s0]
+For example?
+女：例如？
+
+[p19s0]
+Well, like you need to manage your daily, weekly and monthly schedules so that you will study regularly.
+好吧，就像你需要管理你每天、每周和每月的日程安排，这样你才能定期学习。
+
+[p19s1]
+Be sure to attend all classes and leave enough time to finish assignments and prepare well for examinations.
+请务必参加所有课程并留出足够的时间完成作业并为考试做好准备。
+
+[p20s0]
+Okay, and what else is different?
+女：好的，还有什么不同吗？
+
+[p21s0]
+Well, in college there are lots of distractions and you need to control yourself.
+嗯，在大学里有很多干扰，你需要控制自己。
+
+[p21s1]
+You will make interesting friends, but you need only keep the friends who respect your student commitments.
+你会结交有趣的朋友，但你只需要保留那些尊重你学生承诺的朋友。
+
+[p21s2]
+Also, there are a lot of wonderful clubs, but you shouldn't allocate too much time to club activities, unless they are directly related to your study.
+另外，还有很多很棒的俱乐部，但你不应该在俱乐部活动上分配太多时间，除非它们与你的学习直接相关。
+
+[p21s3]
+It's also your choice if you want to go out at night, but you will be foolish to let that affect your class performance during the day.
+如果你想晚上出去，这也是你的选择，但如果让它影响你白天的课堂表现，那就太愚蠢了。
+
+[p22s0]
+Well, I'm determined to do well at university and I guess I am going to have to grow up fast.
+女：嗯，我决心在大学取得好成绩，我想我必须快速成长。
+
+[p23s0]
+Most successful people are unorthodox persons whose minds wander outside traditional ways of thinking.
+大多数成功人士都是非正统的人，他们的思想游离于传统的思维方式之外。
+
+[p23s1]
+Instead of trying to refine old formulas, they invent new ones.
+他们没有尝试改进旧的公式，而是发明了新的公式。
+
+[p24s0]
+When Jean-Claude Killy made the French national ski team in the early 1960s, he was prepared to work harder than anyone else to be the best.
+当让-克洛德·基利 (Jean-Claude Killy) 在 20 世纪 60 年代初入选法国国家滑雪队时，他准备比任何人都更加努力，以成为最好的。
+
+[p24s1]
+At the crack of dawn he would run up the slopes with his skis on, an unbelievably backbreaking activity.
+黎明时分，他会穿着滑雪板跑上斜坡，这是一项令人难以置信的体力活动。
+
+[p24s2]
+In the evening he would do weight lifting and running.
+晚上他会举重和跑步。
+
+[p24s3]
+But the other team members were working as hard and long as he was.
+但其他团队成员和他一样努力、长时间地工作。
+
+[p24s4]
+He realized instinctively that simply training harder would never be enough.
+他本能地意识到，仅仅更加努力的训练是远远不够的。
+
+[p25s0]
+Killy then began challenging the basic theories of racing technique.
+随后基利开始挑战赛车技术的基本理论。
+
+[p25s1]
+Each week he would try something different to see if he could find a better, faster way down the mountain.
+每周他都会尝试不同的事情，看看是否能找到更好、更快的下山方法。
+
+[p25s2]
+His experiments resulted in a new style that was almost exactly opposite the accepted technique of the time.
+他的实验产生了一种新的风格，几乎与当时公认的技术完全相反。
+
+[p25s3]
+It involved skiing with his legs apart for better balance and sitting back on the skis when he came to a turn.
+他滑雪时双腿分开，以保持更好的平衡，并在转弯时坐在滑雪板上。
+
+[p25s4]
+He also used ski poles in an unorthodox way — to propel himself as he skied.
+他还以一种非正统的方式使用滑雪杖——在滑雪时推动自己。
+
+[p25s5]
+The explosive new style helped cut Killy's racing time dramatically.
+爆炸性的新风格极大地缩短了基利的比赛时间。
+
+[p25s6]
+In 1966 and 1967 he captured virtually every major skiing trophy.
+1966 年和 1967 年，他几乎夺得了所有主要的滑雪奖杯。
+
+[p25s7]
+The next year he won three gold medals in the Winter Olympics, a record in ski racing that has never been topped.
+第二年，他在冬季奥运会上获得了三枚金牌，这是滑雪比赛中从未被打破的记录。
+
+[p26s0]
+Killy learned an important secret shared by many creative people: innovations don't require genius, just a willingness to question the way things have always been done.
+基利学到了许多创意人士共有的一个重要秘密：创新不需要天才，只需要愿意质疑传统的做事方式。
+
+[p27s0]
+Scientific experiments have demonstrated incredible ways to kill a guinea pig, a small furry animal.
+科学实验已经证明了杀死豚鼠（一种毛茸茸的小动物）的令人难以置信的方法。
+
+[p27s1]
+Emotional upsets generate powerful and deadly toxic substances.
+情绪不安会产生强大而致命的有毒物质。
+
+[p27s2]
+Blood samples taken from persons experiencing intense fear or anger when injected into guinea pigs have killed them in less than two minutes.
+从经历强烈恐惧或愤怒的人身上采集的血液样本注射到豚鼠体内后不到两分钟就杀死了豚鼠。
+
+[p27s3]
+Imagine what these poisonous substances can do to your own body.
+想象一下这些有毒物质会对您自己的身体造成什么影响。
+
+[p28s0]
+Every thought that you have affects your body chemistry within a split second.
+你的每一个想法都会在瞬间影响你的身体化学反应。
+
+[p28s1]
+Remember how you feel when you're speeding down the highway and a big truck suddenly brakes twenty meters in front of you.
+回想一下，当你在高速公路上超速行驶，一辆大卡车突然在你面前二十米处刹车时，你的感受如何。
+
+[p28s2]
+A shock wave shoots through your whole system.
+冲击波穿过你的整个系统。
+
+[p28s3]
+Your mind produces instant reactions in your body.
+你的思想会在你的身体中产生即时反应。
+
+[p29s0]
+The toxic substances that fear, anger, frustration, and stress produce not only kill guinea pigs but kill us off in a similar manner.
+恐惧、愤怒、沮丧和压力产生的有毒物质不仅会杀死豚鼠，还会以类似的方式杀死我们。
+
+[p29s1]
+It is impossible to be fearful, anxious, irritated, and healthy at the same time.
+恐惧、焦虑、烦躁和健康是不可能同时存在的。
+
+[p29s2]
+It is not just difficult, it is impossible.
+这不仅困难，而且不可能。
+
+[p30s0]
+Simply put, your body's health is a reflection of your mental health.
+简而言之，你的身体健康是你心理健康的反映。
+
+[p30s1]
+Sickness will often then be a result of unresolved inner conflicts which in time show up in the body.
+疾病往往是由于未解决的内部冲突而导致的，这些冲突最终会在身体上表现出来。
+
+[p31s0]
+It is also fascinating how our subconscious mind shapes our health.
+我们的潜意识如何塑造我们的健康也很有趣。
+
+[p31s1]
+Do you recall falling sick on a day when you didn't want to go to school?
+你还记得有一天你生病了不想去上学吗？
+
+[p31s2]
+Headaches brought on by fear?
+因恐惧而头痛？
+
+[p32s0]
+The mind-body connection is such that if, for example, we want to avoid something, very often our subconscious mind will arrange it.
+身心之间的联系是这样的，例如，如果我们想避免某件事，我们的潜意识通常会安排它。
+
+[p32s1]
+Once we recognize that these things happen to us, we are halfway to doing something about them.
+一旦我们认识到这些事情发生在我们身上，我们就已经成功采取了一些行动。
+
+[p33s0]
+Teachers and students alike have experienced the curious paradox that beginners, as a rule, tend to think too little about what they are doing because they think too much about what they are doing.
+教师和学生都经历过一个奇怪的悖论，即初学者通常对自己正在做的事情想得太少，因为他们对自己正在做的事情想得太多。
+
+[p33s1]
+Take, for example, people who are learning to play basketball or the piano.
+以正在学习打篮球或弹钢琴的人为例。
+
+[p33s2]
+They have to give so much thought and attention to the low-level mechanics of handling the ball or fingering the keys or reading the music, that they are unable to give any thought to the thing that matters — the game, or the music, respectively.
+他们必须对控球、弹奏琴键或阅读音乐的低级机制给予太多的思考和关注，以至于他们无法对重要的事情——分别是游戏或音乐——进行任何思考。
+
+[p34s0]
+With experts, it's just the other way around.
+对于专家来说，情况正好相反。
+
+[p34s1]
+They're open to the tactical possibilities and the musical challenges precisely because they're freed, through skill, from the need to pay attention to the low-level details of how to play.
+他们对战术可能性和音乐挑战持开放态度，正是因为通过技巧，他们不再需要关注如何演奏的低级细节。
+
+[p34s2]
+Indeed, when the expert pays attention to the mechanics, this is liable to disrupt performance.
+事实上，当专家关注机制时，这很可能会破坏性能。
+
+[p35s0]
+This has led some to say that the expert operates in a zone "beyond thought," in a state of flow.
+这导致一些人说，专家在“超越思想”的区域中工作，处于一种心流状态。
+
+[p35s1]
+But this is misleading.
+但这是一种误导。
+
+[p35s2]
+Expert performance is not beyond thought.
+专家的表现并非超出想象。
+
+[p36s0]
+Smart basketball players or skilled musicians need to pay close attention to the demands of high performance, to the challenges to be overcome.
+聪明的篮球运动员或熟练的音乐家需要密切关注高性能的要求以及需要克服的挑战。
+
+[p36s1]
+What they don't need to do — what would be a distraction — is to have to think about where their fingers are, or how to control the ball while running.
+他们不需要做的——这会分散注意力——是必须考虑他们的手指在哪里，或者如何在奔跑时控制球。
+
+[p36s2]
+It's not mechanics, but the play itself, that absorbs the expert's intelligence.
+吸收专家智慧的不是机制，而是游戏本身。
+
+[p37s0]
+A nice video published online last month sheds light on expertise and the conscious mind.
+上个月在网上发布的一段精彩视频揭示了专业知识和意识思维。
+
+[p37s1]
+The video reports a new study using an eye-tracking device.
+该视频报道了一项使用眼球追踪设备的新研究。
+
+[p38s0]
+It turns out that the less skilled pianist spends more time looking at her fingers than does the expert who, in contrast, is more likely to be looking at the sheet of music, or looking ahead at keys he's not yet playing.
+事实证明，技术不太熟练的钢琴家比专家花更多的时间看手指，相比之下，专家更有可能看乐谱，或者向前看他尚未弹奏的琴键。
+
+[p38s1]
+In general, the expert's gaze was calmer and more stable.
+总的来说，专家的目光更加平静，更加稳定。
+
+[p39s0]
+This is not a surprising finding.
+这并不是一个令人惊讶的发现。
+
+[p39s1]
+It supports what we might almost think of as conventional wisdom.
+它支持我们几乎认为的传统智慧。
+
+[p40s0]
+But it's remarkable for all that nonetheless.
+但尽管如此，这还是很了不起的。
+
+[p40s1]
+The eye tracker gives expert and learning performers a glimpse into what they do without thinking about it.
+眼动仪让专家和学习表演者无需思考就能一睹他们的所作所为。
+
+[p41s0]
+The topic of the nature of skill and the differences between beginners and experts has been one of considerable discussion in cognitive science and philosophy.
+技能的本质以及初学者和专家之间的差异这一话题一直是认知科学和哲学领域广泛讨论的话题之一。
+
+[p42s0]
+Every summer when I top up my selection of summer outfits from the department stores, my eyes would nearly pop out of my head.
+每年夏天，当我从百货商店购买夏季服装时，我的眼睛几乎要从我的脑袋里掉出来。
+
+[p42s1]
+I'm overwhelmed with a wide range of different slimming products each year.
+每年我都会对各种各样的减肥产品感到不知所措。
+
+[p42s2]
+And more shockingly, these products are often advocated by very slim models.
+更令人震惊的是，这些产品往往是非常苗条的模特所提倡的。
+
+[p43s0]
+Having lived in Asia for almost 10 years now, I've seen various dieting tips come and go.
+我在亚洲生活了近十年，见过各种各样的节食秘诀。
+
+[p43s1]
+I remember in Japan, people heading directly to the fruit section in the supermarket, when the banana diet was at its peak.
+我记得在日本，当香蕉饮食达到顶峰时，人们直接前往超市的水果区。
+
+[p43s2]
+Then there was the black tea and oolong tea diet, followed by the soybean diet and the tomato juice diet.
+然后是红茶和乌龙茶减肥法，其次是大豆减肥法和番茄汁减肥法。
+
+[p43s3]
+The list goes on and on.
+这样的例子不胜枚举。
+
+[p44s0]
+Apart from what people eat, I've also seen many interesting slimming products.
+除了人们吃的东西之外，我还看到了很多有趣的减肥产品。
+
+[p44s1]
+In Hong Kong, I've seen girls wrapping their whole body or both legs up with a special type of slimming tape which is supposed to help make them thinner.
+在香港，我见过女孩用一种特殊的减肥带包裹全身或双腿，据说可以帮助她们变瘦。
+
+[p44s2]
+But it just reminded me of the roasted ham my mother usually puts on the dinner table at Christmas.
+但这让我想起了圣诞节时妈妈通常放在餐桌上的烤火腿。
+
+[p44s3]
+Then there were the face slimming rollers that were said to improve your blood circulation and make your face smaller.
+还有瘦脸滚轮，据说可以改善血液循环，让脸变小。
+
+[p45s0]
+Personally, I do not believe in any of these slimming gadgets and I think I have a very different perspective when it comes to the definition of what is beautiful.
+就我个人而言，我不相信任何这些减肥工具，而且我认为当谈到什么是美丽的定义时，我有一个非常不同的观点。
+
+[p45s1]
+Asian women prefer to avoid the sun, because being pale or white is considered beautiful, whereas a tanned complexion is considered much more beautiful and sexy in the West.
+亚洲女性更喜欢避免晒太阳，因为苍白或白色被认为是美丽的，而在西方，晒黑的肤色被认为更美丽和性感。
+
+[p45s2]
+It is most certainly shaped by a person's culture as well as how they were raised in their childhood.
+它肯定是由一个人的文化以及他们童年的成长方式所塑造的。
+
+[p46s0]
+As each summer season approaches, there's no escape from it.
+每年夏季临近，人们都无法逃避。
+
+[p46s1]
+But it's not only women who are affected by this pressure to look good.
+但受到这种追求好看的压力影响的不仅仅是女性。
+
+[p46s2]
+Men aspired to be able to show off their 6-packs, or their v-shaped backs, and there's a growing market of slimming pills aimed at men too.
+男性渴望能够展示自己的六块腹肌或 V 形背部，针对男性的减肥药市场也在不断增长。
+
+[p47s0]
+I think no matter what diets we follow or what slimming products we obsess ourselves with, at the end of the day there's no magic trick to shape up for the summer.
+我认为无论我们遵循什么样的饮食习惯，或者我们痴迷于什么样的减肥产品，最终都没有什么神奇的秘诀可以让我们在夏天保持身材。
+
+[p47s1]
+Eat in a balanced way and incorporate the right level of physical activity.
+均衡饮食并进行适当水平的身体活动。
+
+[p47s2]
+For me, this still seems to be the best plan.
+对我来说，这似乎仍然是最好的计划。
+
+[p48s0]
+Skin may seem like a superficial human attribute, but it's the first thing we notice about anyone we meet.
+皮肤似乎是人类的一种肤浅特征，但这是我们见到任何人时首先注意到的事情。
+
+[p48s1]
+As a zoologist focusing on the studies of apes and monkeys, I've been studying why humans evolved to become the naked ape, and why skin comes in so many different shades around the world.
+作为一名专注于猿和猴子研究的动物学家，我一直在研究为什么人类进化成裸猿，以及为什么世界各地的皮肤有如此多不同的色调。
+
+[p49s0]
+We can make a very good estimate from the fossil record that humans probably evolved naked skin around a million and a half years ago, and meanwhile they mostly lost their coat of fur.
+我们可以从化石记录中做出很好的估计，人类可能在一百万半年前就进化出了裸露的皮肤，同时他们的皮毛大部分都消失了。
+
+[p49s1]
+Today we have a few patches of hair remaining on various parts of our bodies, but compared with apes and monkeys, we have very little.
+今天，我们身体的各个部位还残留着几片毛发，但与猿猴相比，我们的毛发很少。
+
+[p49s2]
+Basically, we turned our skin darker to serve as a natural sun protector in the place of the hair we lost.
+基本上，我们把皮肤变黑，作为天然的防晒霜来代替我们失去的头发。
+
+[p50s0]
+We think we lost this hair because of the need to keep ourselves cool when we were moving around vigorously in a hot environment.
+我们认为我们失去这些头发是因为当我们在炎热的环境中剧烈活动时需要保持凉爽。
+
+[p50s1]
+We can't really lose heat by breathing quickly and loudly like dogs.
+我们并不能像狗那样通过快速而大声的呼吸来真正散失热量。
+
+[p50s2]
+We have to do it by sweating.
+我们必须通过流汗来做到这一点。
+
+[p50s3]
+So we evolved the ability to sweat plentifully and lost most of our fur.
+因此，我们进化出了大量出汗的能力，并失去了大部分皮毛。
+
+[p51s0]
+Most animals protect themselves from the sun with fur.
+大多数动物用皮毛保护自己免受阳光照射。
+
+[p51s1]
+What we did in our ancestry was to produce more permanent natural coloring in our skin cells.
+我们祖先所做的就是在我们的皮肤细胞中产生更持久的自然色素。
+
+[p52s0]
+This was really an important revolution in human history because it allowed us to continue to evolve in equatorial environments.
+这确实是人类历史上的一次重要革命，因为它使我们能够在赤道环境中继续进化。
+
+[p52s1]
+It really made it possible for us to continue along the path toward modern humans in Africa.
+它确实使我们有可能继续沿着非洲现代人类的道路前进。
+
+[p53s0]
+For most of human history, we all had dark skin.
+在人类历史的大部分时间里，我们都是深色皮肤。
+
+[p53s1]
+What we see today is the product of evolutionary events resulting from the dispersal of a few human populations out of Africa.
+我们今天看到的是少数人类迁出非洲而导致的进化事件的产物。
+
+[p54s0]
+Our species originated around 200,000 years ago and underwent tremendous diversification — culturally, technologically, linguistically, artistically — for 130,000 years.
+我们的物种起源于大约 20 万年前，并在 13 万年的时间里经历了文化、技术、语言、艺术方面的巨大多样化。
+
+[p54s1]
+After that, a few small populations left Africa to populate the rest of the world.
+此后，少数人口离开非洲前往世界其他地区。
+
+[p54s2]
+These early ancestors of modern Eurasians dispersed into parts of the world that had more seasonal sunshine and much lower levels of sun radiation.
+这些现代欧亚人的早期祖先分散到世界上季节性阳光较多、太阳辐射水平较低的地区。
+
+[p54s3]
+It's in these populations that we begin to see real changes in the genetic makeup of natural coloring.
+正是在这些人群中，我们开始看到自然色素基因构成的真正变化。
+
+[p55s0]
+Today, skin color is evolving via new mixtures of people coming together and having children with new mixtures of skin color genes.
+如今，肤色正在通过新的人们聚集在一起并生下具有新的肤色基因混合物的孩子而不断演变。
+
+[p55s1]
+We can see this in almost every large city worldwide.
+我们几乎在全球每一个大城市都可以看到这一点。
+
+[p55s2]
+Not only the coloring genes, but lots of other genes are getting mixed up, too.
+不仅是着色基因，许多其他基因也被混淆了。
+

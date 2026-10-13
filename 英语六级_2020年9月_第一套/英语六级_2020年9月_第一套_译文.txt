@@ -118,3 +118,627 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+You are a professor of physics at the University of Oxford.
+您是牛津大学的物理学教授。
+
+[p0s1]
+You're a senior advisor at the European Organization for Nuclear Research.
+您是欧洲核研究组织的高级顾问。
+
+[p0s2]
+You also seem to tour the globe tirelessly, giving talks.
+您似乎还不知疲倦地环游世界，发表演讲。
+
+[p0s3]
+And, in addition, you have your own weekly TV show on science.
+此外，您还有自己的每周科学电视节目。
+
+[p0s4]
+Where do you get the energy?
+你从哪里获得能量？
+
+[p1s0]
+Oh, well, I just love what I do.
+哦，好吧，我只是喜欢我所做的事情。
+
+[p1s1]
+I'm extremely fortunate to have this life, doing what I love doing.
+我非常幸运能拥有这样的生活，做我喜欢做的事情。
+
+[p2s0]
+Professor, what exactly is your goal?
+教授，您的目标到底是什么？
+
+[p2s1]
+Why do you do all of this?
+你为什么要做这一切？
+
+[p3s0]
+Well, as you said, I do have different things going on.
+嗯，正如你所说，我确实有不同的事情发生。
+
+[p3s1]
+But these, I think, can be divided into two groups, the education of science and the further understanding of science.
+但我认为，这些可以分为两类：科学教育和对科学的进一步理解。
+
+[p4s0]
+Don't these two things get in the way of each other?
+这两件事不会互相妨碍吗？
+
+[p4s1]
+What I mean is, doesn't giving lectures take time away from the lab?
+我的意思是，讲课不会占用实验室的时间吗？
+
+[p5s0]
+Not really, no.
+不完全是，不。
+
+[p5s1]
+I love teaching, and I don't mind spending more time doing that now than in the past.
+我热爱教学，而且我不介意现在比过去花更多的时间来做这件事。
+
+[p5s2]
+Also, what I will say is that teaching a subject helps me comprehend it better myself.
+另外，我要说的是，教授一门学科可以帮助我自己更好地理解它。
+
+[p5s3]
+I find that it furthers my own knowledge when I have to explain something clearly, when I have to aid others in understanding it, and when I have to answer questions about it.
+我发现，当我必须清楚地解释某件事时，当我必须帮助别人理解它时，当我必须回答有关它的问题时，它会增进我自己的知识。
+
+[p5s4]
+Teaching at a high level can be very stimulating for anyone, no matter how much expertise they may already have in the field they are instructing.
+高水平的教学对任何人来说都是非常刺激的，无论他们在所教授的领域已经拥有多少专业知识。
+
+[p6s0]
+Are there any scientific breakthroughs that you see on the near horizon, a significant discovery or invention we can expect soon?
+男：您认为近期会出现什么科学突破吗？我们可以很快期待的重大发现或发明吗？
+
+[p7s0]
+The world is always conducting science, and there are constantly new things being discovered.
+世界一直在进行科学，不断有新的事物被发现。
+
+[p7s1]
+In fact, right now we have too much data sitting in computers.
+事实上，现在我们的计算机中有太多数据。
+
+[p7s2]
+For example, we have thousands of photos of planet Mars taken by telescopes that nobody has ever seen.
+例如，我们有数千张由望远镜拍摄的火星照片，但没有人见过。
+
+[p7s3]
+We have them, but nobody has had time to look at them with their own eyes, let alone analyze them.
+我们拥有它们，但没有人有时间亲眼观察它们，更不用说分析它们了。
+
+[p8s0]
+Do you think dreams have special meanings?
+男：你认为梦有特殊的意义吗？
+
+[p9s0]
+No, I don't think they do.
+女：不，我认为他们不会。
+
+[p10s0]
+I don't either, but some people do.
+我也不这么认为，但有些人却这么认为。
+
+[p10s1]
+I would say people who believe that dreams have special meanings are superstitious, especially nowadays.
+我想说那些相信梦有特殊含义的人是迷信的，尤其是在当今。
+
+[p10s2]
+In the past, during the times of ancient Egypt, Greece, or China, people used to believe that dreams could foresee the future.
+过去，在古埃及、希腊或中国时代，人们曾经相信梦可以预见未来。
+
+[p10s3]
+But today, with all the scientific knowledge that we have, I think it's much harder to believe in these sorts of things.
+但今天，凭借我们所拥有的所有科学知识，我认为相信这些事情要困难得多。
+
+[p11s0]
+My grandmother is superstitious, and she thinks dreams can predict the future.
+我的祖母很迷信，她认为梦可以预测未来。
+
+[p11s1]
+Once she dreamed that the flight she was due to take the following day crashed.
+有一次，她梦见第二天要乘坐的航班坠毁。
+
+[p11s2]
+Can you guess what she did?
+你能猜出她做了什么吗？
+
+[p11s3]
+She didn't take that flight.
+她没有乘坐那趟航班。
+
+[p11s4]
+She didn't even bother to go to the airport the following day.
+第二天她甚至懒得去机场。
+
+[p11s5]
+Instead, she took the same flight, but a week later.
+相反，她乘坐同一航班，但晚了一周。
+
+[p11s6]
+And everything was fine, of course.
+当然，一切都很好。
+
+[p11s7]
+No plane ever crashed.
+没有飞机坠毁过。
+
+[p12s0]
+How funny.
+多么有趣啊。
+
+[p12s1]
+Did you know that flying is actually safer than any other mode of transport?
+您是否知道飞行实际上比任何其他交通方式都更安全？
+
+[p12s2]
+It's been statistically proven.
+这已经被统计证明了。
+
+[p12s3]
+People can be so irrational sometimes.
+人有时候就是这么不理智。
+
+[p13s0]
+Yes, absolutely.
+是的，绝对是。
+
+[p13s1]
+But even if we think they are ridiculous, emotions can be just as powerful as rational thinking.
+但即使我们认为它们很荒谬，情感也可以和理性思考一样强大。
+
+[p14s0]
+Exactly.
+正是如此。
+
+[p14s1]
+People do all sorts of crazy things because of their irrational feelings.
+人们因为非理性的感受而做出各种疯狂的事情。
+
+[p14s2]
+But in fact, some psychologists believe that our dreams are the result of our emotions and memories from that day.
+但事实上，一些心理学家认为，我们的梦是我们那天的情绪和记忆的结果。
+
+[p14s3]
+I think it was Sigmund Freud who said that children's dreams were usually simple representations of their wishes, things they wish would happen.
+我认为西格蒙德·弗洛伊德说过，孩子们的梦通常只是他们愿望的简单表现，他们希望发生的事情。
+
+[p14s4]
+But in adults, dreams are much more complicated reflections of their more sophisticated sentiments.
+但对于成年人来说，梦是他们更复杂情感的复杂反映。
+
+[p15s0]
+Isn't it interesting how psychologists try to understand, using the scientific method, something as bizarre as dreams?
+心理学家试图用科学方法来理解像梦这样奇怪的东西，这不是很有趣吗？
+
+[p15s1]
+Psychology is like the rational study of irrational feelings.
+心理学就像对非理性情感的理性研究。
+
+[p16s0]
+While some scientists explore the surface of Antarctica, others are learning more about a giant body of water four kilometers beneath the ice pack.
+当一些科学家探索南极洲表面时，其他科学家正在更多地了解冰层下方四公里处的巨大水体。
+
+[p16s1]
+Scientists first discovered Lake Vostok in the 1970s by using radio waves that penetrate the ice.
+科学家们在 20 世纪 70 年代首次利用无线电波穿透冰层发现了沃斯托克湖。
+
+[p16s2]
+Since then, they have used sound waves and even satellites to map this massive body of water.
+从那时起，他们利用声波甚至卫星来绘制这片巨大水域的地图。
+
+[p16s3]
+How does the water in Lake Vostok remain liquid beneath an ice sheet?
+沃斯托克湖的水如何在冰盖下保持液态？
+
+[p16s4]
+The thick glacier above acts like an insulating blanket and keeps the water from freezing, says Martin Siegert, a glaciologist from the University of Wales.
+威尔士大学的冰川学家马丁·西格特说，上方厚厚的冰川就像一层隔热毯，可以防止水结冰。
+
+[p16s5]
+In addition, geothermal heat from deep within the Earth may warm the hidden lake.
+此外，来自地球深处的地热可能会使隐藏的湖泊变暖。
+
+[p17s0]
+The scientists suspect that microorganisms may be living in Lake Vostok, closed off from the outside world for more than two million years.
+科学家们怀疑微生物可能生活在与外界隔绝超过两百万年的沃斯托克湖中。
+
+[p17s1]
+Anything down there will be totally alien to what's on the surface of the Earth, says Siegert.
+西格特说，那里的任何东西都将与地球表面上的东西完全陌生。
+
+[p17s2]
+Scientists are trying to find a way to drill into the ice and draw water samples without causing contamination.
+科学家们正在试图找到一种在不造成污染的情况下钻入冰层并抽取水样的方法。
+
+[p17s3]
+Again, robots might be the solution.
+同样，机器人可能是解决方案。
+
+[p17s4]
+If all goes as planned, a drill-shaped robot will melt through the surface ice.
+如果一切按计划进行，钻头形状的机器人将融化表面的冰。
+
+[p17s5]
+When it reaches the lake, it will release another robot that can swim in the lake, take pictures, and look for signs of life.
+当它到达湖边时，它会释放另一个机器人，它可以在湖里游泳、拍照、寻找生命迹象。
+
+[p17s6]
+The scientists hope their discoveries will shed light on life in outer space, which might exist in similar dark and emerging conditions.
+科学家们希望他们的发现能够揭示外太空的生命，这些生命可能存在于类似的黑暗和新兴条件下。
+
+[p17s7]
+Recently, close-up pictures of Jupiter's moon Europa showed signs of water beneath its icy surface.
+最近，木星卫星欧罗巴的特写照片显示其冰冷的表面下有水的迹象。
+
+[p17s8]
+Once tested in Antarctica, robots could be sent to Europa to search for life there, too.
+一旦在南极洲进行测试，机器人也可以被送往木卫二去那里寻找生命。
+
+[p18s0]
+The idea to study the American Indian tribe Tarahumaras came to James Copeland in 1984 when he discovered that very little research had been done on their language.
+詹姆斯·科普兰 (James Copeland) 于 1984 年萌生了研究美洲印第安部落塔拉乌马拉斯 (Tarahumaras) 的想法，当时他发现人们对他们的语言进行的研究很少。
+
+[p18s1]
+He contacted a tribe member through a social worker who worked with the tribesmen in Mexico.
+他通过一名在墨西哥为部落成员工作的社会工作者联系了一名部落成员。
+
+[p18s2]
+At first, the tribe member, named Gonzalez, was very reluctant to cooperate.
+起初，这名名叫冈萨雷斯的部落成员非常不愿意合作。
+
+[p18s3]
+He told Copeland that no amount of money could buy his language.
+他告诉科普兰，再多的钱也买不到他的语言。
+
+[p18s4]
+But after Copeland explained to him what he intended to do with his research and how it would benefit the Tarahumaras, Gonzalez agreed to help.
+但在科普兰向他解释了他打算用他的研究做什么以及这将如何使塔拉胡马拉人受益后，冈萨雷斯同意提供帮助。
+
+[p18s5]
+He took Copeland to his village and served as an intermediary.
+他把科普兰带到他的村庄并担任中间人。
+
+[p19s0]
+Entering the world of the Tarahumaras has been a laborious project for Copeland.
+对于科普兰来说，进入塔拉乌马拉斯的世界是一项艰巨的任务。
+
+[p19s1]
+To reach their homeland, he must drive two and a half days from Houston, Texas.
+为了到达他们的家乡，他必须从德克萨斯州休斯顿开车两天半。
+
+[p19s2]
+He loads up his vehicle with goods that the tribesmen can't easily get and gives the goods to them as a gesture of friendship.
+他在车上装满了部落成员不容易得到的物品，并将这些物品送给他们，以示友谊。
+
+[p19s3]
+The Tarahumaras, who don't believe in accumulating wealth, take the food and share it among themselves.
+塔拉乌马拉人不相信积累财富，他们把食物拿来分享。
+
+[p19s4]
+For Copeland, the experience has not only been academically satisfying, it also has enriched his life in several ways.
+对于科普兰来说，这段经历不仅在学术上令人满意，还在多个方面丰富了他的生活。
+
+[p19s5]
+I see people rejecting technology and living a very hard, traditional life, which offers me another notion about the meaning of progress in the Western tradition, he says.
+他说，我看到人们拒绝技术并过着非常艰苦的传统生活，这让我对西方传统中进步的意义有了另一种看法。
+
+[p19s6]
+I experience the simplicity of living in nature that I would otherwise only be able to read about.
+我体验到了生活在大自然中的简单，否则我只能通过阅读来了解。
+
+[p19s7]
+I see a lot of beauty in their sense of sharing and concern for each other.
+我在他们的分享和相互关心中看到了很多美丽。
+
+[p20s0]
+What is a radical?
+什么是部首？
+
+[p20s1]
+It seems today that people are terrified of the term, particularly of having the label attached to them.
+如今，人们似乎对这个词感到恐惧，尤其是对贴在自己身上的标签感到恐惧。
+
+[p20s2]
+Accusing individuals or groups of being radical often serves to silence them into submission, thereby maintaining the existing state of affairs and, more important, preserving the power of a select minority, who are mostly wealthy white males in Western society.
+指责个人或团体激进往往可以让他们沉默，从而让他们屈服，从而维持现有的事态，更重要的是，保留少数人的权力，这些少数人在西方社会大多是富有的白人男性。
+
+[p21s0]
+Feminism is a perfect example of this phenomenon.
+女权主义就是这种现象的一个完美例子。
+
+[p21s1]
+The women's movement has been plagued by stereotypes, misrepresentations by the media, and accusations of man-hating and radicalism, when the basic foundation of feminism is simply that women deserve equal rights in all facets of life.
+妇女运动一直受到陈规定型观念、媒体歪曲以及仇恨男性和激进主义的指控的困扰，而女权主义的基本基础只是妇女在生活的各个方面应享有平等的权利。
+
+[p21s2]
+When faced with the threat of being labeled radical, women back down from their worthy cause and consequently participate in their own oppression.
+当面临被贴上激进标签的威胁时，女性会放弃她们有价值的事业，从而参与对自己的压迫。
+
+[p21s3]
+It has gotten to the point that many women are afraid to call themselves feminists because of the stigma attached to the word.
+已经到了这样的程度，许多女性不敢称自己为女权主义者，因为这个词带有耻辱。
+
+[p21s4]
+If people refuse to be controlled and intimidated by stigmas, the stigmas lose all their power.
+如果人们拒绝被耻辱所控制和恐吓，那么耻辱就会失去所有的力量。
+
+[p21s5]
+Without fear on which to feed, such stigmas can only die.
+如果没有恐惧作为养料，这种耻辱只能消亡。
+
+[p22s0]
+To me, a radical is simply someone who rebels against the norm or advocates a change in the existing state of affairs.
+对我来说，激进分子就是那些反抗规范或主张改变现有状况的人。
+
+[p22s1]
+On closer inspection, it becomes clear that the norm is constantly evolving and therefore is not a constant entity.
+经过仔细检查，我们会发现规范在不断发展，因此并不是一个恒定的实体。
+
+[p22s2]
+So why, then, is deviation from the present situation such a threat when the state of affairs itself is unstable and subject to relentless transformation?
+那么，当事态本身不稳定且不断发生变化时，为什么偏离现状会构成如此大的威胁呢？
+
+[p22s3]
+It all goes back to maintaining the power of those who have it and preventing the rise of those who don't.
+这一切都可以追溯到维持拥有权力的人的权力并防止没有权力的人的崛起。
+
+[p23s0]
+In fact, when we look at the word radical in a historical context, nearly every figure we now hold up as a hero was considered a radical in his or her time.
+事实上，当我们在历史背景下看待“激进”这个词时，几乎每一个我们现在崇拜的英雄人物在他或她的时代都被认为是激进的。
+
+[p23s1]
+Radicals are people who affect change.
+激进分子是影响变革的人。
+
+[p23s2]
+They are the people about whom history is written.
+他们是历史的书写对象。
+
+[p23s3]
+Abolitionists were radicals.
+废奴主义者是激进分子。
+
+[p23s4]
+Civil rights activists were radicals.
+民权活动家是激进分子。
+
+[p23s5]
+Even the founders of our country in their fight to win independence from England were radicals.
+甚至我们国家的创始人在争取脱离英国独立的斗争中也是激进分子。
+
+[p23s6]
+Their presence in history has changed the way our society functions, mainly by shifting the balance of power that previously existed.
+他们在历史上的存在改变了我们社会的运作方式，主要是通过改变以前存在的权力平衡。
+
+[p23s7]
+Of course, there are some radicals who have made a negative impact on humanity, but undeniably, there would simply be no progress without radicals.
+当然，也有一些激进分子对人类造成了负面影响，但不可否认的是，没有激进分子就没有进步。
+
+[p23s8]
+That being said, next time someone calls me a radical, I will accept that label with pride.
+话虽这么说，下次有人称我为激进分子时，我会自豪地接受这个标签。
+
+[p24s0]
+We are very susceptible to the influence of the people around us.
+我们很容易受到周围人的影响。
+
+[p24s1]
+For instance, you may have known somebody who has gone overseas for a year or so and has returned with an accent perhaps.
+例如，您可能认识一个人，他出国一年左右，回来时可能带有口音。
+
+[p24s2]
+We become part of our immediate environment.
+我们成为我们周围环境的一部分。
+
+[p24s3]
+None of us are immune to the influences of our own world and let us not kid ourselves that we are untouched by the things and the people in our life.
+我们每个人都无法免受自己世界的影响，我们也不要自欺欺人地认为自己不受生活中的事物和人的影响。
+
+[p25s0]
+Fred goes off to his new job at a factory.
+弗雷德去工厂上班了。
+
+[p25s1]
+Fred takes a 10-minute coffee break, but the other workers take a half an hour.
+Fred 喝咖啡休息了 10 分钟，但其他员工则休息了半小时。
+
+[p25s2]
+Fred says, what's the matter with you guys?
+弗雷德说，你们怎么了？
+
+[p25s3]
+Weeks later, Fred is taking 20-minute breaks.
+几周后，弗雷德开始休息 20 分钟。
+
+[p25s4]
+A month later, Fred takes his half hour.
+一个月后，弗雷德花了半个小时。
+
+[p25s5]
+Fred is saying, if you can't beat them, join them.
+弗雷德说，如果你不能打败他们，那就加入他们。
+
+[p25s6]
+Why should I work any harder than the next guy?
+为什么我应该比旁边的人更加努力？
+
+[p25s7]
+The fascinating thing about being human is that generally, we are unaware that there are changes taking place in our mentality.
+作为人类的迷人之处在于，我们通常没有意识到我们的心态正在发生变化。
+
+[p25s8]
+It is like returning to the city smog after some weeks in the fresh air.
+这就像在新鲜空气中呆了几周后回到城市雾霾一样。
+
+[p25s9]
+Only then do we realize that we have become accustomed to the nasty smells.
+直到那时我们才意识到我们已经习惯了难闻的气味。
+
+[p26s0]
+Mix with critical people and we learn to criticize.
+与批评的人相处，我们学会批评。
+
+[p26s1]
+Mix with happy people and we learn about happiness.
+与快乐的人相处，我们就能了解快乐。
+
+[p26s2]
+What this means is that we need to decide what we want from life and then choose our company accordingly.
+这意味着我们需要决定我们想要从生活中得到什么，然后相应地选择我们的公司。
+
+[p26s3]
+You may well say, that is going to take some effort.
+你可能会说，这需要一些努力。
+
+[p26s4]
+It may not be comfortable.
+可能不太舒服。
+
+[p26s5]
+I may offend some of my present company.
+我可能会得罪现在公司的一些人。
+
+[p26s6]
+Right, but it is your life.
+是的，但这是你的生活。
+
+[p26s7]
+Fred may say, I'm always broke, frequently depressed, I'm going nowhere, and I never do anything exciting.
+弗雷德可能会说，我总是身无分文，经常感到沮丧，我哪儿也去不了，而且我从来不做任何令人兴奋的事情。
+
+[p26s8]
+Then we discover that Fred's best friends are always broke, frequently depressed, going nowhere, and wishing that life was more exciting.
+然后我们发现弗雷德最好的朋友总是破产，经常沮丧，一事无成，并希望生活更精彩。
+
+[p26s9]
+This is not coincidence, nor is it our business to stand in judgment of Fred.
+这并非巧合，我们也无权对弗雷德做出评判。
+
+[p26s10]
+However, if Fred ever wants to improve his quality of life, the first thing he'll need to do is recognize what has been going on all these years.
+然而，如果弗雷德想要改善他的生活质量，他需要做的第一件事就是认识到这些年来发生的事情。
+
+[p27s0]
+It's no surprise that doctors, as a profession, suffer a lot of ill health because they spend their lives around sick people.
+医生作为一个职业，由于一生都在病人身边度过，因此健康状况不佳，这并不奇怪。
+
+[p27s1]
+Psychiatrists have a higher incidence of suicide in their profession, for related reasons.
+由于相关原因，精神科医生在其职业中自杀率较高。
+
+[p27s2]
+Traditionally, 9 out of 10 children whose parents smoke, smoke themselves.
+传统上，父母吸烟的孩子中有十分之九自己也吸烟。
+
+[p27s3]
+Obesity is in part an environmental problem.
+肥胖在一定程度上是一个环境问题。
+
+[p27s4]
+Successful people have successful friends, and so the story goes on.
+成功的人都有成功的朋友，故事就这样继续下去。
+
+[p28s0]
+Virtually every American can recognize a dollar bill at a mere glance.
+几乎每个美国人一眼就能认出一美元钞票。
+
+[p28s1]
+Many can identify it by its sound or texture.
+许多人可以通过声音或纹理来识别它。
+
+[p28s2]
+But few people, indeed, can accurately describe the world's most powerful, important currency.
+但事实上，很少有人能够准确描述世界上最强大、最重要的货币。
+
+[p28s3]
+The American dollar bill is colored with black ink on one side and green on the other.
+美元钞票的一侧涂有黑色墨水，另一侧涂有绿色墨水。
+
+[p28s4]
+The exact composition of the paper and ink is a closely guarded government secret.
+纸张和墨水的确切成分是严格保密的政府机密。
+
+[p28s5]
+Despite its weighty importance, the dollar bill actually weighs little.
+尽管美元纸币很重要，但实际上它的重量并不大。
+
+[p28s6]
+It requires nearly 500 bills to tip the scales at a pound.
+需要近 500 张钞票才能将秤倾斜到一磅。
+
+[p28s7]
+Not only is the dollar bill lightweight, but it also has a brief lifespan.
+美元钞票不仅重量轻，而且使用寿命也很短。
+
+[p28s8]
+Few dollar bills survive longer than 18 months.
+很少有美钞能保存超过 18 个月。
+
+[p29s0]
+The word dollar is taken from the German word Tala, the name for the world's most important currency in the 16th century.
+美元一词源自德语单词 Tala，这是 16 世纪世界上最重要货币的名称。
+
+[p29s1]
+The Tala was a silver coin first minted in 1518 under the reign of Charles V, Emperor of Germany.
+塔拉是一种银币，于 1518 年德国皇帝查理五世统治时期首次铸造。
+
+[p29s2]
+The concept of paper money is a relatively recent innovation in the history of American currency.
+纸币的概念是美国货币史上相对较新的创新。
+
+[p29s3]
+When the Constitution was signed, people had little regard for paper money because of its steadily decreasing value during the colonial era.
+当宪法签署时，人们对纸币不太重视，因为纸币在殖民时代的价值不断下降。
+
+[p29s4]
+Because of this lack of faith, the new American government minted many coins for common currency.
+由于缺乏信心，美国新政府铸造了许多硬币作为通用货币。
+
+[p29s5]
+Interest-bearing banknotes were issued at the same time, but their purpose was limited to providing money for urgent government crises, such as American involvement in the War of 1812.
+有息纸币同时发行，但其目的仅限于为紧急政府危机提供资金，例如美国卷入 1812 年战争。
+
+[p30s0]
+The first non-interest-bearing paper currency was authorized by Congress in 1862 at the height of the Civil War.
+1862 年，在内战最激烈的时期，国会批准了第一种无息纸币。
+
+[p30s1]
+At this point, citizens' old fears of devalued paper currency had calmed, and the dollar bill was born.
+至此，公民对纸币贬值的长期恐惧已经平息，美元钞票诞生了。
+
+[p30s2]
+The new green-colored paper money quickly earned the name Greenback.
+新的绿色纸币很快就被称为“美元”。
+
+[p30s3]
+Today, the American dollar bill is a product of the Federal Reserve and is issued from the 12 Federal Reserve banks around the United States.
+如今，美元钞票是美联储的产品，由美国各地12家联邦储备银行发行。
+
+[p30s4]
+The government keeps a steady supply of approximately 2 billion bills in circulation at all times.
+政府始终保持约 20 亿张纸币的稳定供应。
+
+[p31s0]
+Controversy continues to surround the true value of the dollar bill.
+围绕美元钞票的真实价值的争议仍在继续。
+
+[p31s1]
+American history has seen generations of politicians argue in favor of a gold standard for American currency.
+在美国历史上，几代政客都支持美国货币的金本位制。
+
+[p31s2]
+However, for the present, the American dollar bill holds the value that is printed on it, and little more.
+然而，就目前而言，美元钞票仅保留其印刷的价值，仅此而已。
+
+[p31s3]
+The only other guarantee on the bill is a Federal Reserve pledge as a confirmation in the form of government securities.
+该法案唯一的其他担保是美联储承诺以政府证券的形式作为确认。
+

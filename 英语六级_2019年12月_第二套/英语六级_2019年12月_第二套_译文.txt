@@ -163,3 +163,631 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Excuse me, where is your rock music section?
+男：请问你们的摇滚音乐区在哪里？
+
+[p1s0]
+Rock music?
+摇滚乐？
+
+[p1s1]
+I'm sorry, we're a jazz store.
+抱歉，我们是一家爵士乐店。
+
+[p1s2]
+We don't have any rock and roll.
+我们没有摇滚乐。
+
+[p2s0]
+Oh, you only have jazz music?
+哦，你们只有爵士乐吗？
+
+[p2s1]
+Nothing else?
+没有别的事吗？
+
+[p3s0]
+That's right.
+没错。
+
+[p3s1]
+We're the only record store in London dedicated exclusively to jazz.
+我们是伦敦唯一一家专门销售爵士乐的唱片店。
+
+[p3s2]
+Actually, we're more than just a record store.
+事实上，我们不仅仅是一家唱片店。
+
+[p3s3]
+We have a café and library upstairs and a ticket office down the hall, where you can buy tickets to all the major jazz concerts in the city.
+我们楼上有一家咖啡馆和图书馆，大厅下有一个售票处，您可以在那里购买城里所有主要爵士音乐会的门票。
+
+[p3s4]
+Also, we have our own studio next door, where we produce albums for up-and-coming artists.
+此外，我们在隔壁还有自己的工作室，为崭露头角的艺术家制作专辑。
+
+[p3s5]
+We are committed to fostering new music talent.
+我们致力于培养新的音乐人才。
+
+[p4s0]
+Wow!
+哇！
+
+[p4s1]
+That's so cool.
+太酷了。
+
+[p4s2]
+I guess there's not much of a jazz scene anymore, not like they used to be.
+我想爵士乐场景已经不多了，不像以前那样了。
+
+[p4s3]
+But here you're trying to promote this great music genre.
+但在这里你正试图推广这种伟大的音乐流派。
+
+[p5s0]
+Yes, indeed.
+是的，确实如此。
+
+[p5s1]
+Nowadays, most people like to listen to pop and rock music.
+如今，大多数人喜欢听流行音乐和摇滚音乐。
+
+[p5s2]
+Hip hop music from America is also getting more and more popular.
+来自美国的嘻哈音乐也越来越受欢迎。
+
+[p5s3]
+So as a result, there are fewer listeners of jazz, which is a great shame because it's an incredibly rich genre.
+因此，爵士乐的听众越来越少，这是一个巨大的耻辱，因为它是一种极其丰富的流派。
+
+[p5s4]
+But that's not to say there isn't any good new jazz music being made out there anymore — far from it.
+但这并不是说不再有任何优秀的新爵士音乐出现——事实远非如此。
+
+[p5s5]
+It's just a much smaller market today.
+今天它的市场要小得多。
+
+[p6s0]
+So how would you define jazz?
+男：那么您如何定义爵士乐呢？
+
+[p7s0]
+Well, interestingly enough, there's no agreed-upon definition of jazz.
+有趣的是，爵士乐并没有一致的定义。
+
+[p7s1]
+Indeed, there are many different styles of jazz.
+事实上，爵士乐有许多不同的风格。
+
+[p7s2]
+Some have singing, but most don't.
+有些人会唱歌，但大多数人不会。
+
+[p7s3]
+Some are electric and some aren't.
+有些是电动的，有些不是。
+
+[p7s4]
+Some contain live experimentation, but not always.
+有些包含现场实验，但并非总是如此。
+
+[p7s5]
+While there's no simple definition for it, and while there are many different styles of jazz, you simply know it when you hear it.
+虽然它没有简单的定义，而且爵士乐有许多不同的风格，但当你听到它时你就会知道它。
+
+[p7s6]
+Honestly, the only way to know what jazz is, is listen to it yourself.
+老实说，了解什么是爵士乐的唯一方法就是亲自聆听。
+
+[p7s7]
+As the great trumpet player, Louis Armstrong said, "If you gotta ask, you'll never know."
+作为伟大的小号演奏家，路易斯·阿姆斯特朗说过：“如果你问，你永远不会知道。”
+
+[p8s0]
+How did it go at the bank this morning?
+男：今天早上银行怎么样？
+
+[p9s0]
+Not well, my proposal was rejected.
+女：不好，我的提议被拒绝了。
+
+[p10s0]
+Really?
+真的吗？
+
+[p10s1]
+But why?
+但为什么呢？
+
+[p11s0]
+Bunch of reasons.
+一堆理由。
+
+[p11s1]
+For starters, they said my credit history was not good enough.
+首先，他们说我的信用记录不够好。
+
+[p12s0]
+Did they say how you could improve that?
+男：他们有没有说你可以如何改进？
+
+[p13s0]
+Yes, they said that after five more years of paying my mortgage, then I would become a more viable candidate for a business loan.
+是的，他们说，再支付五年抵押贷款后，我将成为更可行的商业贷款候选人。
+
+[p13s1]
+But right now, it's too risky for them to lend me money.
+但现在他们借钱给我风险太大了。
+
+[p13s2]
+They fear I will default on any business loan I'm given.
+他们担心我会拖欠我获得的任何商业贷款。
+
+[p14s0]
+Well, that doesn't sound fair.
+嗯，这听起来不公平。
+
+[p14s1]
+Your business idea is amazing.
+你的经营理念太棒了。
+
+[p14s2]
+Did you show them your business plan?
+你向他们展示了你的商业计划吗？
+
+[p14s3]
+What did they say?
+他们说什么？
+
+[p15s0]
+They didn't really articulate any position regarding the actual business plan.
+他们没有真正阐明有关实际商业计划的任何立场。
+
+[p15s1]
+They simply looked at my credit history and determined it was not good enough.
+他们只是查看了我的信用记录并确定它不够好。
+
+[p15s2]
+They said the bank has strict guidelines and requirements as to who they can lend money to.
+他们表示，银行对于贷款对象有严格的指导方针和要求。
+
+[p15s3]
+And I simply don't meet their financial threshold.
+而我根本达不到他们的财务门槛。
+
+[p16s0]
+What if you ask for a smaller amount?
+如果您要求较少的金额怎么办？
+
+[p16s1]
+Maybe you could gather capital from other sources.
+也许你可以从其他来源筹集资金。
+
+[p16s2]
+Smaller loans from more lenders?
+来自更多贷方的小额贷款？
+
+[p17s0]
+You don't get it.
+你不明白。
+
+[p17s1]
+It doesn't matter the size of the loan I ask for, or the type of business I propose.
+我申请的贷款规模或我提议的业务类型并不重要。
+
+[p17s2]
+That's all inconsequential.
+这都是无关紧要的事。
+
+[p17s3]
+The first thing every bank will do is study how much money I have and how much debt I have before they decide whether or not to lend me any more money.
+每家银行首先要做的就是研究我有多少钱，我有多少债务，然后再决定是否再借给我钱。
+
+[p17s4]
+If I want to continue ahead with this dream of owning my own business, I have no other choice but to build up my own finances.
+如果我想继续实现拥有自己企业的梦想，我别无选择，只能建立自己的财务状况。
+
+[p17s5]
+I need around 20% more in personal savings and 50% less debt.
+我需要增加 20% 左右的个人储蓄，并减少 50% 的债务。
+
+[p17s6]
+That's all there is to it.
+这就是全部内容了。
+
+[p18s0]
+I see now.
+我现在明白了。
+
+[p18s1]
+Well, it's a huge pity that they rejected your request, but don't lose hope.
+嗯，很遗憾他们拒绝了你的请求，但不要失去希望。
+
+[p18s2]
+I still think that your idea is great and that you would turn it into a phenomenal success.
+我仍然认为你的想法很棒，你会把它变成巨大的成功。
+
+[p19s0]
+There's a lot about Leo Sanchez and his farm in Salinas, California that seems unusual.
+利奥·桑切斯和他位于加利福尼亚州萨利纳斯的农场有很多看起来不寻常的地方。
+
+[p19s1]
+The national average farm size is around 440 acres, but his is only one acre.
+全国平均农场面积在440英亩左右，而他只有一英亩。
+
+[p19s2]
+The average age of farmers hovers around 58 years old, but he is just 26.
+农民的平均年龄徘徊在58岁左右，而他只有26岁。
+
+[p20s0]
+And Sanchez constantly attempts to improve everything from seeding techniques out in the field to the promotion and sale of his produce online.
+桑切斯不断尝试改进一切，从田间播种技术到在线推广和销售他的产品。
+
+[p20s1]
+This is evidence of an experimental approach.
+这是实验方法的证据。
+
+[p20s2]
+It's an approach not dictated by the confines of conventional, large-scale agriculture led by international corporations.
+这种方法不受国际公司主导的传统大规模农业的限制。
+
+[p21s0]
+While farming is often difficult for both the body and mind, Sanchez says he and many of his fellow young farmers are motivated by desire to set a new standard for agriculture.
+桑切斯说，虽然农业对身体和精神来说往往都很困难，但他和许多年轻农民的愿望激励着为农业设定新标准。
+
+[p22s0]
+Many of them are employing a multitude of technologies, some new and some not so new.
+他们中的许多人正在采用多种技术，有些是新技术，有些不是那么新。
+
+[p22s1]
+Recently, Sanchez bought a hand-operated tool which pulls out weeds and loosens soil.
+最近，桑切斯购买了一种手动工具，可以拔除杂草并松土。
+
+[p22s2]
+It actually dates back to at least 1701.
+它实际上至少可以追溯到 1701 年。
+
+[p22s3]
+It stands in sharp contrast to Sanchez's other gadget, a gas-powered flame weedkiller invented in 1997.
+它与桑切斯的另一个小玩意形成鲜明对比，后者是 1997 年发明的燃气火焰除草机。
+
+[p22s4]
+He simply doesn't discriminate when it comes to the newness of tools.
+当谈到工具的新颖性时，他根本不会歧视。
+
+[p22s5]
+If it works, it works.
+如果有效，那就有效。
+
+[p23s0]
+Farmers have a long history of invention, and it's no different today.
+农民的发明历史悠久，今天也不例外。
+
+[p23s1]
+Young farmers are guided by their love for agriculture and aided by their knowledge of technology.
+年轻农民以对农业的热爱为指导，并以技术知识为帮助。
+
+[p23s2]
+To find inexpensive and appropriately sized tools, they collaborate and innovate.
+为了找到廉价且尺寸合适的工具，他们进行协作和创新。
+
+[p23s3]
+Sometimes the old stuff just works better or more efficiently.
+有时旧的东西只是工作得更好或更有效。
+
+[p24s0]
+Eat Grub is Britain's first new food company that breaks western food boundaries by introducing edible insects as a new source of food.
+Eat Grub 是英国第一家新食品公司，通过引入可食用昆虫作为新的食物来源，打破了西方食品的界限。
+
+[p24s1]
+And Sainsbury's is the first UK supermarket to stock the company's crunchy roasted crickets.
+Sainsbury's 是英国第一家供应该公司脆脆烤蟋蟀的超市。
+
+[p24s2]
+Sainsbury's insists that such food is no joke and could be a new, sustainable source of protein.
+塞恩斯伯里坚持认为，这种食物不是开玩笑，可能是一种新的、可持续的蛋白质来源。
+
+[p25s0]
+Out of curiosity, I paid a visit to Sainsbury's.
+出于好奇，我参观了塞恩斯伯里百货公司。
+
+[p25s1]
+As I put my hand into a packet of crickets with their tiny eyes and legs, the idea of one going in my mouth made me feel a little sick.
+当我把手伸进一包蟋蟀的小眼睛和小腿时，一想到蟋蟀会进入我的嘴，我就感到有点恶心。
+
+[p25s2]
+But the first bite was a pleasant surprise.
+但第一口却是一个惊喜。
+
+[p25s3]
+A little dry and lacking of taste, but at least a wing didn't get stuck in my throat.
+有点干，没什么味道，但至少翅膀没有卡在我的喉咙里。
+
+[p26s0]
+The roasted seasoning largely overpowered any other flavour, although there was slightly bitter aftertaste.
+烤调味料在很大程度上压倒了任何其他味道，尽管余味略带苦味。
+
+[p26s1]
+The texture was crunchy, but smelt a little of cat food.
+口感松脆，但闻起来有一点猫粮的味道。
+
+[p27s0]
+Eat Grub also recommends the crickets as a topping for noodles, soups and salads.
+Eat Grub 还推荐将蟋蟀作为面条、汤和沙拉的配料。
+
+[p27s1]
+The company boasts that its dried crickets contain more protein than beef, chicken and pork, as well as minerals like iron and calcium.
+该公司声称其干蟋蟀含有比牛肉、鸡肉和猪肉更多的蛋白质，以及铁和钙等矿物质。
+
+[p28s0]
+Unlike the production of meat, bugs do not use up large amounts of land, water or feed.
+与肉类生产不同，昆虫不会消耗大量土地、水或饲料。
+
+[p28s1]
+And insect farming also produces far fewer greenhouse gases.
+昆虫养殖产生的温室气体也少得多。
+
+[p28s2]
+However, despite 2 billion people worldwide already supplementing their diet with insects, "consumer disgust" remains a large barrier in many Western countries.
+然而，尽管全世界有 20 亿人已经在饮食中添加昆虫，但“消费者厌恶”仍然是许多西方国家的一大障碍。
+
+[p28s3]
+I'm not sure bugs will become a popular snack anytime soon, but they're definitely food for thought.
+我不确定虫子会很快成为一种流行的零食，但它们绝对值得深思。
+
+[p29s0]
+Have you ever had someone try to explain something to you a dozen times with no luck — but, then, when you see a picture, the idea finally clicks?
+你是否曾经遇到过有人试图向你解释某件事十几次但没有成功的经历——但是，当你看到一张图片时，这个想法终于灵光一现？
+
+[p29s1]
+If that sounds familiar, maybe you might consider yourself a visual learner.
+如果这听起来很熟悉，也许您可能会认为自己是视觉学习者。
+
+[p29s2]
+Or if reading or listening does the trick, maybe you feel like you're a verbal learner.
+或者，如果阅读或听力能起到作用，也许你会觉得自己是一个语言学习者。
+
+[p29s3]
+We call these labels learning styles, but is there really a way to categorize different types of students?
+我们将这些标签称为学习风格，但真的有办法对不同类型的学生进行分类吗？
+
+[p29s4]
+Well, it actually seems that multiple presentation formats, especially if one of them is visual, help most people learn.
+嗯，实际上，多种演示格式，尤其是其中一种是视觉的，可以帮助大多数人学习。
+
+[p30s0]
+When psychologists and educators test for learning styles, they're trying to figure out whether these are inherent traits that affect how well students learn, instead of just a preference.
+当心理学家和教育工作者测试学习风格时，他们试图弄清楚这些是否是影响学生学习效果的固有特征，而不仅仅是一种偏好。
+
+[p30s1]
+Usually they start by giving a survey to figure out what style a student favors, like visual or verbal learning.
+通常，他们首先进行一项调查，以确定学生喜欢哪种风格，例如视觉学习或口头学习。
+
+[p30s2]
+Then, they try to teach the students something with a specific presentation style, like using visual aids, and do a follow-up test to see how much they learned.
+然后，他们尝试用特定的演示风格教学生一些东西，例如使用视觉教具，并进行后续测试以了解他们学到了多少。
+
+[p30s3]
+That way, the researchers can see if the self-identified verbal learners really learned better when the information was just spoken aloud, for example.
+这样，研究人员就可以了解，例如，当信息只是大声说出时，自我认定的语言学习者是否真的学得更好。
+
+[p31s0]
+But, according to a 2008 review, only one study that followed this design found that students actually learned best with their preferred style.
+但是，根据 2008 年的一项评论，只有一项遵循这种设计的研究发现，学生实际上以自己喜欢的方式学得最好。
+
+[p31s1]
+But the study had some big flaws.
+但这项研究存在一些重大缺陷。
+
+[p31s2]
+The researchers excluded two-thirds of the original participants because they didn't seem to have any clear learning style from the survey at the beginning.
+研究人员排除了三分之二的原始参与者，因为从一开始的调查来看，他们似乎没有任何明确的学习风格。
+
+[p31s3]
+And, they didn't even report the actual test scores in the final paper.
+而且，他们甚至没有在期末试卷中报告实际的考试成绩。
+
+[p31s4]
+So it doesn't really seem like learning styles are an inherent trait that we all have.
+因此，学习风格似乎并不是我们所有人都具有的固有特征。
+
+[p31s5]
+But, that doesn't mean that all students will do amazingly if they just spend all their time reading from a textbook.
+但是，这并不意味着如果所有学生只花所有时间阅读教科书，他们都会取得惊人的成绩。
+
+[p32s0]
+Instead, most people seem to learn better if they're taught in several ways — especially if one is visual.
+相反，如果以多种方式进行教学，大多数人似乎会学得更好——尤其是视觉教学。
+
+[p32s1]
+In one study, researchers tested whether students remembered lists of words better if they heard them, saw them, or both.
+在一项研究中，研究人员测试了学生在听到、看到或两者兼而有之时是否能更好地记住单词列表。
+
+[p32s2]
+And everyone seemed to do better if they got to see the words in print, even the self-identified auditory learners.
+如果每个人都能看到印刷的文字，那么他们似乎都会做得更好，即使是那些自我认定的听觉学习者。
+
+[p32s3]
+Their preference didn't seem to matter.
+他们的偏好似乎并不重要。
+
+[p32s4]
+Similar studies tested whether students learned basic physics and chemistry concepts better by reading plain text or viewing pictures, too.
+类似的研究也测试了学生是否可以通过阅读纯文本或查看图片更好地学习基本的物理和化学概念。
+
+[p32s5]
+And everyone did better with the help of pictures.
+每个人都在图片的帮助下做得更好。
+
+[p33s0]
+Free market capitalism hasn't freed us; it has trapped us.
+自由市场资本主义并没有解放我们；而是解放了我们。它困住了我们。
+
+[p33s1]
+It's imperative for us to embrace a workplace revolution.
+我们必须拥抱工作场所革命。
+
+[p33s2]
+We are unlikely to spend our last moments regretting that we didn't spend enough of our lives slaving away at work.
+我们不太可能在生命的最后时刻后悔自己没有在工作上投入足够的时间。
+
+[p33s3]
+We may instead find ourselves feeling guilty about the time we didn't spend watching our children grow, or with our loved ones, or travelling, or on the cultural or leisure pursuits that bring us happiness.
+相反，我们可能会发现自己感到内疚，因为我们没有花时间看着我们的孩子成长，或者与我们所爱的人在一起，或者旅行，或者没有花在给我们带来快乐的文化或休闲追求上。
+
+[p34s0]
+Unfortunately, the average full-time employee in the world works 42 hours a week, well over a third of the time we're awake.
+不幸的是，世界上全职员工平均每周工作 42 小时，远远超过我们清醒时间的三分之一。
+
+[p34s1]
+Some of our all too precious time is being stolen.
+我们一些非常宝贵的时间被偷走了。
+
+[p34s2]
+Office workers do around two billion hours of unpaid overtime each year.
+办公室工作人员每年大约有 20 亿小时的无薪加班。
+
+[p34s3]
+So it's extremely welcome that some government coalitions have started looking into potentially cutting the working week to four days.
+因此，一些政府联盟已经开始考虑将每周工作时间减少到四天，这是非常受欢迎的。
+
+[p35s0]
+The champions of free market capitalism promised their way of life would bring us freedom.
+自由市场资本主义的拥护者承诺他们的生活方式将为我们带来自由。
+
+[p35s1]
+But it wasn't freedom at all: from the lack of secure, affordable housing to growing job insecurity and rising personal debt, the individual is trapped.
+但这根本不是自由：从缺乏安全、负担得起的住房到日益严重的工作不安全感和不断增加的个人债务，个人陷入了困境。
+
+[p35s2]
+Nine decades ago, leading economists predicted that technological advances and rising productivity would mean that we'd be working a 15-hour week by now: that target has been somewhat missed.
+九个十年前，领先的经济学家预测，技术进步和生产率提高将意味着我们现在每周工作 15 小时：但这个目标在某种程度上已经实现了。
+
+[p36s0]
+Here is the most malignant threat to our personal freedom, particularly as the balance of power in the workplace has been shifted so dramatically from worker to boss.
+这是对我们个人自由最严重的威胁，尤其是在工作场所的权力平衡已从工人急剧转移到老板的情况下。
+
+[p36s1]
+A huge portion of our lives involves the surrender of our freedom and personal autonomy.
+我们生活的很大一部分涉及放弃自由和个人自主权。
+
+[p36s2]
+It's time in which we are directed by the needs and desires of others, and denied the right to make our own choices.
+是时候我们被他人的需求和欲望所引导，而被剥夺了自己做出选择的权利。
+
+[p36s3]
+That's bad for us: it's hardly surprising that over half a million workers suffer from work-related mental health conditions each year, or that 15.4 million working days were lost to work-related stress last year, a jump of nearly a quarter.
+这对我们不利：每年有超过 50 万工人患有与工作相关的心理健康问题，或者去年因工作压力而损失了 1,540 万个工作日，这一数字猛增了近四分之一，这并不奇怪。
+
+[p37s0]
+Yes, there are those who, far from being overworked, actually seek more hours.
+是的，有些人非但没有过度劳累，反而寻求更多的工作时间。
+
+[p37s1]
+But a shorter working week would enable us to redistribute hours from the overworked to the underworked.
+但缩短每周工作时间将使我们能够重新分配工作时间，从工作过度的人到工作不足的人。
+
+[p37s2]
+We need to look at ways of cutting the working week without slashing living standards: after all, the world's workers have already suffered the worst deduction in wages since the early 1800s.
+我们需要寻找在不降低生活水平的情况下缩短工作时间的方法：毕竟，世界工人已经遭受了自 1800 年代初以来最严重的工资扣除。
+
+[p37s3]
+And cutting the working week would be conducive to the individual, giving millions of workers more time to spend as they see fit.
+缩短工作周时间将有利于个人，让数百万工人有更多的时间来度过他们认为合适的时光。
+
+[p38s0]
+Today I'm going to talk about Germany's dream airport in Berlin.
+今天我要谈谈德国梦想中的柏林机场。
+
+[p38s1]
+The airport looks exactly like every other major modern airport in Europe, except for one big problem: more than seven years after it was originally supposed to open, it still stands empty.
+该机场看起来与欧洲其他所有主要现代机场一模一样，但有一个大问题：原定开放七年多后，它仍然空着。
+
+[p39s0]
+Germany is known for its efficiency and refined engineering, but when it comes to its new ghost airport, this reputation could not be further from the truth.
+德国以其高效和精致的工程而闻名，但当谈到其新的幽灵机场时，这种声誉与事实相去甚远。
+
+[p39s1]
+Plagued by long delays, perpetual mismanagement and ever-soaring costs, the airport has become something of a joke among Germans — and a source of frustration for local politicians, business leaders and residents alike.
+由于长期延误、长期管理不善和成本不断飙升，该机场已成为德国人的笑柄，也是当地政客、商界领袖和居民沮丧的根源。
+
+[p40s0]
+Planning for the new airport began in 1989.
+新机场的规划始于1989年。
+
+[p40s1]
+At the time, it became clear that the newly-reunified Berlin would need a modern airport with far greater capacity than its existing airports.
+当时，人们清楚地认识到，新统一的柏林需要一座容量远大于现有机场的现代化机场。
+
+[p40s2]
+The city broke ground on the new airport in 2006.
+2006年，该市新机场破土动工。
+
+[p41s0]
+The first major sign of problems came in summer 2010, when the construction corporation pushed the opening from October 2011 to June 2012.
+问题的第一个重大迹象出现在 2010 年夏季，当时建筑公司将开业时间从 2011 年 10 月推迟到 2012 年 6 月。
+
+[p41s1]
+In 2012, the city planned an opening ceremony.
+2012年，该市计划举办开幕式。
+
+[p41s2]
+But less than a month beforehand, inspectors found significant problems with the fire safety system and pushed the opening back again to 2013.
+但不到一个月前，检查人员发现消防安全系统存在重大问题，并将开放时间再次推迟到2013年。
+
+[p42s0]
+It wasn't just the smoke system: many other major problems subsequently emerged.
+不仅仅是排烟系统：随后出现了许多其他重大问题。
+
+[p42s1]
+More than 90 metres of cable were incorrectly installed; 4,000 doors were wrongly numbered; escalators were too short.
+90多米电缆错误安装； 4,000扇门被错误编号；自动扶梯太短了。
+
+[p42s2]
+And there was a shortage of check-in desks.
+而且办理登机手续的柜台也很短缺。
+
+[p43s0]
+So why, with so many problems discovered, didn't the airport corporation decide to give up on the project and start over?
+那么，在发现这么多问题的情况下，机场公司为什么不决定放弃该项目并重新开始呢？
+
+[p43s1]
+The reason is simple: people are often hesitant to terminate a project when they've already invested time or resources into it, even if it might make logical sense to do so.
+原因很简单：当人们已经投入了时间或资源时，人们常常会犹豫是否要终止一个项目，即使这样做在逻辑上是有意义的。
+
+[p44s0]
+The longer the delays continued, the more problems inspectors found.
+延误持续的时间越长，检查人员发现的问题就越多。
+
+[p44s1]
+Leadership of the planning corporation has changed hands nearly as many times as the opening date has been pushed back.
+规划公司领导层的易手次数几乎与开业日期被推迟的次数一样多。
+
+[p44s2]
+Initially, rather than appointing a general contractor to run the project, the corporation decided to manage it themselves despite lack of experience with an undertaking of that scale.
+最初，该公司没有任命总承包商来运营该项目，而是决定自行管理该项目，尽管缺乏如此规模的项目经验。
+
+[p45s0]
+To compound the delays, the unused airport is resulting in massive costs.
+未使用的机场导致了巨大的成本，从而加剧了延误。
+
+[p45s1]
+Every month it remains unopened costs between 9 million and 10 million euros.
+每个月未开封的费用在 900 万至 1000 万欧元之间。
+
+[p46s0]
+Assuming all goes well, the airport should open in October 2020.
+假设一切顺利，机场应于 2020 年 10 月开放。
+
+[p46s1]
+But the still-empty airport stands as the biggest embarrassment to Germany's reputation for efficiency — and a continuing drain on city and state resources.
+但这个仍然空荡荡的机场是德国效率声誉的最大耻辱，也是对城市和国家资源的持续消耗。
+

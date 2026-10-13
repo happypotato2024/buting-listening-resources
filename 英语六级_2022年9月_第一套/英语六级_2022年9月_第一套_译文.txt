@@ -109,3 +109,695 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Welcome to Money Matters, a weekly program that helps you manage your money.
+欢迎来到 Money Matters，这是一个帮助您管理资金的每周计划。
+
+[p0s1]
+Tonight, I'll be talking to Mary Johnson about budgeting.
+今晚，我将与玛丽·约翰逊谈论预算问题。
+
+[p1s0]
+Hello, everyone.
+女：大家好。
+
+[p2s0]
+There's a magic about money.
+金钱有一种魔力。
+
+[p2s1]
+When it's not planned for, tracked and kept a record of, it literally disappears.
+如果没有计划、跟踪和保存记录，它就会消失。
+
+[p2s2]
+What are some of the steps we can take to prevent this from happening?
+我们可以采取哪些措施来防止这种情况发生？
+
+[p3s0]
+Well, it's all about keeping track of your money.
+嗯，这都是为了跟踪你的钱。
+
+[p3s1]
+If you don't do that, you'll never be able to set any goals for your budget or have the discipline to stick to them.
+如果您不这样做，您将永远无法为预算设定任何目标，也无法遵守纪律来坚持这些目标。
+
+[p4s0]
+That's easier said than done.
+说起来容易做起来难。
+
+[p4s1]
+I read recently that only 41% of Americans adhere to a budget.
+我最近读到只有 41% 的美国人遵守预算。
+
+[p5s0]
+Yes, but knowing what you earn and what you spend can give you reassurance that you won't get into debt in the first place.
+是的，但是了解您的收入和支出可以让您放心，您一开始就不会负债。
+
+[p5s1]
+You can do this by adding up all of your sources of income you have and writing them all down on a piece of paper.
+您可以通过将您拥有的所有收入来源加起来并将其全部写在一张纸上来做到这一点。
+
+[p5s2]
+On the same page, write down all of your monthly expenses.
+在同一页上，写下您每月的所有开支。
+
+[p6s0]
+I'm always amazed at how much my expenses add up.
+我总是对我的开支加起来感到惊讶。
+
+[p6s1]
+But designating each item as an income or an expense really helps me have a much better sense of all my spending.
+但将每一项指定为收入或支出确实可以帮助我更好地了解我的所有支出。
+
+[p7s0]
+Right, most people have no idea how much they spend each day, let alone each week or month, no matter how careful they are.
+是的，大多数人都不知道自己每天花了多少钱，更不用说每周或每月花了多少钱，无论他们多么小心。
+
+[p7s1]
+Next, subtract your monthly expenses from income.
+接下来，从收入中减去每月的支出。
+
+[p7s2]
+If the result is positive, you are living within your means.
+如果结果是积极的，那么您就是量入为出。
+
+[p7s3]
+If the result is a negative number, you're going to have to cut back on your spending.
+如果结果是负数，你将不得不削减开支。
+
+[p8s0]
+I'm usually a negative number.
+我通常是负数。
+
+[p8s1]
+I just can't resist the allure of all those prestigious goods.
+我就是无法抗拒那些名贵商品的诱惑。
+
+[p9s0]
+Well, it's not a catastrophe.
+嗯，这不是一场灾难。
+
+[p9s1]
+But you do have to make some changes: try cutting back on those non-essential items, sell some stuff in your attic or shop online to avoid unnecessary temptations like chocolate.
+但你确实必须做出一些改变：尝试减少那些非必需品，在阁楼上出售一些东西或在网上购物，以避免巧克力等不必要的诱惑。
+
+[p9s2]
+Failing that you can always find yourself a part-time job.
+如果做不到这一点，你总可以找到一份兼职工作。
+
+[p10s0]
+Hi there.
+你好。
+
+[p10s1]
+I've come to see the flat.
+我是来看房子的
+
+[p10s2]
+My name is Mark Adams.
+我叫马克·亚当斯。
+
+[p10s3]
+We spoke on the phone on Wednesday.
+我们周三通了电话。
+
+[p11s0]
+Hi, Mark, come on up.
+嗨，马克，上来吧。
+
+[p11s1]
+I'll buzz you in.
+我会叫你进去。
+
+[p11s2]
+Green door on the second floor on the right side.
+二楼右侧的绿色门。
+
+[p11s3]
+Nice to meet you.
+很高兴认识你。
+
+[p11s4]
+I spoke to all your references and they all checked out okay.
+我和你所有的推荐人谈过，他们都检查得很好。
+
+[p11s5]
+So let me show you around.
+那么让我带你四处看看。
+
+[p11s6]
+The place actually belongs to my mother.
+这个地方实际上是我母亲的。
+
+[p11s7]
+But her health isn't great.
+但她的健康状况不太好。
+
+[p11s8]
+So we finally managed to persuade her to move in with us and rent this old place out.
+所以我们终于说服她搬来和我们一起住，并将这个旧房子租了出去。
+
+[p12s0]
+It's a great size.
+这是一个很大的尺寸。
+
+[p12s1]
+Plenty of space.
+有足够的空间。
+
+[p12s2]
+Very versatile.
+非常多才多艺。
+
+[p12s3]
+I think it's a winner for us.
+我认为这对我们来说是赢家。
+
+[p13s0]
+Yes, all the appliances are brand-new.
+是的，所有的电器都是全新的。
+
+[p13s1]
+There's a washing machine and a tumble dryer in the utility room next to the kitchen.
+厨房旁边的杂物间配有洗衣机和滚筒式烘干机。
+
+[p14s0]
+Lots of closet space too, which is fabulous.
+壁橱空间也很大，这太棒了。
+
+[p14s1]
+My wife has a ridiculous number of shoes.
+我妻子的鞋子数量多得离谱。
+
+[p14s2]
+Now the big question, what about noise and the neighbours?
+现在最大的问题是，噪音和邻居怎么样？
+
+[p15s0]
+Well, all the neighbours are elderly, so no noisy kids.
+嗯，邻居都是老人，所以没有吵闹的孩子。
+
+[p15s1]
+And the back of the house overlooks a clear and peaceful pond.
+房子的后面俯瞰着清澈宁静的池塘。
+
+[p15s2]
+So it's perfect if tranquility is what you are looking for.
+因此，如果您正在寻找宁静，那么这里就是完美的选择。
+
+[p16s0]
+That's good news.
+这是个好消息。
+
+[p16s1]
+We've been living in a less than glamorous part of Aberdeen, constantly harassed day and night by noisy neighbours.
+我们一直住在阿伯丁一个不太迷人的地方，日夜不断地受到吵闹的邻居的骚扰。
+
+[p16s2]
+Getting to work was a nightmare too, as we only have one car and my wife has to use it as she works nights at the hospital.
+上班也是一场噩梦，因为我们只有一辆车，而我的妻子晚上在医院工作时必须使用它。
+
+[p17s0]
+Well, if you like the place, it's yours as soon as I get a contract drawn up with a solicitor.
+好吧，如果你喜欢这个地方，我和律师签订合同后，它就是你的了。
+
+[p17s1]
+The first month's rent and a deposit are mandatory on signing the contract.
+签订合同时必须支付第一个月的租金和押金。
+
+[p17s2]
+Then we can work out when is the best day for you to pay rent each month.
+然后我们可以计算出您每月支付租金的最佳日期是什么时候。
+
+[p18s0]
+We'll be incredibly happy to be your new tenants.
+我们将非常高兴成为您的新租户。
+
+[p18s1]
+Thank you so much.
+非常感谢。
+
+[p18s2]
+My wife will be thrilled to get out of the shabby place we are now in and start filling those wardrobes with all those shoes.
+我的妻子会很高兴离开我们现在所在的破旧地方，开始在衣柜里装满这些鞋子。
+
+[p19s0]
+A new study has found a positive correlation between how much television children watch and their parents' stress levels.
+一项新研究发现，孩子看电视的时间与父母的压力水平呈正相关。
+
+[p19s1]
+Why?
+为什么？
+
+[p19s2]
+Because the more television kids watch, the more they're exposed to advertising.
+因为孩子们看的电视越多，他们接触到的广告就越多。
+
+[p19s3]
+The more advertising they see, the more likely they are to insist on purchasing items when they go with their parents to the store.
+他们看到的广告越多，当他们和父母一起去商店时，就越有可能坚持购买商品。
+
+[p19s4]
+This could generate conflict if the parents refuse.
+如果父母拒绝，可能会产生冲突。
+
+[p19s5]
+All that, researchers say, can contribute to parents' overall stress levels.
+研究人员表示，所有这些都会增加父母的整体压力水平。
+
+[p19s6]
+What's the solution?
+解决办法是什么？
+
+[p19s7]
+Perhaps the most obvious is curtailing screen time.
+也许最明显的是减少屏幕时间。
+
+[p19s8]
+Commercial content is there for a reason—to elicit purchasing behavior.
+商业内容的存在是有原因的——引发购买行为。
+
+[p19s9]
+So parents might want to shut off the TV.
+所以父母可能想关掉电视。
+
+[p19s10]
+Researchers concede that this is easier said than done.
+研究人员承认，这说起来容易做起来难。
+
+[p19s11]
+So they suggest another option.
+所以他们建议另一种选择。
+
+[p19s12]
+Parents can change how they talk to their kids about purchases.
+父母可以改变与孩子谈论购物的方式。
+
+[p19s13]
+The researchers suggest that parents seek input from their children on family purchasing decisions.
+研究人员建议父母在家庭购买决策时征求孩子的意见。
+
+[p19s14]
+They shouldn't try to control all purchases.
+他们不应该试图控制所有购买。
+
+[p19s15]
+Instead, parents might tell their children things like "I will listen to your advice on certain products or brands."
+相反，父母可能会告诉孩子“我会听取你对某些产品或品牌的建议”之类的话。
+
+[p19s16]
+This type of communication, the researchers assert, can lead to children making fewer purchasing demands.
+研究人员断言，这种类型的交流可以减少孩子的购买需求。
+
+[p19s17]
+That means less parents' stress.
+这意味着父母的压力会减轻。
+
+[p19s18]
+However, the protective effect of this kind of communication diminishes with greater exposure to television.
+然而，这种交流的保护作用会随着电视接触时间的增加而减弱。
+
+[p19s19]
+This is because advertising aimed at children is especially persuasive.
+这是因为针对儿童的广告尤其具有说服力。
+
+[p19s20]
+Advertisers use an assortment of tactics, such as bright colors, happy music and celebrity endorsements to appeal to children.
+广告商使用各种策略来吸引儿童，例如鲜艳的色彩、欢快的音乐和名人代言。
+
+[p19s21]
+Plus, children don't have the cognitive ability to fully understand advertising's intent.
+另外，儿童没有认知能力来完全理解广告的意图。
+
+[p19s22]
+That makes them particularly vulnerable to advertisements.
+这使得他们特别容易受到广告的影响。
+
+[p20s0]
+Everyone is supposed to cheer for good guys, and we should only punish the bad guys.
+每个人都应该为好人喝彩，而只应该惩罚坏人。
+
+[p20s1]
+But that's not what we always do.
+但我们并不总是这样做。
+
+[p20s2]
+Most of the time, we do indeed reward good people.
+大多数时候，我们确实会奖励好人。
+
+[p20s3]
+We also often punish people who harm others or who aren't good team players.
+我们还经常惩罚伤害他人或不善于团队合作的人。
+
+[p20s4]
+But sometimes the good guys also get punished or criticized, specifically because they are so good.
+但有时好人也会受到惩罚或批评，特别是因为他们太优秀了。
+
+[p20s5]
+This seems baffling, because it's detrimental to group cooperation.
+这似乎令人困惑，因为这不利于团队合作。
+
+[p20s6]
+However, the phenomenon has been discovered in multiple fields, and it has been found in every society.
+然而，这种现象在多个领域、每个社会都存在。
+
+[p20s7]
+Why does this happen?
+为什么会出现这种情况？
+
+[p20s8]
+Research suggests a simple reason.
+研究表明了一个简单的原因。
+
+[p20s9]
+When one person looks really good, others look bad by comparison.
+当一个人看起来非常优秀时，相比之下其他人就会显得很糟糕。
+
+[p20s10]
+Those others then have an incentive in stopping that person from looking good, especially if they can't or won't compete.
+然后，其他人就会有动机阻止那个人看起来很好，特别是如果他们不能或不愿竞争的话。
+
+[p20s11]
+After all, we're all judged in comparison with others.
+毕竟，我们都是通过与他人比较来评判的。
+
+[p20s12]
+When faced with someone better, what can a normal person do?
+当面对更好的人时，正常人能做什么？
+
+[p20s13]
+One option is to actively compete.
+一种选择是积极竞争。
+
+[p20s14]
+A second option is to bring that person down.
+第二种选择是让那个人失望。
+
+[p20s15]
+That is to suppress their cooperation or work ethic, infer selfish motives for their actions, or imply real or imagined hypocrisy.
+那就是压制他们的合作或职业道德，推断他们行为的自私动机，或者暗示真实或想象的虚伪。
+
+[p20s16]
+Other tactics include attacking them on unrelated dimensions or punishing them outright.
+其他策略包括从不相关的维度攻击他们或直接惩罚他们。
+
+[p20s17]
+Why does this matter?
+为什么这很重要？
+
+[p20s18]
+Critics often attack the motives of people who protect the environment, donate money or work too hard.
+批评者经常攻击那些保护环境、捐款或过度努力工作的人的动机。
+
+[p20s19]
+Such good deeds are dismissed as naive or hypocritical by those who do not perform those deeds.
+那些不做这些事的人会认为这些善行是天真或虚伪的。
+
+[p20s20]
+This criticism may ultimately discourage people from doing good deeds.
+这种批评最终可能会阻止人们做好事。
+
+[p20s21]
+So it's important to recognize these attacks for what they are.
+因此，认清这些攻击的本质非常重要。
+
+[p21s0]
+In America, most researchers concede that boys and girls are brought up in different ways, taught different skills and rewarded for different acts.
+在美国，大多数研究人员承认男孩和女孩的成长方式不同，教授的技能也不同，行为也不同。
+
+[p21s1]
+Women, it is agreed, excel at certain tasks, men at others.
+人们一致认为，女性在某些任务上表现出色，而男性在其他任务上表现出色。
+
+[p22s0]
+There's little argument that some personality traits appear more dominant in one sex than in the other.
+毫无疑问，某些性格特征在一种性别中比在另一种性别中显得更占主导地位。
+
+[p22s1]
+All of this notwithstanding, gender differences are very much in the media these days.
+尽管如此，性别差异如今在媒体上仍然非常突出。
+
+[p22s2]
+Since the rise of the women's movement, gender role behavior has come under closer scrutiny.
+自从妇女运动兴起以来，性别角色行为受到了更严格的审视。
+
+[p23s0]
+How has this affected friendship?
+这对友谊有何影响？
+
+[p23s1]
+How do the sexes differ in their friendship relations?
+两性的友谊关系有何不同？
+
+[p23s2]
+Most preteen children have a best friend who is usually someone of the same sex and similar age.
+大多数青春期前的孩子都有一个最好的朋友，通常是同性和相似年龄的人。
+
+[p23s3]
+Both sexes share an essentially positive recollection of these childhood friendships.
+男女都对这些童年友谊有着本质上积极的回忆。
+
+[p23s4]
+They do not differ in this respect.
+他们在这方面没有什么不同。
+
+[p24s0]
+However, the type of play engaged in during these early friendships is telling of the difference to come.
+然而，这些早期友谊中所进行的游戏类型预示着即将到来的不同。
+
+[p24s1]
+Boys tend to form play groups that are competitive in nature.
+男孩倾向于组成具有竞争性的游戏小组。
+
+[p24s2]
+Girls' groups more frequently revolve around cooperative enterprises.
+女孩团体更多地以合作企业为中心。
+
+[p24s3]
+Thus at an early age, boys become concerned with trying hard and winning, while girls, by contrast, playhouse and school, engaging in roles that require complementary support.
+因此，男孩在很小的时候就开始关心努力尝试和获胜，而女孩则相反，关心剧场和学校，从事需要补充支持的角色。
+
+[p24s4]
+Speaking of their childhood, men recall being highly responsive to and aware of the gender-role opinions of other boys.
+谈到他们的童年，男性回忆起对其他男孩的性别角色观点高度敏感和了解。
+
+[p24s5]
+Girls in preteen years appear to be less susceptible to gender-role pressure.
+青春期前的女孩似乎不太容易受到性别角色压力的影响。
+
+[p24s6]
+It is not until the dating years that women report being concerned with feminine behavior.
+直到约会时期，女性才开始担心女性行为。
+
+[p24s7]
+Males, for the most part, are responsive to the suggestion that their behavior is unmanly at almost any age.
+大多数情况下，男性都会对自己的行为在几乎任何年龄段都缺乏男子气概的建议做出反应。
+
+[p24s8]
+These early attitudes reinforced by social conditioning continue to play an active part in the friendships of both sexes during adolescence.
+这些由社会条件强化的早期态度继续在青春期的两性友谊中发挥积极作用。
+
+[p24s9]
+This is a period when the majority of males once again report a closer alliance with same-sex friends.
+在这个时期，大多数男性再次表示与同性朋友的关系更加密切。
+
+[p24s10]
+Now, however, with heightened intensity, considerable energy is devoted to competing for position and a definite undercurrent of competition permeates the relationship.
+然而现在，随着强度的加剧，相当多的精力投入到争夺地位上，并且明显的竞争暗流渗透到了这种关系中。
+
+[p24s11]
+Although in dissimilar fashion, females share equally fragile relationships at this age.
+尽管方式不同，但女性在这个年龄段的人际关系同样脆弱。
+
+[p24s12]
+For them, the bond of loyalty extends only to the line of romantic involvement.
+对他们来说，忠诚的纽带只延伸到浪漫的参与线上。
+
+[p24s13]
+This is most apt to be the case in late adolescence when dating and relationships with boys take sharper precedence over sisterhood.
+这种情况最有可能发生在青春期后期，此时约会和与男孩的关系比姐妹情谊更加重要。
+
+[p24s14]
+Actually dating dilutes the intensity of same-sex friendships for men also.
+事实上，约会也会削弱男性同性友谊的强度。
+
+[p24s15]
+For the majority of us, the moment we begin to date seriously, there's a competition between romance and friendship.
+对于我们大多数人来说，当我们开始认真约会的那一刻，浪漫和友谊之间就存在着竞争。
+
+[p25s0]
+Good afternoon.
+下午好。
+
+[p25s1]
+In today's lecture, we'll be talking about how and when to disclose a disability when applying for a job.
+在今天的讲座中，我们将讨论在申请工作时如何以及何时披露残疾情况。
+
+[p25s2]
+On average, about 20 percent of the population has some form of disability.
+平均而言，大约 20% 的人口患有某种形式的残疾。
+
+[p25s3]
+Most countries, these days, have equal opportunity and non-discrimination laws.
+如今，大多数国家都制定了平等机会和非歧视法律。
+
+[p25s4]
+Yet disabled people often find it hard to decide when, how and if at all to raise their disability problem with the potential employer.
+然而，残疾人常常发现很难决定何时、如何以及是否向潜在雇主提出他们的残疾问题。
+
+[p25s5]
+There is uncertainty about how a recruiter will perceive their disability.
+招聘人员如何看待他们的残疾存在不确定性。
+
+[p25s6]
+As such, many candidates fear they wouldn't be considered for a position as a result of disclosing this personal information.
+因此，许多候选人担心他们不会因为披露这些个人信息而被考虑担任该职位。
+
+[p25s7]
+And research has validated this as a genuine concern for many job applicants.
+研究证实这是许多求职者真正关心的问题。
+
+[p25s8]
+It's a natural reaction, but it shouldn't be a reason to stay quiet.
+这是一种自然反应，但不应成为保持沉默的理由。
+
+[p25s9]
+People need to remember that they are applying for a position they have the skills and experience to excel in.
+人们需要记住，他们正在申请的职位拥有出色的技能和经验。
+
+[p25s10]
+Discussing a disability with the potential employer may help them make reasonable workplace adjustments in their favor.
+与潜在雇主讨论残疾问题可能有助于他们做出对自己有利的合理工作场所调整。
+
+[p25s11]
+It's most appropriate to discuss a disability when they reply to confirm an interview.
+当他们回复确认采访时讨论残疾是最合适的。
+
+[p25s12]
+This information needn't be put upfront in their cover letter or resume, because it's probably not relevant to the position itself.
+这些信息不必放在求职信或简历中，因为它可能与职位本身无关。
+
+[p25s13]
+Candidates with disabilities should feel they have the power to make their own decisions around sharing this information free from prejudice.
+残疾候选人应该感到他们有权在分享这些信息时不受偏见地做出自己的决定。
+
+[p25s14]
+If they find an organization that doesn't celebrate diversity and inclusion, it could say a lot about the company's culture.
+如果他们发现一个组织不提倡多元化和包容性，那么这可能很大程度上说明了该公司的文化。
+
+[p25s15]
+Perhaps the organization isn't the right fit.
+也许该组织不合适。
+
+[p25s16]
+It's important for them to remember that they are seeking a manager, an employer that's going to be supportive and continue to give them a great employment experience.
+对他们来说，重要的是要记住，他们正在寻找一位经理，一个能够提供支持并继续为他们提供良好就业体验的雇主。
+
+[p25s17]
+Companies sometimes offer candidates the chance to disclose disabilities on their application form, but people shouldn't feel restricted by this method or timing.
+公司有时会为候选人提供在申请表上披露残疾情况的机会，但人们不应该感到受到这种方法或时间的限制。
+
+[p25s18]
+People should avoid sharing the name of their disability or condition.
+人们应该避免透露他们的残疾或状况的名称。
+
+[p25s19]
+There is always the risk that the recruiter will research information that is inaccurate or irrelevant.
+招聘人员始终存在研究不准确或不相关信息的风险。
+
+[p25s20]
+If people don't think their disability will impact their ability to perform in the advertised position, then it's entirely their entitlement to choose when and whether to share this information.
+如果人们认为自己的残疾不会影响他们在广告职位上的表现，那么他们完全有权利选择何时以及是否分享此信息。
+
+[p26s0]
+Smartphones distract attention and reduce learning because of their potential to offer activities more inviting than study.
+智能手机会分散注意力并减少学习，因为它们可能提供比学习更有吸引力的活动。
+
+[p26s1]
+But what about background sound alone?
+但是单独的背景声音又如何呢？
+
+[p26s2]
+A group of American researchers compared students' comprehension of verbal material when reading in the presence of background speech, instrumental music or general noise.
+一组美国研究人员比较了学生在有背景语音、器乐或一般噪音的情况下阅读时对语言材料的理解。
+
+[p26s3]
+General noise is neutral, such as that from the sound of an air conditioner or fan.
+一般噪音是中性的，例如空调或风扇的声音。
+
+[p26s4]
+Students' scores were most depressed in the presence of background speech.
+在有背景演讲的情况下，学生的成绩最为沮丧。
+
+[p26s5]
+Comprehension was slightly better with the presence of music than with speech.
+有音乐的情况下的理解力比有语音的情况下的理解力稍好一些。
+
+[p26s6]
+However, when they were asked to identify melodies rather than understand text, background music interfered more.
+然而，当他们被要求识别旋律而不是理解文本时，背景音乐的干扰更大。
+
+[p26s7]
+When the background speech was in a language unfamiliar to participants, there was little if any hindrance of reading comprehension.
+当背景演讲使用参与者不熟悉的语言时，阅读理解几乎没有任何障碍。
+
+[p27s0]
+British researchers compared the effects of background speech, vocal music, instrumental music, general background noise and silence on short-term memory.
+英国研究人员比较了背景语音、声乐、器乐、一般背景噪音和沉默对短期记忆的影响。
+
+[p27s1]
+Background speech had the biggest negative effect.
+背景演讲的负面影响最大。
+
+[p27s2]
+Vocal music was slightly more disruptive than instrumental.
+声乐比器乐更具破坏性。
+
+[p27s3]
+In general, background noise and silence were least disruptive.
+一般来说，背景噪音和安静的干扰最小。
+
+[p27s4]
+It seems the degree of interference from background noise depends on the overlap between the processing required on the task and the processing required to screen out the background noise.
+背景噪声的干扰程度似乎取决于任务所需的处理与筛选背景噪声所需的处理之间的重叠。
+
+[p27s5]
+The studies suggest that when people read and when they try to remember any verbal material, background speech will inhibit their ability.
+研究表明，当人们阅读并试图记住任何口头材料时，背景语音会抑制他们的能力。
+
+[p27s6]
+Instrumental music will have at worst a slight effect.
+器乐最多只会产生轻微的影响。
+
+[p27s7]
+When students write essays, however, other research has found it is best to reduce all background noise as much as possible.
+然而，其他研究发现，当学生写论文时，最好尽可能减少所有背景噪音。
+
+[p28s0]
+Not everyone reacts in the same way to distractions.
+并非每个人对干扰的反应都相同。
+
+[p28s1]
+Other studies suggest some aspects of personality may make a difference.
+其他研究表明，性格的某些方面可能会产生影响。
+
+[p28s2]
+The researchers subjected shy quiet people and confident outgoing ones to higher arousal or lower arousal background music, general noise or silence while asking them to remember words.
+研究人员让害羞安静的人和自信外向的人听较高唤醒度或较低唤醒度的背景音乐、一般噪音或沉默，同时要求他们记住单词。
+
+[p28s3]
+Everyone performed best in the silent condition.
+每个人都在安静的情况下表现得最好。
+
+[p28s4]
+But less sociable people were more negatively affected by each of the distractions.
+但不太善于交际的人受到每种干扰的负面影响更大。
+
+[p28s5]
+So when children are reading and trying to incorporate new material, parents could consider allowing some background music, particularly if it is instrumental and their child is the outgoing type.
+因此，当孩子们阅读并尝试吸收新材料时，父母可以考虑允许一些背景音乐，特别是如果它是器乐性的并且他们的孩子是外向型的。
+

@@ -130,3 +130,611 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Tonight, we have a very special guest.
+今晚，我们有一位非常特别的客人。
+
+[p0s1]
+Mrs. Anna Sanchez is a three-time Olympic champion and author of the new book, To the Edge.
+安娜·桑切斯夫人是三届奥运会冠军，也是新书《走向边缘》的作者。
+
+[p0s2]
+Mrs. Sanchez, thank you for joining us.
+桑切斯女士，感谢您加入我们。
+
+[p1s0]
+Thank you for having me.
+女：谢谢你邀请我。
+
+[p2s0]
+Let's start with your book.
+让我们从你的书开始吧。
+
+[p2s1]
+What does the title, To the Edge, mean?
+标题“到边缘”是什么意思？
+
+[p2s2]
+What are you referring to?
+你指的是什么？
+
+[p3s0]
+The book is about how science and technology has helped push humans to the edge of their physical abilities.
+这本书讲述了科学技术如何帮助人类达到身体能力的极限。
+
+[p3s1]
+I argue that in the past 20 years, we have had the best athletes the world has ever seen.
+我认为，在过去的 20 年里，我们拥有世界上最优秀的运动员。
+
+[p4s0]
+But is this a fair comparison?
+但这是一个公平的比较吗？
+
+[p4s1]
+How do you know how, say, a football player from 50 years ago would compare to one today?
+比如说，你怎么知道 50 年前的足球运动员与今天的足球运动员相比如何？
+
+[p5s0]
+Well, you are right.
+嗯，你是对的。
+
+[p5s1]
+That comparison would be perhaps impossible to make.
+这种比较也许是不可能的。
+
+[p5s2]
+But the point is more about our knowledge today of human biochemistry, nutrition, and mechanics.
+但重点更多的是我们今天对人类生物化学、营养和力学的了解。
+
+[p5s3]
+I believe that, while our bodies have not changed in thousands of years, what has changed is the scientific knowledge.
+我相信，虽然我们的身体几千年来没有改变，但改变的是科学知识。
+
+[p5s4]
+This has allowed athletes to push the limits of what was previously thought possible.
+这使得运动员能够突破以前认为可能的极限。
+
+[p6s0]
+That's interesting.
+这很有趣。
+
+[p6s1]
+Please tell us more about these perceived limits.
+请告诉我们更多关于这些感知限制的信息。
+
+[p7s0]
+The world is seeing sports records being broken that could only be broken with the aid of technology, whether this be the speed of a tennis serve or the fastest time in a 100-meter dash or a 200-meter swimming race.
+女：世界上不断有体育记录被打破，而这些记录只能借助技术来打破，无论是网球发球速度，还是 100 米短跑或 200 米游泳比赛的最快成绩。
+
+[p8s0]
+Is there any concern that technology is giving some athletes an unfair advantage over others?
+男：是否有人担心技术使某些运动员相对于其他运动员具有不公平的优势？
+
+[p9s0]
+That is an interesting question and one that has to be considered very carefully.
+这是一个有趣的问题，必须非常仔细地考虑。
+
+[p9s1]
+Skis, for example, went from being made of wood to a metal alloy, which allows for better control and faster speed.
+例如，滑雪板从木材制成为金属合金，这样可以更好地控制和更快的速度。
+
+[p9s2]
+There is no stopping technological progress, but, as I said, each situation should be considered carefully on a case-by-case basis.
+技术进步不会停止，但正如我所说，每种情况都应该根据具体情况仔细考虑。
+
+[p10s0]
+I've worked in international trade all my life.
+我一生都从事国际贸易工作。
+
+[p10s1]
+My father did so, too, before me, so I guess you could say it runs in the family.
+我父亲在我之前也这样做过，所以我想你可以说这是家族遗传的。
+
+[p11s0]
+What products have you worked with?
+男：你们合作过哪些产品？
+
+[p12s0]
+All sorts, really.
+各种各样，真的。
+
+[p12s1]
+I've imported textiles, machinery, toys, solar panels, all kinds of things over the years.
+多年来我进口了纺织品、机械、玩具、太阳能电池板以及各种各样的东西。
+
+[p12s2]
+Trends and demand come and go, so one needs to be very flexible to succeed in this industry.
+趋势和需求瞬息万变，因此需要非常灵活才能在这一行业取得成功。
+
+[p13s0]
+I see.
+我明白了。
+
+[p13s1]
+What goods are you trading now?
+您现在交易什么商品？
+
+[p14s0]
+I now import furniture from China into Italy, and foods from Italy into China.
+我现在从中国进口家具到意大利，从意大利进口食品到中国。
+
+[p14s1]
+I even use the same container.
+我什至使用同一个容器。
+
+[p14s2]
+It's a very efficient way of conducting trade.
+这是一种非常有效的贸易方式。
+
+[p15s0]
+The same container?
+同一个容器？
+
+[p15s1]
+You mean you own a 40-foot cargo container?
+您是说您拥有一个 40 英尺的集装箱？
+
+[p16s0]
+Yeah, that's right.
+是的，没错。
+
+[p16s1]
+I have a warehouse in Genova, Italy, and another in Shanghai.
+我在意大利热那亚有一个仓库，在上海也有一个。
+
+[p16s2]
+I source mid-century modern furniture from different factories in China.
+我从中国不同的工厂采购中世纪的现代家具。
+
+[p16s3]
+It's very good value for money.
+这是非常物有所值的。
+
+[p16s4]
+I collect it all in my warehouse and then dispatch it to my other warehouse in Italy.
+我将所有这些都收集在我的仓库中，然后将其发送到我在意大利的另一个仓库。
+
+[p16s5]
+Over there, I do the same, but with Italian foods instead of furniture.
+在那里，我也做了同样的事情，但用的是意大利食物而不是家具。
+
+[p16s6]
+Things like pasta, cheese, wine, chocolates.
+像意大利面、奶酪、葡萄酒、巧克力之类的东西。
+
+[p16s7]
+And I send all that to my warehouse in China, in the same freight container I use for the furniture.
+我将所有这些都发送到我在中国的仓库，放在我用来装家具的同一个货运集装箱中。
+
+[p17s0]
+So I presume you sell both lines of products wholesale in each respective country?
+男：所以我想你们在各自的国家批发销售这两个系列的产品？
+
+[p18s0]
+Of course.
+当然。
+
+[p18s1]
+I possess a network of clients and partners in both countries.
+我在这两个国家都拥有客户和合作伙伴网络。
+
+[p18s2]
+That's the main benefit of having done this for so long.
+这是长期这样做的主要好处。
+
+[p18s3]
+I've made great business contacts over time.
+随着时间的推移，我已经建立了很好的业务联系。
+
+[p19s0]
+How many times do you ship?
+男：你们发货了多少次？
+
+[p20s0]
+I did 12 shipments last year, 18 this year, and I hope to grow to around 25 next year.
+去年我发货了12次，今年18次，希望明年能增长到25次左右。
+
+[p20s1]
+That's both ways, there and back again.
+这是双向的，来来回回。
+
+[p20s2]
+Demand for authentic Italian food in China is growing rapidly.
+中国对正宗意大利美食的需求正在迅速增长。
+
+[p20s3]
+And similarly, sales of affordable yet stylish wooden furniture are also increasing in Italy.
+同样，价格实惠且时尚的木制家具在意大利的销量也在增加。
+
+[p20s4]
+Furniture is marginally more profitable, mostly because it enjoys lower customs duties.
+家具的利润略高，主要是因为它的关税较低。
+
+[p21s0]
+Too many people view their jobs as a five-day prison from which they are paroled every Friday, says Joel Goodman, founder of The Humor Project, a humor consulting group in Saratoga Springs, New York.
+纽约萨拉托加斯普林斯幽默咨询组织“幽默项目”的创始人乔尔·古德曼表示，太多人将自己的工作视为五天监狱，每周五就会被假释。
+
+[p21s1]
+Humor unlocks the office prison because it lets adults bring some of their childlike spirit to the job.
+幽默打开了办公室的监狱，因为它让成年人把一些童心带到工作中。
+
+[p21s2]
+According to Howard Polio, professor of psychology at the University of Tennessee, Knoxville, an office with humor breaks is an office with satisfied and productive employees.
+诺克斯维尔田纳西大学心理学教授霍华德·波利奥表示，一个有幽默感的办公室就是一个员工满意且高效的办公室。
+
+[p21s3]
+Polio conducted a study that proved humor can help workers excel at routine production tasks.
+脊髓灰质炎进行的一项研究证明，幽默可以帮助工人在日常生产任务中表现出色。
+
+[p21s4]
+Employees perform better when they have fun.
+员工在享受乐趣时表现得更好。
+
+[p22s0]
+In large corporations with a hierarchy of power, there is often no outlet for stress.
+在权力等级森严的大公司里，压力往往没有发泄的出口。
+
+[p22s1]
+Every company needs underground ways of poking fun at the organization, says Lynn M.
+每家公司都需要用地下的方式来取笑组织，林恩·M·肯尼迪 (Lynn M.
+
+[p22s2]
+Mark, a speaker on workplace humor for St. Mary's Health Center in St. Louis.
+马克是圣路易斯圣玛丽健康中心的工作场所幽默演讲者。
+
+[p22s3]
+Kodak's Rochester, New York branch discovered a way for its 20,000 employees to uncork their bottled-up resentments.
+柯达纽约州罗切斯特分公司发现了一种方法，可以让 20,000 名员工发泄压抑已久的怨恨情绪。
+
+[p22s4]
+Their 1,000-square-foot humor room features a toy store.
+他们的幽默室占地 1,000 平方英尺，设有玩具店。
+
+[p22s5]
+Among the room's many stress-reducing gadgets, the main attraction is a boss doll.
+在房间里众多的减压小玩意中，最引人注目的是老板娃娃。
+
+[p22s6]
+With detachable arms and legs, employees can take the doll apart as long as they put its arms and legs back in place.
+由于手臂和腿可拆卸，员工只要将手臂和腿放回原位，就可以将娃娃拆开。
+
+[p22s7]
+Sandy Cohen, owner of a graphic print production business, created the Quote Board to document the bizarre phrases people say when under strict deadlines.
+桑迪·科恩 (Sandy Cohen) 是一家图形印刷制作公司的老板，他创建了报价板来记录人们在严格期限内所说的奇怪短语。
+
+[p22s8]
+When you're under stress, you say stupid things, says Cohen.
+科恩说，当你面临压力时，你会说蠢话。
+
+[p22s9]
+Now we just look at each other and say, that's one for the Quote Board.
+现在我们只是看着对方并说，这是报价板的。
+
+[p23s0]
+Public interest was aroused by the latest discovery of a changed gene in obese mice.
+肥胖小鼠基因改变的最新发现引起了公众的兴趣。
+
+[p23s1]
+The news was made known by Rockefeller University geneticist Jeffrey Friedman.
+洛克菲勒大学遗传学家杰弗里·弗里德曼宣布了这一消息。
+
+[p23s2]
+The researchers believe this gene influences development of a hormone that tells the organism how fat or full it is.
+研究人员认为，该基因影响一种激素的发育，这种激素告诉有机体它有多胖或多饱。
+
+[p23s3]
+Those with the changed gene may not sense when they have eaten enough or if they have sufficient fatty tissue and thus can't tell when to stop eating.
+那些携带改变基因的人可能无法感觉到自己何时吃得足够多，或者是否有足够的脂肪组织，因此无法判断何时停止进食。
+
+[p23s4]
+The researchers also reported finding a gene nearly identical to the mouse obesity gene in humans.
+研究人员还报告发现了一种与人类小鼠肥胖基因几乎相同的基因。
+
+[p23s5]
+The operation of this gene in humans has not yet been demonstrated, however.
+然而，该基因在人类中的作用尚未得到证实。
+
+[p24s0]
+Still, professionals like University of Vermont psychologist Esther Rothblum reacted enthusiastically.
+尽管如此，佛蒙特大学心理学家埃丝特·罗斯布鲁姆等专业人士还是做出了热情的反应。
+
+[p24s1]
+This research indicates that people really are born with a tendency to have a certain weight, just as they are to have a particular skin color or height.
+这项研究表明，人们确实天生就有一定体重的倾向，就像他们有特定的肤色或身高一样。
+
+[p24s2]
+Actually, behavioral geneticists believe that less than half of the total weight variation is programmed in the genes, while height is almost entirely genetically determined.
+事实上，行为遗传学家认为，不到一半的体重变化是由基因编程的，而身高几乎完全由基因决定。
+
+[p25s0]
+Whatever role genes play, Americans are getting fatter.
+无论基因发挥什么作用，美国人都在变得越来越胖。
+
+[p25s1]
+A survey by the Center for Disease Control found that obesity has increased greatly over the last 10 years.
+美国疾病控制中心的一项调查发现，过去10年肥胖人数大幅增加。
+
+[p25s2]
+Such rapid change underlines the role of environmental factors, like the abundance of rich foods, in Americans' overeating.
+如此迅速的变化凸显了环境因素（例如丰富的油腻食物）在美国人暴饮暴食中的作用。
+
+[p25s3]
+The Center for Disease Control has also found that teens are far less physically active than they were even a decade ago.
+疾病控制中心还发现，青少年的体力活动远不如十年前。
+
+[p25s4]
+Accepting that weight is predetermined can relieve guilt for overweight people, but people's belief that they cannot control their weight can itself contribute to obesity.
+接受体重是预先确定的事实可以减轻超重者的负罪感，但人们相信自己无法控制体重，这本身就会导致肥胖。
+
+[p26s0]
+Qualities of a relationship such as openness, compassion, and mental stimulation are of concern to most of us, regardless of sex.
+开放、同情和精神刺激等关系品质是我们大多数人所关心的，无论性别如何。
+
+[p26s1]
+But, judging from the questionnaire response, they are more important to women than to men.
+但从调查问卷的答复来看，它们对女性比对男性更重要。
+
+[p26s2]
+Asked to consider the ingredients of close friendship, women rated these qualities above all others.
+当被要求考虑亲密友谊的要素时，女性认为这些品质高于其他品质。
+
+[p26s3]
+Men assigned a lower priority to them, in favor of similarity in interests, selected by 77% of men, and responsiveness in a crisis, chosen by 61% of male respondents.
+男性对这些问题的优先级较低，77% 的男性选择了兴趣相似，61% 的男性受访者选择了危机应对能力。
+
+[p26s4]
+Mental stimulation, ranked third in popularity by men as well as women, was the only area of overlap.
+精神刺激在男性和女性中排名第三，是唯一重叠的领域。
+
+[p26s5]
+Among men, only 28% named openness as an important quality.
+在男性中，只有 28% 的人将开放性视为重要品质。
+
+[p26s6]
+Considering was picked by just 23%.
+只有 23% 的人选择考虑。
+
+[p27s0]
+It is evident by their selections that when women speak of close friendships, they are referring to emotional factors, while men emphasize the pleasure they find in a friend's company.
+从他们的选择中可以明显看出，当女性谈到亲密的友谊时，她们指的是情感因素，而男性则强调他们在朋友的陪伴中找到的快乐。
+
+[p27s1]
+That is, when a man speaks of a friend, he is likely to be talking about someone he does things with, a teammate, a fellow hobbyist, a drinking buddy.
+也就是说，当一个人谈到朋友时，他很可能正在谈论与他一起做事的人、队友、业余爱好者、酒友。
+
+[p27s2]
+These activities are the fabric of the friendship.
+这些活动是友谊的基础。
+
+[p27s3]
+It is a doing relationship, in which similarity in interests is the key bond.
+这是一种做事的关系，其中利益的相似性是关键的纽带。
+
+[p27s4]
+This factor was a consideration of less than 11% of women.
+不到 11% 的女性考虑过这个因素。
+
+[p27s5]
+Women opt for a warm, emotional atmosphere where communication flows freely.
+女性选择温暖、情感丰富、交流自由的氛围。
+
+[p27s6]
+Activity is mere background.
+活动只是背景。
+
+[p28s0]
+Lastly, men, as we have seen, have serious questions about each other's loyalty.
+最后，正如我们所看到的，男人对彼此的忠诚度抱有严重的疑问。
+
+[p28s1]
+Perhaps this is why they placed such strong emphasis on responsiveness in a crisis.
+也许这就是为什么他们如此强调危机中的反应能力。
+
+[p28s2]
+Someone I can call on for help.
+我可以向某人寻求帮助。
+
+[p28s3]
+Women, as their testimonies indicate, are generally more secure with each other and consequently are more likely to treat this issue lightly.
+正如她们的证言所表明的那样，女性通常对彼此更有安全感，因此更有可能对这个问题掉以轻心。
+
+[p28s4]
+In follow-up interviews, this was confirmed numerous times, as woman after woman indicated that being there when needed was taken for granted.
+在后续采访中，这一点被多次证实，因为一位又一位女性表示，在需要时出现在身边是理所当然的。
+
+[p28s5]
+As for the hazards of friendship, more than a few relationships have been shattered because of cutthroat competition and feelings of betrayal.
+至于友谊的危险，不少关系因为激烈的竞争和背叛的感觉而破裂。
+
+[p28s6]
+This applies to both men and women, but unequally.
+这适用于男性和女性，但不平等。
+
+[p28s7]
+In comparison, nearly twice as many men complained about these issues as women.
+相比之下，抱怨这些问题的男性人数几乎是女性的两倍。
+
+[p28s8]
+Further, while competition and betrayal are the main thorns to female friendship, men are plagued in almost equal amounts by two additional issues: lack of frankness and a fear of appearing unmanly.
+此外，虽然竞争和背叛是女性友谊的主要障碍，但男性也几乎同样受到另外两个问题的困扰：缺乏坦诚和害怕显得没有男子气概。
+
+[p28s9]
+Obviously, for a man, a good friendship is hard to find.
+显然，对于一个男人来说，良好的友谊是很难找到的。
+
+[p29s0]
+The partial skeletons of more than 20 dinosaurs and the scattered bones of about 300 more have been discovered in Utah and Colorado at what is now the Dinosaur National Monument.
+在犹他州和科罗拉多州现在的恐龙国家纪念碑中发现了 20 多具恐龙的部分骨骼和大约 300 具分散的骨骼。
+
+[p29s1]
+Many of the best specimens may be seen today at museums of natural history in the larger cities of the United States and Canada.
+如今，许多最好的标本都可以在美国和加拿大大城市的自然历史博物馆中看到。
+
+[p29s2]
+This dinosaur pit is the largest and best preserved deposit of dinosaurs known today.
+这个恐龙坑是当今已知最大、保存最完好的恐龙矿藏。
+
+[p30s0]
+Many people get the idea from the mass of bones in the pit wall that some disaster such as a volcanic explosion or a sudden flood killed a whole herd of dinosaurs in this area.
+许多人从坑壁上的大量骨头中得出这样的想法：火山爆发或突然发生的洪水等灾难杀死了该地区的一整群恐龙。
+
+[p30s1]
+This could have happened, but it probably did not.
+这本来可能发生，但也可能没有发生。
+
+[p30s2]
+The main reasons for thinking otherwise are the scattered bones and the thickness of the deposit.
+不这么想的主要原因是骨头的分散和沉积物的厚度。
+
+[p30s3]
+In other deposits where the animals were thought to have died together, the skeletons were usually complete and often all the bones were in their proper places.
+在其他被认为动物一起死亡的沉积物中，骨骼通常是完整的，而且通常所有骨头都在适当的位置。
+
+[p30s4]
+Rounded pieces of fossil bone have been found here.
+在这里发现了圆形的化石骨头。
+
+[p30s5]
+These fragments got their smooth round shape by rolling along the stream bottom.
+这些碎片沿着溪底滚动，形成光滑的圆形。
+
+[p30s6]
+In a mass killing, the bones would have been left on the stream or lake bottom together at the same level.
+在大规模屠杀中，骨头会被留在溪流或湖底的同一水平面上。
+
+[p30s7]
+But in this deposit, the bones occur throughout a zone of sandstone about 12 feet thick.
+但在这个矿床中，骨头遍布约 12 英尺厚的砂岩区域。
+
+[p30s8]
+The mixture of swamp dwellers and dry land types also seems to indicate that the deposit is a mixture from different places.
+沼泽居民和旱地类型的混合似乎也表明沉积物是来自不同地方的混合物。
+
+[p31s0]
+The pit area is a large dinosaur graveyard, not a place where they died.
+坑区是一个大型恐龙墓地，而不是它们死亡的地方。
+
+[p31s1]
+Most of the remains probably floated down an eastward flowing river until they were left on a shallow sandbar.
+大部分遗骸可能顺流而下，直到被留在浅沙洲上。
+
+[p31s2]
+Some of them may have come from far away dry land areas to the west.
+其中一些可能来自西部遥远的旱地地区。
+
+[p31s3]
+Perhaps they drowned trying to cross a small stream or were washed away during floods.
+也许他们在试图穿过一条小溪时被淹死，或者在洪水中被冲走。
+
+[p31s4]
+Some of the swamp dwellers may have got stuck in the very sandbar that became their grave.
+一些沼泽居民可能被困在了成为他们坟墓的沙洲里。
+
+[p31s5]
+Others may have floated for miles before being stranded.
+其他人可能在搁浅之前漂浮了数英里。
+
+[p31s6]
+Even today, similar events take place.
+即使在今天，类似的事件仍在发生。
+
+[p31s7]
+When floods come in the spring, sheep, cattle and deer are often trapped by rising waters and often drown.
+当春天发生洪水时，羊、牛和鹿常常被上涨的水位困住并淹死。
+
+[p31s8]
+Their dead bodies float downstream until the flood recedes and leaves them stranded on a bar or shore where they lie, half buried in the sand, until they decay.
+他们的尸体漂流到下游，直到洪水退去，然后他们被困在一个酒吧或海岸上，半埋在沙子里，直到腐烂。
+
+[p31s9]
+Early travelers on the Missouri River reported that shores and bars were often lined with the decaying bodies of buffalo that had died during spring floods.
+密苏里河上的早期旅行者报告说，河岸和河滩上常常排列着在春季洪水期间死亡的水牛的腐烂尸体。
+
+[p32s0]
+I would like particularly to talk about the need to develop a new style of aging in our own society.
+我想特别谈谈在我们自己的社会中发展一种新的老龄化方式的必要性。
+
+[p32s1]
+Young people in this country have been accused of not caring for their parents the way they would have in the old country.
+这个国家的年轻人被指责没有像在祖国那样照顾父母。
+
+[p32s2]
+And this is true.
+这是真的。
+
+[p32s3]
+But it is also true that old people have been influenced by an American ideal of independence and autonomy.
+但老年人也确实受到了美国独立和自治理想的影响。
+
+[p32s4]
+So we live alone, perhaps on the verge of starvation, in time without friends.
+所以我们独自生活，也许处于饥饿的边缘，没有朋友。
+
+[p32s5]
+But we are independent.
+但我们是独立的。
+
+[p32s6]
+This standard American style has been forced on every ethnic group, although there are many groups for whom the ideal is not practical.
+这种标准的美国风格已经强加给每个民族，尽管对于许多群体来说这种理想并不切合实际。
+
+[p32s7]
+It is a poor ideal, and pursuing it does a great deal of harm.
+这是一个糟糕的理想，追求它会带来很大的伤害。
+
+[p33s0]
+This ideal of independence also contains a tremendous amount of unselfishness.
+这种独立的理想也包含着极大的无私。
+
+[p33s1]
+In talking to today's young mothers, I have asked them what kind of grandmothers they think they are going to be.
+在与今天的年轻母亲交谈时，我问她们认为自己会成为什么样的祖母。
+
+[p33s2]
+I hear devoted, loving mothers say that when they are through raising their children, they have no intention of becoming grandmothers.
+我听一些忠诚、慈爱的母亲说，当她们养育完孩子后，她们无意成为祖母。
+
+[p33s3]
+They are astonished to hear that in most of the world, throughout most of its history, families have been three- or four-generation families, living under the same roof.
+他们惊讶地发现，在世界上大部分地区，在其大部分历史中，家庭都是三四代的家庭，生活在同一个屋檐下。
+
+[p34s0]
+We have overemphasized the small family unit — father, mother, small children.
+我们过分强调了小家庭单位——父亲、母亲、小孩。
+
+[p34s1]
+We think it is wonderful if grandma and grandpa, if they're still alive, can live alone.
+我们认为，如果爷爷奶奶还活着，能够独自生活，那就太好了。
+
+[p34s2]
+We have reached the point where we think the only thing we can do for our children is to stay out of their way, and the only thing we can do for our daughter-in-law is to see as little of her as possible.
+我们已经到了这样的地步：我们认为我们能为孩子做的唯一一件事就是不妨碍他们，而我们能为儿媳妇做的唯一一件事就是尽可能少见到她。
+
+[p34s3]
+Old people's nursing homes, even the best run, are filled with older people who believe the only thing they can do for their children is to look cheerful when they come to visit.
+老人疗养院，即使是最好的疗养院，也挤满了老年人，他们相信自己能为孩子们做的唯一一件事就是在孩子们来探望时表现得高兴。
+
+[p34s4]
+So in the end, older people have to devote all their energies to not being a burden.
+所以最终，老年人必须投入所有的精力，不成为负担。
+
+[p35s0]
+We are beginning to see what a tremendous price we've paid for our emphasis on independence and autonomy.
+我们开始看到我们为强调独立和自主而付出了多么巨大的代价。
+
+[p35s1]
+We've isolated old people, and we've cut off the children from their grandparents.
+我们隔离了老人，我们也切断了孩子们与祖父母的联系。
+
+[p35s2]
+One of the reasons we have as bad a generation gap today as we do is that grandparents have stepped out.
+我们今天代沟如此严重的原因之一是祖父母已经走出去。
+
+[p35s3]
+Young people are being deprived of the thing they need most — perspective, to know why their parents behave so peculiarly, and why their grandparents say the things they do.
+年轻人被剥夺了他们最需要的东西——洞察力，无法了解为什么他们的父母行为如此奇怪，以及为什么他们的祖父母会说他们所做的事情。
+

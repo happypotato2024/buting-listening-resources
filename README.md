@@ -34,8 +34,9 @@
 
 - `paragraphs` 保存完整英中对照段落，`sentences` 保存用于单句播放的英文与起止时间。
 - 每句用稳定的 `id` 标识，并用 `paragraphId` 关联所属段落。随机一句、再听一遍、显示原文和译文时，应始终使用同一条句子记录。
-- 原译文为整段时，保留整段译文，`translationScope` 为 `paragraph`，显示标签为“所在段译文”。不按中文标点猜测单句译文，也不声称整段内容只对应这一句。
-- 一个段落只有一句时，`translationScope` 为 `sentence`。现有译文包含机器参考译文，未经全面人工校订，非官方答案。
+- 当前所有 `sentences.translation` 都对应当前英文句子，`translationScope` 为 `sentence`。原来的整段译文保留在 `paragraphs` 及必要时的 `paragraphTranslation`，应用只在“段落参考”中另行展示。
+- 原来不能对应到单句的译文已用 Google Translate 按带独立 ID 的英文句子重新制作，校验返回 ID 数量和顺序；标记无法可靠保留时逐句重试，不按中文标点猜测对应。`translationSourceSha256` 绑定当前英文，原音频、句子 ID、英文及起止时间不变。
+- 现有译文包含机器参考译文，未经全面人工校订，非官方答案。译文 TXT 保留原段落英中对照，并增加全部单句的 ID、英文和中文对照。
 - `sourceTranscript` 另保留来源英文文件的完整内容。已有来源覆盖两篇长对话、两篇短文、三篇讲座；录音中的考试说明、报题等未在英文材料中列出的内容不进入随机练句池。
 - 起止时间单位为秒，起点是完整音频解码后的起点，终点不包含在播放区间内。播放器需要核对文件哈希及解码器时间轴；直接按 MP3 文件字节截取不能保证句子边界正确。
 - MP3 和裸 AAC 的 `packetIndex` 保存经 FFprobe 核验的每帧字节位置、长度和采样数，使用 zlib 压缩、Base64 编码，小端 `<qii>` 格式。裸 AAC 索引指向去除 ADTS 头后的帧载荷，并保存 `audioSpecificConfig`。MP3 的 `leadingSkipSamples` / `trailingDiscardSamples` 保留解码时间轴修正信息。普通 M4A 使用容器自带时间戳。
@@ -60,4 +61,4 @@
 
 已填入现有公开来源提供的 2019—2025 年共 29 组配套资料，每个子目录恰好三份文件，共 4,507 条单句时间标记。已核验原始音频与英文来源哈希、文本覆盖、时间顺序与边界，并抽查 609 处原始／压缩录音波形，时间轴一致。
 
-这些资料不代表所列年份所有官方套卷。远程仓库为 [happypotato2024/buting-listening-resources](https://github.com/happypotato2024/buting-listening-resources)，实际发布内容以远程文件和提交记录为准。不听听力测试版 v0.3.0 直接加载这些预处理资料，按不可变提交和 SHA-256 绑定版本；刷新失败保留原目录。时间标记仍是自动对齐结果，译文包含未经全面人工校订的机器参考译文。
+这些资料不代表所列年份所有官方套卷。远程仓库为 [happypotato2024/buting-listening-resources](https://github.com/happypotato2024/buting-listening-resources)，实际发布内容以远程文件和提交记录为准。不听听力测试版 v0.4.0 直接加载单句译文与预处理时间标记，按不可变提交和 SHA-256 绑定版本；刷新失败保留原目录。时间标记仍是自动对齐结果，译文包含未经全面人工校订的机器参考译文。

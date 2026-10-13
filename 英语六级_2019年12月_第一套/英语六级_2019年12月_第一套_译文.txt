@@ -160,3 +160,675 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Today our guest is Rosie Mullender, who works as Features Editor for Fashion magazine.
+今天我们的嘉宾是 Rosie Mulender，她是《时尚》杂志的专题编辑。
+
+[p0s1]
+Hi, Rosie, you're Features Editor at one of the most widely-read women's magazines in the UK.
+你好，罗西，你是英国阅读最广泛的女性杂志之一的特稿编辑。
+
+[p0s2]
+What kind of responsibilities does that job entail?
+该工作需要承担什么样的责任？
+
+[p1s0]
+We spend our days looking at ideas from journalists, writing copy for the magazine and website, and editing.
+我们每天都在研究记者的想法，为杂志和网站撰写文案并进行编辑。
+
+[p1s1]
+We do random things like asking people in the street questions and testing sports clothing.
+我们做随机的事情，比如向街上的人询问问题和测试运动服装。
+
+[p1s2]
+We also do less tangible things like understanding what our readers want.
+我们还做一些不太有形的事情，比如了解读者想要什么。
+
+[p1s3]
+It's certainly varied and sometimes bizarre.
+它当然是多种多样的，有时甚至是奇怪的。
+
+[p2s0]
+During your working day, what kind of work might you typically do?
+男：在你的工作日中，你通常会做什么样的工作？
+
+[p3s0]
+My day mainly incorporates responding to emails, writing and editing stories and coming up with new feature ideas.
+女：我的一天主要包括回复电子邮件、撰写和编辑故事以及提出新功能创意。
+
+[p4s0]
+How does the job of Features Editor differ from that of Fashion Editor, or other editorial positions?
+男：专题编辑的工作与时尚编辑或其他编辑职位有何不同？
+
+[p5s0]
+The features team deals with articles such as careers, reports, confidence and confessions — everything except fashion and beauty.
+女：专题团队处理诸如职业、报告、信心和自白等文章——除了时尚和美容之外的所有内容。
+
+[p6s0]
+A lot of people believe that working at a magazine is a glamorous job.
+很多人认为在杂志社工作是一项光鲜亮丽的工作。
+
+[p6s1]
+Is this an accurate representation of what you do?
+这是您所做工作的准确表述吗？
+
+[p7s0]
+I'd say it's glamorous to an extent, but not in the way it's portrayed in films.
+我想说它在某种程度上很迷人，但不是电影中描绘的那样。
+
+[p7s1]
+We do have our moments, such as interviewing celebrities and attending parties, which is a huge thrill.
+我们确实有自己的时刻，比如采访名人和参加聚会，这是一个巨大的兴奋。
+
+[p7s2]
+Ultimately, though, we're the same as our readers, but working in a job we're really very lucky to have.
+不过，归根结底，我们和我们的读者是一样的，但我们真的很幸运能从事这份工作。
+
+[p8s0]
+Did you have to overcome any difficulties to reach this point in your career?
+在您的职业生涯中，您是否必须克服任何困难才能达到这一点？
+
+[p8s1]
+How did you manage to do this?
+你是如何做到这一点的？
+
+[p9s0]
+I had to be really persistent and it was very hard work.
+我必须非常坚持，这是非常艰苦的工作。
+
+[p9s1]
+After three years of working in a petrol station and doing unpaid work, I still hadn't managed to get an entry-level job.
+在加油站做了三年无薪工作后，我仍然没有找到一份初级工作。
+
+[p9s2]
+I was lucky that my last desperate attempt led to a job.
+我很幸运，我最后一次绝望的尝试找到了一份工作。
+
+[p9s3]
+I told myself that all experiences make you a better journalist in the long run — and luckily, I was right!
+我告诉自己，从长远来看，所有经历都会让你成为一名更好的记者——幸运的是，我是对的！
+
+[p10s0]
+Are you watching any good shows these days?
+女：最近有看什么好看的节目吗？
+
+[p11s0]
+Actually, yes.
+事实上，是的。
+
+[p11s1]
+I'm watching a great satire called Frankie.
+我正在看一部很棒的讽刺剧，名叫《弗兰基》。
+
+[p11s2]
+I think you'd like it.
+我想你会喜欢的。
+
+[p12s0]
+What's it about?
+女：是关于什么的？
+
+[p13s0]
+It's about a real guy named Frankie.
+这是关于一个名叫弗兰基的真实人物的故事。
+
+[p13s1]
+He is a famous comedian in New York and the show's a mixture of comedy and drama loosely depicting his life.
+他是纽约著名的喜剧演员，该节目混合了喜剧和戏剧，大致描述了他的生活。
+
+[p14s0]
+I'm sorry, do you mean to say, it's a real-life series about a real person?
+抱歉，您的意思是说，这是一部关于真人的真人真事连续剧？
+
+[p14s1]
+It's non-fiction, is it?
+这是非小说类作品，是吗？
+
+[p15s0]
+No...
+不...
+
+[p15s1]
+Not really, no.
+不完全是，不。
+
+[p15s2]
+It's fiction, as what happens in every episode is made up.
+这是虚构的，因为每一集中发生的事情都是虚构的。
+
+[p15s3]
+However the lead role is a comedian by the name of Frankie, and he plays himself.
+然而主角是一位名叫弗兰基的喜剧演员，他扮演自己。
+
+[p15s4]
+So Frankie in both real life and in the TV show lives in New York City, is a comic, is divorced, and has two little daughters.
+所以弗兰基在现实生活和电视节目中都住在纽约市，是一名喜剧演员，已离婚，有两个小女儿。
+
+[p15s5]
+All those things are true, but aside from him, all his friends and family are played by actors.
+这些都是真的，但除了他之外，他的朋友和家人都是演员扮演的。
+
+[p15s6]
+And the plots and events that take place are also invented.
+发生的情节和事件也是虚构的。
+
+[p16s0]
+Oh, I think I see now.
+哦，我想我现在明白了。
+
+[p16s1]
+That sounds like a very original concept.
+这听起来是一个非常原始的概念。
+
+[p17s0]
+Yes, it is.
+是的，确实如此。
+
+[p17s1]
+In fact, the whole show is written, directed, edited and produced by him, and is very funny and has won many awards.
+事实上，整部剧都是他自编自导、剪辑制作的，而且非常搞笑，还获得了很多奖项。
+
+[p18s0]
+That's cool.
+太酷了。
+
+[p18s1]
+I will try to download it.
+我会尝试下载它。
+
+[p18s2]
+I'm watching a comedy called The Big Bang Theory.
+我正在看一部喜剧，名叫《生活大爆炸》。
+
+[p18s3]
+It's a huge hit around the world.
+它在世界范围内引起了巨大的轰动。
+
+[p19s0]
+Oh yes.
+哦，是的。
+
+[p19s1]
+I've heard of it, but never actually watched it.
+我听说过，但从未真正看过。
+
+[p20s0]
+Well, then you should check it out.
+嗯，那么你应该检查一下。
+
+[p20s1]
+It's also very funny.
+这也很有趣。
+
+[p20s2]
+It's about four male scientists and a female waitress.
+这是关于四名男科学家和一名女服务员的故事。
+
+[p20s3]
+The men are very socially awkward but very bright.
+这些男人在社交上很尴尬，但很聪明。
+
+[p20s4]
+And this is contrasted by the lady's social skills and common sense.
+这与这位女士的社交技巧和常识形成鲜明对比。
+
+[p20s5]
+The show has been running for over ten years, and some of the actors are practically global super stars, now that they are such famous celebrities.
+该剧已经播出十多年了，其中一些演员现在已经是如此著名的名人，几乎已经是全球超级明星了。
+
+[p21s0]
+Related to the "use it or lose it" law is the "keep moving" principle.
+与“用进废退”法则相关的是“不断前进”原则。
+
+[p22s0]
+We learned about stagnation from nature.
+我们从大自然中了解到停滞。
+
+[p22s1]
+A river that stops moving gets smelly.
+停止流动的河流会发臭。
+
+[p22s2]
+The same thing happens to people who stop moving, either mentally or physically.
+同样的事情也会发生在那些停止运动的人身上，无论是精神上还是身体上。
+
+[p22s3]
+Those who play contact sports know that the player who usually gets hurt the most is the one who is standing still.
+从事接触性运动的人都知道，受伤最严重的运动员通常是站着不动的运动员。
+
+[p23s0]
+Of course, you'll need some time to catch your breath every so often, but the essential message is "keep moving, extending and learning".
+当然，你时常需要一些时间喘口气，但最重要的信息是“继续前进、扩展和学习”。
+
+[p23s1]
+Ships last a lot longer when they go to sea than when they stay in the harbor.
+船舶出海时的使用寿命比停泊在港口时的使用寿命要长得多。
+
+[p23s2]
+The same is true for airplanes.
+飞机也是如此。
+
+[p23s3]
+You don't preserve an airplane by keeping it on the ground.
+把飞机留在地面上并不能保护它。
+
+[p23s4]
+You preserve it by keeping it in service.
+您可以通过保持其使用来保护它。
+
+[p24s0]
+We also get to live a long healthy life by staying in service.
+通过继续服役，我们还可以过上健康长寿的生活。
+
+[p24s1]
+Longevity statistics reveal that the average person doesn't last very long after retirement.
+长寿统计数据显示，普通人退休后的寿命并不长。
+
+[p24s2]
+The moral here is don't retire.
+这里的道德是不要退休。
+
+[p24s3]
+If a fellow says "I'm 94 years old and I worked all my life", we need to realize, that is how he got to be 94, by staying involved.
+如果一个人说“我已经 94 岁了，我一生都在工作”，我们需要意识到，这就是他通过保持参与而活到 94 岁的原因。
+
+[p24s4]
+George Bernard Shaw won a Nobel Prize when he was nearly 70.
+萧伯纳 (George Bernard Shaw) 在年近 70 岁时获得诺贝尔奖。
+
+[p24s5]
+Benjamin Franklin produced some of his best writings at the age of 84, and Pablo Picasso put brush to canvas right through his eighties.
+本杰明·富兰克林 (Benjamin Franklin) 在 84 岁时创作了一些最好的作品，而巴勃罗·毕加索 (Pablo Picasso) 在八十多岁时才开始在画布上创作。
+
+[p24s6]
+Isn't the issue how old we think we are?
+问题不在于我们认为自己多大了吗？
+
+[p24s7]
+A bonus with the "keep moving" principle is that while we keep moving, we don't have a chance to worry.
+“继续前进”原则的一个好处是，当我们继续前进时，我们没有机会担心。
+
+[p24s8]
+Hence, we avoid the dreaded "paralysis by analysis".
+因此，我们避免了可怕的“分析瘫痪”。
+
+[p25s0]
+In 2014, one in 16 Americans visited the hospital emergency room for home injuries.
+2014年，每16名美国人中就有1人因家庭受伤而去医院急诊室。
+
+[p25s1]
+One of the main causes of these accidents?
+这些事故的主要原因之一是什么？
+
+[p25s2]
+A wandering mind.
+一颗游荡的心。
+
+[p25s3]
+By one estimate, people daydream through nearly half of their waking hours.
+据估计，人们醒着的时间中近一半都在做白日梦。
+
+[p26s0]
+Psychologists have recently focused on the tendency to think about something other than the task one is doing.
+心理学家最近关注的是人们思考除正在做的任务之外的事情的倾向。
+
+[p26s1]
+For one experiment, researchers developed an app to analyze the relationship between daydreaming and happiness.
+在一项实验中，研究人员开发了一款应用程序来分析白日梦和幸福感之间的关系。
+
+[p26s2]
+They found that the average person's mind wandered most frequently (about 65% of the time) during personal activities, such as brushing their teeth and combing their hair.
+他们发现，一般人在刷牙、梳头等个人活动中走神最频繁（约占 65% 的时间）。
+
+[p26s3]
+Respondents' minds tended to wander more when they felt upset rather than happy.
+当受访者感到沮丧而不是高兴时，他们的思绪更容易走神。
+
+[p26s4]
+They were more likely to wander toward pleasant topics than unpleasant ones.
+他们更有可能转向令人愉快的话题，而不是不愉快的话题。
+
+[p27s0]
+How do daydreams affect daydreamers?
+白日梦如何影响白日梦者？
+
+[p27s1]
+A wandering mind leaves us vulnerable when driving.
+开车时心不在焉会让我们变得脆弱。
+
+[p27s2]
+In one study, researchers interviewed 955 people involved in traffic accidents.
+在一项研究中，研究人员采访了 955 名遭遇交通事故的人。
+
+[p27s3]
+The majority of them reported having daydreamed just before the accident.
+他们中的大多数人表示在事故发生前曾做过白日梦。
+
+[p28s0]
+Yet other research suggests that daydreaming has benefits.
+然而其他研究表明，做白日梦有好处。
+
+[p28s1]
+Researchers have found that it gives us a chance to think about our goals and it also seems to increase creativity.
+研究人员发现，它让我们有机会思考我们的目标，而且似乎还能提高创造力。
+
+[p28s2]
+In one experiment, 145 undergraduates completed four "unusual uses" tasks, each requiring them to list as many uses as possible for an everyday object.
+在一项实验中，145 名本科生完成了四项“不寻常用途”任务，每项任务都要求他们尽可能多地列出日常物品的用途。
+
+[p28s3]
+After the first pair of tasks was completed, one group of participants was assigned an undemanding activity intended to cause their minds to wander.
+第一对任务完成后，一组参与者被分配一项要求不高的活动，旨在让他们走神。
+
+[p28s4]
+When all the participants proceeded to the second pair of tasks, the daydreamers performed 40 percent better than the others.
+当所有参与者继续执行第二对任务时，白日梦者的表现比其他人好 40%。
+
+[p29s0]
+Dating from as far back as the 12th century, they are claimed to be the rarest historic buildings in western Europe.
+它们的历史可以追溯到 12 世纪，据称是西欧最稀有的历史建筑。
+
+[p29s1]
+These buildings offer vital insight into Scandinavia's Viking past.
+这些建筑提供了对斯堪的纳维亚半岛维京历史的重要了解。
+
+[p29s2]
+But now, with only 30 wooden churches remaining and their condition deteriorating, experts are working to preserve the structures for future generations.
+但现在，只剩下 30 座木制教堂，而且状况日益恶化，专家们正在努力为子孙后代保护这些建筑。
+
+[p30s0]
+Some of these spectacular churches are no more than small buildings, barely 4 metres wide and 6 metres tall.
+其中一些壮观的教堂只不过是小型建筑，宽仅 4 米，高仅 6 米。
+
+[p30s1]
+Others are much larger structures.
+其他的是更大的结构。
+
+[p30s2]
+They soar up to 40 metres into the cold air.
+它们在冷空气中翱翔高达 40 米。
+
+[p30s3]
+Most consist of timber frames that rest on stone blocks.
+大多数由放置在石块上的木框架组成。
+
+[p30s4]
+This means that they have no foundations.
+这意味着他们没有基础。
+
+[p30s5]
+Although many of the churches appear from the outside to be complex structures, they normally feature only a single storey but numerous different roof levels.
+尽管许多教堂从外面看起来结构复杂，但它们通常只有一层，但有许多不同的屋顶层。
+
+[p31s0]
+Staff from the Norwegian government have carried out conservation work on 10 of the churches over the past two years.
+过去两年，挪威政府工作人员对其中 10 座教堂进行了保护工作。
+
+[p31s1]
+Most of these churches date from between the 12th and 14th centuries.
+这些教堂大多建于 12 至 14 世纪之间。
+
+[p31s2]
+Other churches were conserved in previous years.
+其他教堂在前几年得到了保护。
+
+[p31s3]
+So far, specialists have worked to add preservative materials to the churches' exteriors.
+到目前为止，专家们已经努力在教堂的外部添加防腐材料。
+
+[p31s4]
+They also replaced rotting roofs and halted the sinking of the churches into the ground.
+他们还更换了腐烂的屋顶，并阻止教堂沉入地下。
+
+[p31s5]
+In two cases, huge machines have been used to lift the buildings up to 30 centimetres into the air.
+在两个案例中，巨大的机器被用来将建筑物提升到空中 30 厘米。
+
+[p31s6]
+This was accomplished so that the team could examine and repair the churches' original medieval stone blocks.
+完成这一任务是为了让团队能够检查和修复教堂原来的中世纪石块。
+
+[p31s7]
+The team plans to return to around a dozen of the buildings to assess progress and consider further action.
+该团队计划返回大约十几座建筑物，以评估进展情况并考虑采取进一步行动。
+
+[p32s0]
+The earliest free-standing wooden church was probably built in Norway in around 1080.
+最早的独立式木制教堂可能建于 1080 年左右的挪威。
+
+[p32s1]
+However, the largest known wooden churches were built from the 1130s onwards.
+然而，已知最大的木制教堂是从 1130 年代开始建造的。
+
+[p32s2]
+This period was one of inter-elite rivalry in which nobles sought to increase their influence by funding the construction of churches and other buildings.
+这一时期是精英之间的竞争时期，贵族们试图通过资助教堂和其他建筑的建设来增加自己的影响力。
+
+[p33s0]
+The reason for constructing the buildings from wood is probably that ideally proportioned straight and slender timber was available in large quantities in Scandinavia's vast pine forests.
+用木材建造建筑物的原因可能是斯堪的纳维亚半岛广阔的松树林中有大量比例理想的笔直而细长的木材。
+
+[p33s1]
+As wood was so plentiful, it was cheaper to use than the stone used in the buildings of other European cultures.
+由于木材资源丰富，因此比其他欧洲文化的建筑中使用的石材更便宜。
+
+[p33s2]
+The area's ship-building tradition, partly established by the Vikings, also meant that sophisticated carpentry was a major aspect of the local culture.
+该地区的造船传统部分由维京人建立，这也意味着复杂的木工是当地文化的一个主要方面。
+
+[p33s3]
+The complex style of the medieval wooden church carvings, and the skills used to make them, almost certainly derive from the ancient Viking tradition.
+中世纪教堂木制雕刻的复杂风格以及制作它们的技能几乎可以肯定源自古代维京传统。
+
+[p34s0]
+In last week's lecture, we discussed the characteristics of the newly born offspring of several mammals.
+在上周的讲座中，我们讨论了几种哺乳动物新生后代的特征。
+
+[p34s1]
+You probably remember that human infants are less developed physically than other mammals of the same age.
+您可能还记得，人类婴儿的身体发育程度低于同龄的其他哺乳动物。
+
+[p34s2]
+But in today's lecture, we'll look at three very interesting studies that hint at the surprising abilities of human babies.
+但在今天的讲座中，我们将了解三项非常有趣的研究，这些研究暗示了人类婴儿令人惊讶的能力。
+
+[p35s0]
+In the first study, three-year-olds watched two videos shown side by side, each featuring a different researcher, one of whom they'd met once two years earlier.
+在第一项研究中，三岁的孩子观看了两个并排播放的视频，每个视频都有不同的研究人员，其中一个研究人员两年前见过一次。
+
+[p35s1]
+The children spent longer watching the video showing the researcher they hadn't met.
+孩子们花了更长的时间观看显示他们未见过的研究人员的视频。
+
+[p35s2]
+This is consistent with young children's usual tendency to look longer at things that aren't familiar.
+这与幼儿通常倾向于长时间观察不熟悉的事物是一致的。
+
+[p35s3]
+And really this is amazing.
+这确实是令人惊奇的。
+
+[p35s4]
+It suggests the children remembered the researcher they'd met just one time when they were only one-year-olds.
+这表明孩子们只记得他们一岁时只见过一次的研究人员。
+
+[p35s5]
+Of course, as most of us forget memories from our first few years as we grow older, these early long-term memories will likely be lost in subsequent years.
+当然，随着年龄的增长，我们大多数人都会忘记最初几年的记忆，这些早期的长期记忆很可能会在随后的几年中丢失。
+
+[p36s0]
+Our second study is about music.
+我们的第二个研究是关于音乐的。
+
+[p36s1]
+For this study, researchers played music to babies through speakers located on either side of a human face.
+在这项研究中，研究人员通过位于人脸两侧的扬声器向婴儿播放音乐。
+
+[p36s2]
+They waited until the babies got bored and averted their gaze from the face.
+他们等到婴儿们感到无聊并将目光从脸上移开。
+
+[p36s3]
+And then they changed the mood of the music, either from sad to happy or the other way around.
+然后他们改变了音乐的基调，从悲伤到快乐，或者从悲伤到快乐。
+
+[p36s4]
+This mood switch made no difference to the three-month-olds; but for the nine-month-olds, it was enough to renew their interest and they started looking again in the direction of the face.
+这种情绪转变对三个月大的孩子来说没有什么影响。但对于九个月大的孩子来说，这足以重新唤起他们的兴趣，他们开始再次看向脸部的方向。
+
+[p36s5]
+This suggests that babies of that age can tell the difference between a happy melody and a sad tune.
+这表明该年龄段的婴儿可以区分快乐的旋律和悲伤的曲调。
+
+[p37s0]
+Our final study is from 1980, but it's still relevant today.
+我们的最终研究是 1980 年的，但今天仍然具有现实意义。
+
+[p37s1]
+In fact, it's one of the most famous pieces of research about infant emotion ever published.
+事实上，这是迄今为止发表的关于婴儿情感的最著名的研究之一。
+
+[p37s2]
+The study involved ordinary adults watching video clips of babies nine months or younger.
+这项研究让普通成年人观看九个月或更小的婴儿的视频片段。
+
+[p37s3]
+In the video clips, the babies made various facial expressions in response to real-life events including playful interactions and painful ones.
+在视频片段中，婴儿们根据现实生活中的事件做出各种面部表情，包括有趣的互动和痛苦的互动。
+
+[p37s4]
+The adult observers were able to reliably discern an assortment of emotions on the babies' faces.
+成年观察者能够可靠地辨别婴儿脸上的各种情绪。
+
+[p37s5]
+These emotions included interest, joy, surprise, sadness, anger, disgust, contempt, and fear.
+这些情绪包括兴趣、喜悦、惊讶、悲伤、愤怒、厌恶、蔑视和恐惧。
+
+[p38s0]
+Next week, we'll be looking at this last study more closely.
+下周，我们将更仔细地研究最后一项研究。
+
+[p38s1]
+In fact, we will be viewing some of the video clips from that study.
+事实上，我们将观看该研究的一些视频剪辑。
+
+[p38s2]
+And together, see how well we do in discerning the babies' emotions.
+一起来看看我们在辨别婴儿情绪方面做得如何。
+
+[p39s0]
+Today I'd like to talk about the dangers of being too collaborative.
+今天我想谈谈过度合作的危险。
+
+[p39s1]
+Being a good team player is an essential skill in our modern workplace.
+成为一名优秀的团队合作者是现代工作场所的一项基本技能。
+
+[p39s2]
+The ability to work well with others and collaborate on projects is a sought-after ability in nearly every position.
+与他人良好合作和项目协作的能力几乎在每个职位上都是一种受欢迎的能力。
+
+[p39s3]
+However, placing too much emphasis on being a good team player can negatively affect your career growth.
+然而，过于强调成为一名优秀的团队合作者可能会对你的职业发展产生负面影响。
+
+[p40s0]
+Don't be overly focused on gaining consensus.
+不要过分专注于达成共识。
+
+[p40s1]
+Don't be too concerned with the opinions of others.
+不要太在意别人的看法。
+
+[p40s2]
+This can hinder your ability to make decisions, speak up, and gain recognition for your individual skills and strengths.
+这可能会阻碍您做出决策、畅所欲言以及让您的个人技能和优势得到认可的能力。
+
+[p40s3]
+Some people are too subordinate to others' opinions, too focused on decision consensus, too silent about their own point of view, too agreeable to take things on when they don't have time or energy.
+有些人太服从别人的意见，太注重决策共识，对自己的观点太沉默，太乐意在没有时间或精力的情况下做事。
+
+[p40s4]
+This leads to building a brand of underconfident, submissive, low-impact non-leaders and hampers their growth and career advancement.
+这会导致形成一种不自信、顺从、低影响力的非领导者形象，并阻碍他们的成长和职业发展。
+
+[p41s0]
+Collaboration certainly makes your individual competencies and contributions more difficult for outsiders to identify.
+合作无疑会让外人更难以识别你的个人能力和贡献。
+
+[p41s1]
+Collaborative projects mean you're sharing the spotlight with others.
+协作项目意味着您与其他人分享聚光灯。
+
+[p41s2]
+Outsiders may then find it difficult to determine your contributions and strengths.
+局外人可能会发现很难确定你的贡献和优势。
+
+[p41s3]
+This may end up costing you opportunities for promotions or pay raises.
+这最终可能会导致您失去晋升或加薪的机会。
+
+[p42s0]
+You certainly shouldn't ditch teamwork, but how can you avoid the hazards of being an over-collaborator?
+你当然不应该放弃团队合作，但如何避免过度合作的危险呢？
+
+[p43s0]
+Working in a team can have huge benefits.
+在团队中工作可以带来巨大的好处。
+
+[p43s1]
+Your team may have repeated successes and often gain recognition.
+您的团队可能屡屡取得成功并经常获得认可。
+
+[p43s2]
+You then have more opportunities to expand your professional network than if you worked alone.
+这样，与单独工作相比，您就有更多机会扩展您的专业网络。
+
+[p43s3]
+However, finding a balance between team efforts and individual projects that give you independent recognition is important for making a name for yourself and providing opportunities for advancement.
+然而，在团队努力和个人项目之间找到平衡，让你获得独立认可，对于为自己赢得声誉并提供晋升机会非常重要。
+
+[p44s0]
+Be selective in who you work with.
+对与你一起工作的人要有选择性。
+
+[p44s1]
+This will maximize the benefits and minimize the downsides of being a team player.
+这将最大限度地发挥团队合作精神的好处并最大限度地减少其缺点。
+
+[p44s2]
+Collaborate with people who have complementary expertise.
+与具有互补专业知识的人合作。
+
+[p44s3]
+Select projects where there's potential for mutual benefit.
+选择具有互利潜力的项目。
+
+[p44s4]
+Perhaps you're bringing your unique knowledge and gaining access to someone else's professional network.
+也许您正在带来您独特的知识并获得进入其他人的专业网络的机会。
+
+[p44s5]
+Or maybe you're able to learn a new skill by working with someone.
+或者也许您可以通过与某人合作来学习新技能。
+
+[p44s6]
+Seek out your teammates purposefully rather than jumping on every new group project opportunity.
+有目的地寻找你的队友，而不是抓住每一个新的团队项目机会。
+
+[p45s0]
+When we're too collaborative, we want everyone to agree with a decision before we proceed.
+当我们过于合作时，我们希望每个人都同意我们的决定，然后再继续。
+
+[p45s1]
+This can create unnecessary delays as you hold meetings trying to achieve a consensus.
+当您召开会议试图达成共识时，这可能会造成不必要的延误。
+
+[p45s2]
+It's fine to be collaborative when seeking input, but put a deadline on the input stage and arrive at a decision, even if it's a decision that doesn't have consensus.
+在寻求意见时进行协作是可以的，但要在意见输入阶段设定最后期限并做出决定，即使这是一个没有达成共识的决定。
+

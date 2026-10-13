@@ -139,3 +139,639 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Hello, doctor.
+男：你好，医生。
+
+[p1s0]
+Hello, please take a seat.
+您好，请坐。
+
+[p1s1]
+I have your test results here, and it's good news.
+我这里有你的测试结果，这是个好消息。
+
+[p1s2]
+The blood test came back clear.
+验血结果显示一切正常。
+
+[p1s3]
+There is no indication of any digestive issues.
+没有迹象表明有任何消化问题。
+
+[p2s0]
+So then why do I feel so poorly all the time?
+男：那为什么我总是感觉这么难受呢？
+
+[p3s0]
+It's probably due to overwork and stress.
+女：可能是过度劳累和压力造成的。
+
+[p4s0]
+No, it can't be.
+不，不可能。
+
+[p4s1]
+I've always been working hard, but I've never felt stress.
+我一直在努力工作，但我从未感到压力。
+
+[p4s2]
+Other people suffering complain about that, but I don't.
+其他受苦受难的人对此有所抱怨，但我没有。
+
+[p4s3]
+It must be something else.
+一定是别的东西。
+
+[p5s0]
+What you have just described is a common sentiment.
+你刚才所描述的是一种普遍的情绪。
+
+[p5s1]
+Many people who suffer from stress fail to recognise it.
+许多遭受压力的人并没有意识到这一点。
+
+[p5s2]
+You told me you often work long into the night, right?
+你告诉我你经常工作到深夜，对吗？
+
+[p6s0]
+Yes, most days in fact.
+是的，事实上大多数时候。
+
+[p6s1]
+But I've been doing that for about 20 years now.
+但我这样做已经有大约 20 年了。
+
+[p7s0]
+That doesn't matter.
+那没关系。
+
+[p7s1]
+You could have been suffering from stress for 20 years without knowing it, and now it's catching up to you.
+您可能已经承受了 20 年的压力而不自知，而现在它正在追上您。
+
+[p8s0]
+But what about my feeling tired all the time and not being able to sleep well at night?
+男：可是我总是感觉很累，晚上睡不好觉怎么办？
+
+[p9s0]
+Those are common consequences of stress.
+这些是压力的常见后果。
+
+[p9s1]
+And if you don't sleep well, then of course you will feel fatigued.
+如果你睡眠不好，那么你当然会感到疲劳。
+
+[p9s2]
+I'm going to prescribe some special sleeping pills for you.
+我要给你开一些特殊的安眠药。
+
+[p9s3]
+They have a soft, gentle effect and are made from natural ingredients, so your stomach should tolerate them fine, and there shouldn't be any negative side effects.
+它们具有柔软、温和的效果，并且由天然成分制成，因此您的胃应该能够很好地耐受它们，并且不会有任何副作用。
+
+[p9s4]
+Take one with your dinner and come see me after a month.
+晚餐时带一份，一个月后来看我。
+
+[p9s5]
+If there is no improvement, I'll give you something stronger.
+如果没有改善，我就给你更强的东西。
+
+[p10s0]
+Thank you, doctor.
+男：谢谢你，医生。
+
+[p11s0]
+That's not all.
+这还不是全部。
+
+[p11s1]
+You should try and work less.
+你应该尝试少工作。
+
+[p11s2]
+Is there any way you can decrease your workload?
+有什么办法可以减少你的工作量吗？
+
+[p12s0]
+Um, I'd have to think about it.
+嗯，我得考虑一下。
+
+[p12s1]
+I'm a restaurant manager and this industry is very competitive.
+我是一名餐厅经理，这个行业竞争非常激烈。
+
+[p12s2]
+There are many things to keep track of and stay on top of.
+有很多事情需要跟踪和掌握。
+
+[p13s0]
+I recommend you think about delegating some responsibilities to someone else.
+我建议您考虑将一些责任委托给其他人。
+
+[p13s1]
+I'm not asking you to retire.
+我不是要求你退休。
+
+[p13s2]
+Just to slow down a bit.
+只是为了放慢一点。
+
+[p13s3]
+It's for your own health.
+这是为了你自己的健康。
+
+[p14s0]
+Today on People in the News, our guest is John Williams.
+今天新闻人物节目中，我们的嘉宾是约翰·威廉姆斯。
+
+[p14s1]
+The name may not sound familiar to you, but John was once an acclaimed basketball player.
+你可能对这个名字不太熟悉，但约翰曾经是一位广受赞誉的篮球运动员。
+
+[p14s2]
+John, you stunned fans by leaving the sport at just 25.
+约翰，你在年仅 25 岁时就离开了这项运动，这让球迷们大吃一惊。
+
+[p14s3]
+Why did you retire so early?
+你为什么这么早退休？
+
+[p15s0]
+Meg, I loved being an athlete, but I didn't love being a celebrity.
+梅格，我喜欢当运动员，但我不喜欢当名人。
+
+[p15s1]
+I was in the limelight when I was still a high school student and went professional right after high school graduation, which was a mistake.
+我还是高中生的时候就风头正劲，高中毕业就去职业了，这是一个错误。
+
+[p15s2]
+I was a shy kid and I wasn't ready for all the media attention.
+我是一个害羞的孩子，我还没有准备好接受所有媒体的关注。
+
+[p16s0]
+But walking away from millions of dollars at the height of your career, most people wouldn't be able to resist the lure of such a high salary.
+但在职业生涯的巅峰时期远离数百万美元，大多数人都无法抗拒如此高薪的诱惑。
+
+[p16s1]
+When you left the sport, there was speculation that you were having issues with your teammates or even an injury.
+当你离开这项运动时，有人猜测你与队友之间存在问题，甚至受伤了。
+
+[p17s0]
+Not at all.
+一点也不。
+
+[p17s1]
+It was hard to quit.
+戒烟很难。
+
+[p17s2]
+I was tempted to stay in the game, because I love basketball and I loved my team.
+我很想留在比赛中，因为我热爱篮球，也热爱我的球队。
+
+[p17s3]
+As for money, I turned professional at 18.
+至于钱，我18岁就转为职业球员了。
+
+[p17s4]
+So I'd actually earned a lot and saved most of it, because I had great financial advisers.
+所以我实际上赚了很多钱，而且大部分都存起来了，因为我有很棒的财务顾问。
+
+[p17s5]
+I knew basketball wasn't a career with a lot of longevity for most players, so I wanted to change careers while I was still young.
+我知道篮球对于大多数球员来说并不是一个可以长久存在的职业，所以我想趁年轻的时候改变职业。
+
+[p18s0]
+Okay, that was 20 years ago, and you're back in the news.
+好吧，那是 20 年前的事了，现在你又出现在新闻中了。
+
+[p18s1]
+You've created a foundation that works to get more kids playing team sports.
+您创建了一个基金会，致力于让更多的孩子参加团队运动。
+
+[p18s2]
+Why?
+为什么？
+
+[p19s0]
+I went to university and I studied public health and learned about the seriousness of the obesity epidemic, particularly among kids and adolescents in poor communities.
+我上了大学，研究了公共卫生，了解了肥胖流行的严重性，特别是在贫困社区的儿童和青少年中。
+
+[p19s1]
+I've spent the last two decades trying to alleviate the problem.
+过去二十年来我一直在努力缓解这个问题。
+
+[p19s2]
+The foundation is just the latest attempt.
+基金会只是最新的尝试。
+
+[p20s0]
+The foundation uses private donations to support basketball teams for girls and boys in primary school, right?
+女：基金会使用私人捐款来支持小学男女篮球队，对吗？
+
+[p21s0]
+Actually, we support teams for secondary school students, too, and also have some public funding.
+男：其实我们也支持中学生的团队，也有一些公共资金。
+
+[p22s0]
+Kate Atkinson was born in York, England, in 1951.
+凯特·阿特金森 1951 年出生于英国约克。
+
+[p22s1]
+She worked hard to gain her credentials as an author.
+她努力工作以获得作家的资格。
+
+[p22s2]
+She studied English Literature at University in Scotland.
+她在苏格兰大学学习英国文学。
+
+[p22s3]
+After graduating in 1974, she researched a doctorate on American Literature.
+1974年毕业后，她攻读美国文学博士学位。
+
+[p22s4]
+Later, she taught at the university she graduated from, and began writing short stories in 1981.
+后来，她在毕业的大学任教，并于1981年开始创作短篇小说。
+
+[p22s5]
+She began writing for women's magazines after winning the 1986 Woman's Own Short Story Competition.
+1986 年赢得“女性自己的短篇小说比赛”后，她开始为女性杂志撰稿。
+
+[p22s6]
+Her first novel, Behind the Scenes at the Museum, won the 1995 UK Book of the Year award.
+她的第一部小说《博物馆的幕后花絮》荣获 1995 年英国年度图书奖。
+
+[p22s7]
+The book is set in Yorkshire and has been adapted for radio, theatre, and TV.
+这本书以约克郡为背景，已被改编成广播、戏剧和电视节目。
+
+[p22s8]
+She has written two plays for a theatre in Edinburgh — the first was called Nice and the second Abandonment, performed as part of the Edinburgh Festival in August 2000.
+她为爱丁堡的一家剧院写了两部戏剧——第一部名为《尼斯》，第二部名为《遗弃》，作为 2000 年 8 月爱丁堡艺术节的一部分上演。
+
+[p23s0]
+Whatever genre Atkinson writes in, her books touch on the themes of love and loss and how to carry on.
+无论阿特金森写的是什么类型，她的书都会触及爱与失落以及如何继续下去的主题。
+
+[p23s1]
+They are always presented with ingenuity and a wicked sense of humor.
+他们总是表现出独创性和邪恶的幽默感。
+
+[p23s2]
+Her books tend to be populated by odd, sometimes sinful, and generally flawed eccentrics who become credible by virtue of being so fully realized.
+她的书中往往充满了奇怪的、有时是有罪的、而且普遍有缺陷的怪人，他们凭借如此充分的认识而变得可信。
+
+[p23s3]
+Her books have frequently been described as comedies of manners.
+她的书经常被描述为礼仪喜剧。
+
+[p23s4]
+That is to say, comedies that represent the complex and sophisticated code of behaviour current in fashionable circles of society, where appearances count more than true moral character.
+也就是说，喜剧代表了时尚社会中复杂而复杂的行为准则，在这个社会中，外表比真正的道德更重要。
+
+[p23s5]
+A comedy of manners tends to reward its clever and deceitful characters, rather than punish their bad deeds.
+礼仪喜剧倾向于奖励聪明而狡诈的角色，而不是惩罚他们的坏事。
+
+[p23s6]
+The humor of a comedy of manners relies on verbal wit and playful teasing.
+礼仪喜剧的幽默依赖于言语的机智和俏皮的戏弄。
+
+[p24s0]
+Why is adaptability an important skill to exercise in the workplace?
+为什么适应性是在工作场所锻炼的重要技能？
+
+[p24s1]
+Simply put, adaptability is a skill employers are increasingly looking for.
+简而言之，适应能力是雇主越来越寻求的技能。
+
+[p24s2]
+When you spend time learning a new task rather than resisting it, your productivity goes up.
+当你花时间学习而不是抵制新任务时，你的生产力就会提高。
+
+[p24s3]
+You can also serve as an example to your co-workers who may be having trouble adapting, and can help lead your team forward.
+您还可以为可能难以适应的同事树立榜样，并帮助带领您的团队前进。
+
+[p24s4]
+Strategy consultant, Dorie Clark, explains it to us this way.
+战略顾问Dorie Clark是这样向我们解释的。
+
+[p24s5]
+"I'd say that adaptability is an important skill in the workplace because frankly, circumstances change.
+“我想说，适应能力是工作场所的一项重要技能，因为坦率地说，情况会发生变化。
+
+[p24s6]
+Competitors introduce new products, economy might enter a recession, customer preferences differ over time, and more.
+竞争对手推出新产品、经济可能进入衰退、客户偏好随时间变化等等。
+
+[p24s7]
+If you shake your fist at the sky and say why can't it stay the same, that's not going to do very much good.
+如果你对着天空挥舞拳头并说为什么它不能保持不变，那不会有多大好处。
+
+[p24s8]
+Instead, you need to recognise when circumstances have changed, so you can take appropriate action based on what is, rather than how you wish the world would be.
+相反，你需要认识到环境何时发生了变化，这样你就可以根据实际情况采取适当的行动，而不是根据你希望世界变成什么样子。
+
+[p24s9]
+That enables you to make more accurate, informed and effective choices."
+这使您能够做出更准确、更明智、更有效的选择。”
+
+[p25s0]
+Also, the workplace itself has been evolving.
+此外，工作场所本身也在不断发展。
+
+[p25s1]
+Today's work culture and management style is often based on teamwork, rather than a rigid hierarchy.
+当今的工作文化和管理风格通常基于团队合作，而不是严格的等级制度。
+
+[p25s2]
+Brainstorming, which requires creativity, flexibility, and emotional intelligence, is a typical problem-solving technique.
+头脑风暴是一种典型的解决问题的技巧，需要创造力、灵活性和情商。
+
+[p25s3]
+Employees who are unable or unwilling to participate will not easily move forward in the company.
+不能或不愿意参与的员工不会轻易在公司进步。
+
+[p25s4]
+Employees who are flexible demonstrate other skills too.
+灵活的员工还表现出其他技能。
+
+[p25s5]
+They can reprioritize quickly when changes occur and suggest additional modifications when something is not working.
+当发生变化时，他们可以快速重新确定优先级，并在出现问题时建议进行额外的修改。
+
+[p25s6]
+They can also regroup quickly when a setback occurs, adapting to the new situation confidently and without overreacting.
+当遇到挫折时，他们也能迅速重新组合，自信地适应新情况，而不会反应过度。
+
+[p26s0]
+What makes humans different from other species?
+是什么让人类与其他物种不同？
+
+[p26s1]
+Some philosophers argue it's morals or ethics, while some scientists assert it's our greater cognitive development.
+一些哲学家认为这是道德或伦理，而一些科学家则声称这是我们更大的认知发展。
+
+[p26s2]
+But I argue that the main difference is our desire to combat routine.
+但我认为，主要的区别在于我们渴望打破常规。
+
+[p26s3]
+This makes being creative a biological mandate, as what we seek in art and technology is surprise, not simply a fulfillment of expectations.
+这使得创造力成为一种生物使命，因为我们在艺术和技术中寻求的是惊喜，而不仅仅是满足期望。
+
+[p27s0]
+As a result, a wild imagination has characterized the history of our species.
+结果，狂野的想象力成为了我们人类历史的特征。
+
+[p27s1]
+We build intricate habitats, devise complex recipes for our food, wear clothes that reflect constant changes in fashion, communicate with elaborate signs, symbols, and sounds, and travel between habitats on wings and wheels of our own design.
+我们建造复杂的栖息地，为我们的食物设计复杂的食谱，穿反映时尚不断变化的衣服，用精致的标志、符号和声音进行交流，并利用我们自己设计的翅膀和轮子在栖息地之间旅行。
+
+[p27s2]
+To satisfy our appetite for novelty, innovation is key.
+为了满足我们对新奇事物的渴望，创新是关键。
+
+[p27s3]
+But who innovates?
+但谁创新呢？
+
+[p28s0]
+Now, many people, both laymen and experts, believe that only geniuses innovate.
+现在，许多人，无论是外行还是专家，都相信只有天才才能创新。
+
+[p28s1]
+But I believe that innovation is not something that only a few people do.
+但我相信创新不是少数人的事。
+
+[p28s2]
+The innovative drive lives in every human brain, and the resulting war against the repetitive is what powers the massive changes that distinguish one generation from the next.
+创新的动力存在于每个人的大脑中，而由此产生的反对重复的战争正是推动一代人与下一代人发生巨大变化的动力。
+
+[p28s3]
+The drive to create the new is a trait of being human.
+创造新事物的动力是人类的一个特质。
+
+[p28s4]
+We build cultures by the hundreds and tell new stories by the millions.
+我们创造了数百个文化，讲述了数以百万计的新故事。
+
+[p28s5]
+We create and surround ourselves with things that have never existed before, while animals do not.
+我们创造并让自己置身于从未存在过的事物之中，而动物则不然。
+
+[p28s6]
+But where do our new ideas come from?
+但我们的新想法从何而来？
+
+[p29s0]
+According to many, new ideas come from seemingly nowhere to great minds.
+许多人认为，新的想法似乎是从无到有的伟大头脑中诞生的。
+
+[p29s1]
+From this perspective, new ideas are almost like magic.
+从这个角度来看，新想法几乎就像魔法一样。
+
+[p29s2]
+They come in a flash of inspiration to a select few.
+它们给少数人带来了灵感的闪现。
+
+[p29s3]
+However, the reality is that, across the spectrum of human activities, prior work propels the creative process.
+然而，现实情况是，在人类活动的各个领域，先前的工作推动了创造性的过程。
+
+[p29s4]
+We may think of innovation as being the result of inspiration or genius, but it's really the result of developing the ideas of others further.
+我们可能认为创新是灵感或天才的结果，但它实际上是进一步发展他人想法的结果。
+
+[p29s5]
+This happens in technology, where one invention enables or inspires further inventions.
+这种情况发生在技术领域，一项发明能够实现或激发进一步的发明。
+
+[p29s6]
+And it happens in the arts, as writers, composers, and painters use the work of previous artists in their own work.
+这种情况也发生在艺术领域，作家、作曲家和画家在自己的作品中使用以前艺术家的作品。
+
+[p29s7]
+The human brain works from precedent.
+人脑的运作遵循先例。
+
+[p29s8]
+We take the ideas we've inherited and put them together into some new shape.
+我们继承了我们继承的想法，并将它们组合成某种新的形式。
+
+[p30s0]
+What is a true creator?
+什么是真正的创造者？
+
+[p30s1]
+Is a creator a genius who makes something out of nothing?
+创造者是无中生有的天才吗？
+
+[p30s2]
+No.
+不。
+
+[p30s3]
+Creators are simply humans who use what they inherit, who absorb the past and manipulate it to create possible futures.
+创造者只不过是人类，他们利用自己继承的东西，吸收过去并操纵它来创造可能的未来。
+
+[p30s4]
+Thus, humans are creators as a rule rather than as an exception.
+因此，人类通常是创造者，而不是例外。
+
+[p31s0]
+Many dog owners would tell you that their dog somehow knows when they're ill or upset, and according to researchers who study dog cognition, those pet owners are right.
+许多狗主人会告诉你，他们的狗以某种方式知道他们什么时候生病或心烦意乱，根据研究狗认知的研究人员的说法，这些宠物主人是对的。
+
+[p31s1]
+Dogs do know when their human companions are having a rough time.
+狗确实知道它们的人类伙伴何时遇到困难。
+
+[p31s2]
+Not only can your dog sense when you have a cold, but domestic dogs have shown an aptitude for detecting both much smaller mood fluctuations and far more serious physical conditions.
+当你感冒时，你的狗不仅能感觉到，而且家养的狗也表现出了检测小得多的情绪波动和更严重的身体状况的能力。
+
+[p31s3]
+This is because dogs are extremely sensitive to changes in the people they're familiar with, and illness causes change.
+这是因为狗对熟悉的人的变化极其敏感，而疾病会导致变化。
+
+[p31s4]
+If a person is infected with a virus or bacteria, for example, their odor will be abnormal, and dogs are able to smell that change even if the human can't, because dogs have a much more powerful sense of smell than humans.
+例如，如果一个人感染了病毒或细菌，他们的气味就会变得异常，即使人类闻不到，狗也能闻到这种变化，因为狗的嗅觉比人类强大得多。
+
+[p32s0]
+Researchers have also found that a person's mood, which can be an indicator of a larger illness, triggers a dog's sense of smell.
+研究人员还发现，人的情绪可以触发狗的嗅觉，而情绪可以预示更大的疾病。
+
+[p32s1]
+Human emotions manifest physically in chemical signals that are emitted by the body, and dogs are able to smell those as well.
+人类的情绪以身体发出的化学信号的形式表现出来，狗也能闻到这些信号。
+
+[p32s2]
+Beyond smell, dogs gather information from a person's voice in order to sense changes.
+除了嗅觉之外，狗还从人的声音中收集信息以感知变化。
+
+[p33s0]
+In 2014, researchers discovered that dogs have an area of the brain similar to one in humans that allows them to understand emotional cues in the tone of a speaker's voice, beyond what they'd be able to pick up from familiar words alone.
+2014年，研究人员发现，狗的大脑中有一个与人类相似的区域，可以让它们理解说话者语气中的情感暗示，而不仅仅是它们仅从熟悉的单词中获得的信息。
+
+[p33s1]
+A person's voice can also carry indicators of illness.
+一个人的声音也可能带有疾病迹象。
+
+[p33s2]
+What's not understood quite so well is what dogs understand about these changes.
+但人们不太清楚狗对这些变化的理解。
+
+[p33s3]
+Humans send out lots of cues, but whether dogs know some of these cues mean illness isn't clear.
+人类发出大量信号，但狗是否知道其中一些信号是否意味着疾病尚不清楚。
+
+[p33s4]
+What we perceive as concern on a dog's part might be more like increased curiosity or suspicion that something is wrong with us, and sticking close by is a great way to gather more information about the situation.
+我们认为狗的担忧可能更像是好奇心增加或怀疑我们出了什么问题，而靠近是收集有关情况的更多信息的好方法。
+
+[p34s0]
+Some researchers assert dogs will one day help doctors diagnose diseases, as some dogs have already demonstrated the ability to detect an assortment of ailments, including diabetes and certain types of cancer.
+一些研究人员断言，狗有一天会帮助医生诊断疾病，因为一些狗已经表现出检测各种疾病的能力，包括糖尿病和某些类型的癌症。
+
+[p34s1]
+But those researchers concede that's probably in the distant future.
+但这些研究人员承认这可能是在遥远的未来。
+
+[p34s2]
+For now, research suggests dog ownership can have an array of benefits in and of itself.
+目前，研究表明养狗本身可以带来一系列好处。
+
+[p34s3]
+Keeping a pet dog has been shown to bolster health and boost mood.
+饲养宠物狗已被证明可以促进健康并改善情绪。
+
+[p34s4]
+Dogs also help people relax, and they can be a particular comfort to those with chronic diseases.
+狗还可以帮助人们放松，对于患有慢性疾病的人来说，它们可以带来特别的安慰。
+
+[p35s0]
+Earlier this month, the think-tank called Onward published a report, "A Question of Degree", which argues that degrees in the creative arts are not good value for money.
+本月早些时候，名为“Onward”的智库发表了一份报告《学位问题》，该报告认为创意艺术学位物有所值。
+
+[p35s1]
+Ministers, according to Onward, should "crack down on courses that offer extremely limited value for money to students ten years after graduation", restricting the ability of such courses to recruit new students, if the average graduate earns below the student loans payment threshold.
+Onward表示，如果毕业生的平均收入低于学生贷款支付门槛，部长们应该“严厉打击那些在毕业十年后向学生提供的性价比极其有限的课程”，限制此类课程招收新生的能力。
+
+[p35s2]
+Courses like science, technology, engineering, and math, and economics, where the average graduate earns a lot, should be favored.
+科学、技术、工程、数学和经济学等毕业生平均收入较高的课程应该受到青睐。
+
+[p36s0]
+The report provides insight into a government review which looks at how to reform technical education and how to ensure students get good value for money.
+该报告提供了对政府审查的深入了解，该审查着眼于如何改革技术教育以及如何确保学生获得物有所值的教育。
+
+[p36s1]
+At first glance, it might even seem like Onward have a point.
+乍一看，《Onward》似乎有道理。
+
+[p36s2]
+According to their data, the majority of creative arts students earn less than 25,000 pounds a year, ten years after graduation.
+根据他们的数据，毕业十年后，大多数创意艺术专业的学生年收入不到 25,000 英镑。
+
+[p36s3]
+The average male creative arts students, indeed, apparently earn much less than they would, had they simply never gone to university.
+事实上，平均男性创意艺术学生的收入显然比他们从未上过大学的情况要少得多。
+
+[p36s4]
+This isn't really good for anyone, and it's certainly no good for graduates, who are forced to endure a lifestyle where they can never save up, never buy a house, never hope to retire.
+这对任何人都没有好处，对毕业生来说当然也没有好处，他们被迫忍受永远无法存钱、永远无法买房、永远无法退休的生活方式。
+
+[p37s0]
+Onward have identified a real problem.
+接下来发现了一个真正的问题。
+
+[p37s1]
+Creative arts graduates from top universities — like Oxford, with a high proportion of privately-educated students — have fairly good work prospects.
+来自顶尖大学（如牛津大学，私立教育学生比例很高）的创意艺术毕业生拥有相当好的工作前景。
+
+[p37s2]
+Well, 40 percent of all graduates — regardless of their degree — are on less than 25,000 pounds a year, 5 years after graduation.
+好吧，40% 的毕业生（无论其学位如何）在毕业 5 年后每年的收入不到 25,000 英镑。
+
+[p37s3]
+This suggests that the problem isn't really to do with specific students studying specific degrees, but really with the economy as a whole.
+这表明问题实际上并不与学习特定学位的特定学生有关，而是与整个经济有关。
+
+[p37s4]
+Regardless of what they've studied, young people find it hard to get ahead unless they're lucky enough to be born with successful parents.
+无论年轻人学什么，除非他们足够幸运，拥有成功的父母，否则他们很难取得成功。
+
+[p38s0]
+If ministers want to make education pay for young people, they need to look beyond the higher education sector, towards the wider world.
+如果部长们想让教育为年轻人买单，他们就需要把目光超越高等教育领域，放眼更广阔的世界。
+
+[p38s1]
+The rewards that education gives us are not measurable.
+教育给我们带来的回报是无法衡量的。
+
+[p38s2]
+They are not always instantly obvious, and certainly not always direct.
+它们并不总是显而易见的，当然也不总是直接的。
+
+[p38s3]
+An education makes you a different person from the one you would have been if you hadn't received it.
+教育使你成为一个与没有接受教育时不同的人。
+
+[p38s4]
+We need to look at the value of education not in the context of a bank balance, but of a life.
+我们需要审视教育的价值，而不是从银行余额的角度，而是从生命的角度。
+
+[p38s5]
+If we continue to allow ourselves to be distracted with talk of "value for money", we will all be made poorer as a result.
+如果我们继续让自己因谈论“物有所值”而分心，结果我们都会变得更穷。
+

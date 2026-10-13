@@ -205,3 +205,655 @@
 音频、英文资料许可：CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）
 译文来源：Google Translate
 录音保留原始文件；译文为参考译文，非官方答案。
+
+===== 单句英中对照 =====
+每组使用时间标记中的句子 ID；参考译文，非官方答案。
+
+[p0s0]
+Wow, I would give anything to be more like Audrey Hepburn.
+女：哇，为了变得更像奥黛丽·赫本，我愿意付出一切。
+
+[p1s0]
+I never really understood why so many girls were such big fans of her.
+我一直不明白为什么这么多女孩都是她的忠实粉丝。
+
+[p1s1]
+I mean, I've seen the famous films, Roman Holiday, Breakfast at Tiffany's and a few others, but I still don't fully get it.
+我的意思是，我看过著名的电影《罗马假日》、《蒂凡尼的早餐》和其他一些电影，但我仍然没有完全理解。
+
+[p1s2]
+Was she that great of an actress?
+她是一位出色的女演员吗？
+
+[p2s0]
+Well, for me, my adoration goes beyond her movies.
+好吧，对我来说，我的崇拜超越了她的电影。
+
+[p2s1]
+She had such a classic elegance about her.
+她身上有一种古典优雅的气质。
+
+[p2s2]
+She was always so poised, in part because she spent years training as a ballet dancer before becoming an actress.
+她总是那么泰然自若，部分原因是她在成为演员之前接受了多年的芭蕾舞演员训练。
+
+[p3s0]
+Why didn't she stick to dancing as a career?
+男：为什么她不坚持以跳舞为职业呢？
+
+[p4s0]
+It seems it was fate.
+看来这就是命运。
+
+[p4s1]
+She suffered from inadequate nutrition during the war, and therefore, a career as a professional dancer would have been too demanding on her body.
+战争期间她营养不良，职业舞蹈演员对她的身体要求太高。
+
+[p4s2]
+So she focused on acting instead.
+所以她转而专注于演戏。
+
+[p4s3]
+Roman Holiday was her first big break which made her a star.
+《罗马假日》是她的第一个重大突破，使她成为明星。
+
+[p5s0]
+Was that the film that opened with her shopping for jewelry in New York city?
+这部电影是以她在纽约购买珠宝开始的吗？
+
+[p5s1]
+You know, the scene she was wearing a black dress and dark sunglasses with a pearl necklace and long black gloves.
+要知道，那个场景她穿着黑色连衣裙，戴着深色墨镜，戴着珍珠项链和黑色长手套。
+
+[p5s2]
+I see the photo of her in that costume everywhere.
+我到处都能看到她穿着那套服装的照片。
+
+[p6s0]
+No, that one is Breakfast at Tiffany's.
+不，那是《蒂凡尼的早餐》。
+
+[p6s1]
+That costume is often referred to as the most famous little black dress of all time.
+该服装通常被称为有史以来最著名的小黑裙。
+
+[p6s2]
+Her character in that film is very outgoing and charming, even though in real life, Audrey always described herself as shy and quiet.
+她在电影中的角色非常外向和迷人，尽管在现实生活中，奥黛丽总是形容自己害羞和安静。
+
+[p7s0]
+So what did she do after her acting career?
+男：那她演艺生涯结束后做了什么？
+
+[p8s0]
+She dedicated much of her life to helping children in need.
+她一生的大部分时间都致力于帮助有需要的儿童。
+
+[p8s1]
+Her family received international aid during the war when she was growing up.
+在她成长过程中，她的家人在战争期间接受了国际援助。
+
+[p8s2]
+I think that left a big impression on her.
+我想这给她留下了深刻的印象。
+
+[p8s3]
+That's where I got the idea to volunteer for children's charity next weekend.
+这就是我下周末为儿童慈善机构做志愿者的想法。
+
+[p9s0]
+I'll join you.
+我会加入你。
+
+[p9s1]
+I may not be as charming as Audrey Hepburn but I'm all for supporting a good cause.
+我可能不像奥黛丽·赫本那么迷人，但我全力支持一项美好的事业。
+
+[p10s0]
+So, how is our presentation about the restructuring of the company coming along?
+女：那么，我们关于公司重组的介绍进行得怎么样了？
+
+[p11s0]
+Fine.
+很好。
+
+[p11s1]
+I'm putting the finishing touches to it now.
+我现在正在做最后的润色。
+
+[p11s2]
+But we'll have to be prepared for questions.
+但我们必须做好回答问题的准备。
+
+[p12s0]
+Yes, there's already a feeling that this is a top-down change.
+是的，人们已经感觉到这是一个自上而下的改变。
+
+[p12s1]
+We really need to get everyone on board.
+我们确实需要让每个人都参与其中。
+
+[p13s0]
+Well, there's been an extensive consultation period.
+男：嗯，有一个广泛的咨询期。
+
+[p14s0]
+I know, but there's always the feeling that if it isn't broke, don't fix it.
+女：我知道，但总有一种感觉，如果它没有坏，就不要修理它。
+
+[p15s0]
+People are worried about their jobs too.
+人们也担心自己的工作。
+
+[p15s1]
+I think we need to stress that while there will be some job changes, there won't be anyone getting dismissed.
+我认为我们需要强调，虽然会有一些工作变动，但不会有人被解雇。
+
+[p15s2]
+In fact, we're looking to take on more staff.
+事实上，我们正在寻求雇用更多员工。
+
+[p16s0]
+Agreed.
+同意。
+
+[p16s1]
+You can hardly blame people for worrying though.
+不过，你也不能责怪人们的担忧。
+
+[p16s2]
+We need to make it clear that it's not just change for change's sake.
+我们需要明确的是，这不仅仅是为了改变而改变。
+
+[p16s3]
+In other words, we really must make the case for why we are doing it.
+换句话说，我们确实必须说明我们这样做的原因。
+
+[p16s4]
+So what's the outline of the presentation?
+那么演讲的大纲是怎样的呢？
+
+[p17s0]
+I'll start with a brief review of the reasons for the change — that we really need to make a clean break to restart growth.
+我将首先简要回顾一下这一变化的原因——我们确实需要彻底决裂以重新启动增长。
+
+[p17s1]
+After that I'll outline the new company's structures and who's going where.
+之后我将概述新公司的结构以及谁将去往何处。
+
+[p17s2]
+Then I'll hand it over to you to discuss the timeline and summarize, and we'll take questions together at the end.
+然后我就交给你们讨论时间线和总结，最后我们一起回答问题。
+
+[p17s3]
+Anything else?
+还有别的吗？
+
+[p18s0]
+Oh, yeah, we should let the staff know the channels of communication, you know, who they can contact or direct questions to about these changes.
+女：哦，是的，我们应该让员工知道沟通渠道，他们可以联系谁或直接向谁询问有关这些变化的问题。
+
+[p19s0]
+Yes, and we can collect some frequently asked questions and present some general answers.
+男：是的，我们可以收集一些常见问题并提供一些一般性答案。
+
+[p20s0]
+Um, and we'll make the presentation and the questions available via the company's own computer network, right?
+女：嗯，我们将通过公司自己的计算机网络提供演示和问题，对吧？
+
+[p21s0]
+Yes, we'll make a page on the network where staff can download all the details.
+男：是的，我们将在网络上建立一个页面，工作人员可以在其中下载所有详细信息。
+
+[p22s0]
+All right.
+好吧。
+
+[p22s1]
+Perhaps we should do a practice run of the presentation first.
+也许我们应该先练习一下演示。
+
+[p23s0]
+You bet.
+男：你打赌。
+
+[p24s0]
+Airline passengers have to deal with a lot these days, getting bumped from flights and losing luggage on top of the general anxiety that nervous passengers always feel.
+如今，航空公司的乘客必须处理很多事情，除了紧张的乘客总是感到的普遍焦虑之外，还可能会被赶下飞机、丢失行李。
+
+[p25s0]
+At the Cincinnati/Northern Kentucky International Airport, miniature horses deliver a calming force two times a month.
+在辛辛那提/北肯塔基国际机场，微型马每月两次提供镇静力量。
+
+[p25s1]
+Denver and Ruby are two of the 34 therapy horses brought in from a local farm.
+丹佛和鲁比是从当地农场引进的 34 匹治疗马中的两匹。
+
+[p25s2]
+They can usually be found in the ticket counter area interacting with travelers.
+他们通常出现在售票柜台区域与旅客互动。
+
+[p26s0]
+More than 30 airports across the country now have therapy dogs.
+全国30多个机场现已拥有治疗犬。
+
+[p26s1]
+San Francisco has a therapy pig.
+旧金山有一只治疗猪。
+
+[p26s2]
+San Jose, California, began a dog program after the terrorist attacks of September 11.
+9 月 11 日恐怖袭击发生后，加利福尼亚州圣何塞启动了一项养狗计划。
+
+[p26s3]
+Since its beginning, the program has now grown and has 21 therapy dogs and a therapy cat.
+自启动以来，该项目现已发展壮大，拥有 21 只治疗犬和一只治疗猫。
+
+[p27s0]
+The animals don't get startled.
+动物们不会受到惊吓。
+
+[p27s1]
+They have had hundreds of hours of airport training, so they are used to having luggage and people crowding around them.
+他们接受过数百小时的机场训练，所以习惯了行李和人群拥挤。
+
+[p27s2]
+These professional animals are probably better at finding their way in the airports than the most frequent of travelers.
+这些职业动物可能比最常出行的旅客更擅长在机场找到自己的出路。
+
+[p28s0]
+The passengers often say that seeing animals makes them feel much better and helps them to calm down before a flight.
+乘客们常说，看到动物让他们感觉好多了，并帮助他们在飞行前平静下来。
+
+[p28s1]
+This little bit of support can sometimes make a big difference.
+这种一点点的支持有时会产生很大的影响。
+
+[p28s2]
+Some passengers enjoy the animals so much that they call the airport to schedule flights around their visits.
+一些乘客非常喜欢这些动物，以至于他们打电话给机场安排他们访问期间的航班。
+
+[p29s0]
+Visits to nursing homes and schools are also a regular part of the horses' schedule.
+参观疗养院和学校也是马匹日程的常规部分。
+
+[p29s1]
+Their owner is already working on a new idea for a therapy animal — donkeys.
+它们的主人已经在研究治疗动物——驴的新想法。
+
+[p30s0]
+Hello, viewers.
+观众们大家好。
+
+[p30s1]
+Today I'm standing at the 2000-year-old Roman-era site.
+今天我站在这个有 2000 年历史的罗马时代遗址。
+
+[p30s2]
+Here the brightly colored scenes that once decorated a mansion are being dug up.
+这里，曾经装饰豪宅的色彩鲜艳的场景正在被挖掘出来。
+
+[p30s3]
+These scenes are turning up in the southern French city of Arles, surprising the historians who have been working here since 2014.
+这些场景出现在法国南部城市阿尔勒，让自 2014 年以来一直在这里工作的历史学家感到惊讶。
+
+[p31s0]
+Strips of paint still cling to the stone walls of bedrooms and reception halls.
+卧室和接待大厅的石墙上仍然粘着油漆条。
+
+[p31s1]
+Some of the murals remain up to a meter high on the walls.
+墙上的一些壁画高达一米。
+
+[p31s2]
+In addition, countless fragments that fell off the walls have been collected.
+此外，还收集了无数从墙上掉落的碎片。
+
+[p32s0]
+These have been carefully pieced together to reveal a variety of images.
+这些被仔细拼凑在一起以揭示各种图像。
+
+[p32s1]
+Some of these images include figures never before seen in France, such as a woman playing a stringed instrument, perhaps a character from mythology.
+其中一些图像包括法国从未见过的人物，例如一位弹奏弦乐器的女人，可能是神话中的人物。
+
+[p33s0]
+The murals were painted with such skill and with such expensive dyes that experts believe the artists originally came from Italy.
+这些壁画的绘制技术如此精湛，使用的染料如此昂贵，专家认为这些艺术家最初来自意大利。
+
+[p33s1]
+They were probably hired by someone of high status in the city.
+他们很可能是被城里有地位的人雇佣的。
+
+[p34s0]
+Perhaps a Roman official who wanted Pompeii-style interior decoration to remind him of home.
+也许是一位罗马官员想要庞贝风格的室内装饰来让他想起家。
+
+[p34s1]
+The official may have been posted to this provincial trading port, which was established in 46 B.C. as a settlement for retired Roman soldiers.
+该官员可能被派驻到这个成立于公元前 46 年的省级贸易港口。作为退役罗马士兵的定居点。
+
+[p34s2]
+Or maybe a wealthy local who wanted to display his worldly sophistication.
+或者可能是一位富有的当地人想要展示他世俗的成熟。
+
+[p35s0]
+As more fragments are pieced together like a jigsaw puzzle, the murals may yield more surprises.
+随着更多的碎片像拼图一样拼凑起来，壁画可能会产生更多的惊喜。
+
+[p35s1]
+Whoever created these gorgeous works of art certainly never imagined that their work would survive for thousands of years.
+创造这些华丽艺术作品的人肯定没有想到他们的作品能够流传数千年。
+
+[p36s0]
+Good afternoon, class.
+下午好，上课。
+
+[p36s1]
+Today I want to discuss with you a new approach to empirical research.
+今天我想和大家讨论一种新的实证研究方法。
+
+[p37s0]
+In the past, scientists often worked alone.
+过去，科学家经常单独工作。
+
+[p37s1]
+They were confined to the university or research center where they worked.
+他们被限制在他们工作的大学或研究中心。
+
+[p38s0]
+Today, though, we are seeing mergers of some of the greatest scientific minds, regardless of their location.
+然而今天，我们看到一些最伟大的科学头脑的合并，无论他们身在何处。
+
+[p38s1]
+There has never been a better time for collaborations with foreign scientists.
+现在是与外国科学家合作的最佳时机。
+
+[p39s0]
+In fact, the European Union is taking the lead.
+事实上，欧盟正在带头。
+
+[p39s1]
+Spurred on by funding policies, half of European research articles had international co-authors in 2007.
+在资助政策的推动下，2007 年欧洲一半的研究论文都有国际合著者。
+
+[p39s2]
+This is more than twice the level of two decades ago.
+这是二十年前水平的两倍多。
+
+[p39s3]
+The European Union's level of international co-authorship is about twice that of the United States, Japan and India.
+欧盟的国际合着水平约为美国、日本和印度的两倍。
+
+[p40s0]
+Even so, the levels in these countries are also rising.
+即便如此，这些国家的水平也在上升。
+
+[p40s1]
+This is a sign of the continued allure of creating scientific coalitions across borders.
+这是建立跨境科学联盟的持续吸引力的标志。
+
+[p41s0]
+Andrew Schubert, a researcher at the Institute for Science Policy Research, says that the rising collaboration is partly out of necessity.
+科学政策研究所研究员安德鲁·舒伯特表示，合作的增加部分是出于必要。
+
+[p41s1]
+This necessity comes with the rise of big science.
+这种必要性随着大科学的兴起而出现。
+
+[p41s2]
+Many scientific endeavors have become more complicated.
+许多科学事业变得更加复杂。
+
+[p41s3]
+These new complications require the money and labor of many nations.
+这些新的复杂情况需要许多国家的资金和劳动力。
+
+[p42s0]
+But he says collaborations have also emerged because of increased possibilities.
+但他表示，由于可能性的增加，也出现了合作。
+
+[p42s1]
+The Internet allows like-minded scientists to find each other.
+互联网让志同道合的科学家能够找到彼此。
+
+[p42s2]
+Simultaneously, dramatic drops in communication costs ease long-distance interactions.
+同时，通信成本的大幅下降也使得远距离交互变得更加容易。
+
+[p43s0]
+And there is a reward.
+并且有奖励。
+
+[p43s1]
+Studies of citation counts show that internationally co-authored papers have better visibility.
+引用计数研究表明，国际合作论文具有更好的知名度。
+
+[p43s2]
+Schubert says international collaboration is a way to spread ideas in wider and wider circles.
+舒伯特说，国际合作是在更广泛的圈子中传播思想的一种方式。
+
+[p44s0]
+Caroline Wagner, a research scientist at George Washington University, notes that international collaborations offer additional flexibility.
+乔治华盛顿大学的研究科学家卡罗琳·瓦格纳指出，国际合作提供了额外的灵活性。
+
+[p44s1]
+Whereas local collaborations sometimes persist past the point of usefulness because of social or academic obligations, international ones can be cultivated and dropped more freely.
+由于社会或学术义务，本地合作有时会持续超过有用的程度，而国际合作可以更自由地培养和放弃。
+
+[p45s0]
+The collaborative trend is true across scientific disciplines.
+跨科学学科的合作趋势是真实的。
+
+[p45s1]
+Some fields, though, have a greater tendency for it.
+然而，有些领域有更大的趋势。
+
+[p46s0]
+Particle physicists and astronomers collaborate often.
+粒子物理学家和天文学家经常合作。
+
+[p46s1]
+This is because they must share expensive facilities.
+这是因为他们必须共享昂贵的设施。
+
+[p46s2]
+Mathematicians, by contrast, tend historically towards solitude.
+相比之下，数学家历来倾向于孤独。
+
+[p46s3]
+As a consequence, they lag behind other disciplines.
+因此，它们落后于其他学科。
+
+[p46s4]
+However, Wagner says partnerships are rising there, too.
+然而，瓦格纳表示，那里的合作伙伴关系也在增加。
+
+[p47s0]
+The level of collaboration also varies from country to country.
+各国之间的合作水平也各不相同。
+
+[p47s1]
+There are historical and political reasons as to why collaborations emerge, says Wagner.
+瓦格纳说，合作的出现有历史和政治原因。
+
+[p47s2]
+This rise is also apparently boosted by policies embedded in European Framework funding schemes.
+这一增长显然也受到欧洲框架融资计划中嵌入的政策的推动。
+
+[p47s3]
+These policies underlie funding requirements that often require teamwork.
+这些政策是资金需求的基础，而资金需求往往需要团队合作。
+
+[p48s0]
+Good evening.
+晚上好。
+
+[p48s1]
+In 1959, on the day that I was born, a headline in Life magazine proclaimed "Target Venus: There May Be Life There!"
+1959年，我出生的那天，《生活》杂志的标题是“目标金星：那里可能有生命！”
+
+[p48s2]
+It told of how scientists rode a balloon to an altitude of 80,000 feet to make telescope observations of Venus's atmosphere, and how their discovery of water raised hopes that there could be living things there.
+它讲述了科学家如何乘坐气球到达 80,000 英尺的高度，对金星的大气层进行望远镜观测，以及他们对水的发现如何燃起人们对那里可能存在生物的希望。
+
+[p49s0]
+As a kid, I was thrilled to tales of adventure in science fiction.
+小时候，我对科幻小说中的冒险故事感到兴奋。
+
+[p49s1]
+I read Isaac Asimov's juvenile novel Lucky Starr and the Oceans of Venus.
+我读了艾萨克·阿西莫夫的青少年小说《幸运斯塔尔与金星的海洋》。
+
+[p49s2]
+For many of my peers, though, Venus quickly lost its romance.
+然而，对于我的许多同龄人来说，金星很快就失去了它的浪漫。
+
+[p50s0]
+The very first thing that scientists discovered with a mission to another planet was that Venus was not at all the Earthly paradise that fiction had portrayed.
+科学家们在执行另一颗行星任务时发现的第一件事是，金星根本不是小说所描绘的人间天堂。
+
+[p50s1]
+It is nearly identical to our own planet in bulk properties such as mass, density, and size.
+它的质量、密度和大小等体积特性与我们的星球几乎相同。
+
+[p50s2]
+But its surface has been cooked and dried by an ocean of carbon dioxide.
+但它的表面已经被二氧化碳海洋煮熟和干燥。
+
+[p51s0]
+Trapped in the burning death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth.
+金星被困在失控的温室效应的燃烧的死亡之握中，长期以来一直被认为是像地球这样的行星上可能出现的一切问题的警示故事。
+
+[p51s1]
+As a possible home for alien life, it has been voted the planet least likely to succeed.
+作为外星生命可能的家园，它被评为最不可能成功的星球。
+
+[p52s0]
+But I have refused to give up on Venus, and over the years my stubborn loyalty has been justified.
+但我拒绝放弃维纳斯，多年来我顽固的忠诚是有道理的。
+
+[p52s1]
+The rocky views glimpsed by Venera 9 and other Russian landers suggested a tortured volcanic history.
+金星 9 号和其他俄罗斯着陆器看到的岩石景观表明了一段饱受折磨的火山历史。
+
+[p52s2]
+That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet's thick clouds and map out a rich, varied, and dynamic surface.
+20 世纪 90 年代初，美国麦哲伦轨道飞行器证实了这一点，该轨道飞行器使用雷达穿透地球厚厚的云层，绘制出丰富、多样且动态的表面。
+
+[p52s3]
+The surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth.
+它的表面大部分形成于过去十亿年，这使得它比地球以外的任何岩石行星都更新鲜、更活跃。
+
+[p53s0]
+Russian and American spacecraft also found hints that its ancient climate might have been wetter, cooler, and possibly even friendly to life.
+俄罗斯和美国的航天器还发现了一些迹象，表明其古老的气候可能更湿润、更凉爽，甚至可能适合生命生存。
+
+[p53s1]
+Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth.
+密度和成分的测量表明金星最初是由与地球基本相同的物质形成的。
+
+[p53s2]
+That presumably included much more water than the tiny trace we find blowing in the thick air today.
+这可能比我们今天在浓密的空气中发现的微小痕迹含有更多的水。
+
+[p54s0]
+Thus, our picture of Venus at around the time life was getting started on Earth is one of warm oceans, probably rich with organic molecules, splashing around rocky shores and volcanic vents.
+因此，我们所看到的金星在地球上生命刚刚开始的时候是一片温暖的海洋，可能富含有机分子，在岩石海岸和火山喷口周围溅起水花。
+
+[p54s1]
+The sun was considerably less bright back then.
+那时的太阳远没有那么明亮。
+
+[p54s2]
+So, Venus was arguably a cozier habitat for life than Earth.
+因此，金星可以说是比地球更舒适的生命栖息地。
+
+[p55s0]
+I'm a psychology professor at the University of British Columbia.
+我是不列颠哥伦比亚大学的心理学教授。
+
+[p55s1]
+I specialize in cultural psychology, examining similarities and differences between East Asians and North Americans.
+我的专业是文化心理学，研究东亚人和北美人之间的异同。
+
+[p56s0]
+Our research team has been looking at cultural differences in self-enhancing motivations, how people have positive feelings towards not only themselves, but things connected to themselves.
+我们的研究团队一直在研究自我增强动机的文化差异，以及人们如何对自己以及与自己相关的事物产生积极的感受。
+
+[p56s1]
+For example, when you own something, you view it as more valuable than when you don't own it.
+例如，当你拥有某样东西时，你会认为它比你不拥有它时更有价值。
+
+[p56s2]
+It's called the "endowment effect."
+这就是所谓的“禀赋效应”。
+
+[p56s3]
+The strength of that effect is stronger in Western cultures than in East Asian cultures.
+这种效应在西方文化中比在东亚文化中更强。
+
+[p56s4]
+So we've been looking at other ways of seeing whether this motivation to view oneself positively is shaped by cultural experiences.
+因此，我们一直在寻找其他方法来看看这种积极看待自己的动机是否是由文化经历塑造的。
+
+[p57s0]
+We've also started to look at how culture shapes sleep.
+我们还开始研究文化如何影响睡眠。
+
+[p57s1]
+We are still in the exploratory stages of this project — although what's noteworthy is that East Asians on average sleep about an hour and a half less each night than North Americans do.
+我们仍处于该项目的探索阶段——尽管值得注意的是，东亚人每晚平均睡眠时间比北美人少约一个半小时。
+
+[p57s2]
+And it's not a more efficient sleep, not like they're compressing relatively more value out of their hours.
+这并不是一种更高效的睡眠，也不是他们从工作时间中压缩相对更多的价值。
+
+[p57s3]
+Other studies have found that even infants in East Asia sleep about an hour less than European infants.
+其他研究发现，即使是东亚婴儿的睡眠时间也比欧洲婴儿少约一个小时。
+
+[p57s4]
+So we're trying to figure out how culture shapes the way you sleep.
+因此，我们试图弄清楚文化如何影响您的睡眠方式。
+
+[p58s0]
+Our experiment does not take place in a sleep lab.
+我们的实验不是在睡眠实验室进行的。
+
+[p58s1]
+Instead, we lend people motion-detecting watches, and they wear them for a week at a time.
+相反，我们借给人们运动检测手表，他们一次佩戴一周。
+
+[p58s2]
+Whenever they are not having a shower or swimming, they keep it on.
+每当他们不洗澡或游泳时，他们都会戴着它。
+
+[p58s3]
+These kinds of watches are used in sleep studies as a way of measuring how long people are sleeping, how efficient their sleep is, and whether they are waking up in the night.
+这类手表用于睡眠研究，测量人们的睡眠时间、睡眠效率以及夜间是否醒来。
+
+[p59s0]
+Ideally, I'd like to take this into a controlled lab environment.
+理想情况下，我想将其带入受控的实验室环境中。
+
+[p59s1]
+We'll see where the research points us.
+我们将看看研究将我们引向何方。
+
+[p59s2]
+We usually start off with the more affordable methods and if everything looks promising, then it will justify trying to build a sleep lab and study sleep across cultures that way.
+我们通常会从更实惠的方法开始，如果一切看起来都有希望，那么就有理由尝试建立一个睡眠实验室并以这种方式研究跨文化的睡眠。
+
+[p60s0]
+Why do we study sleep?
+我们为什么研究睡眠？
+
+[p60s1]
+Sleep is something that has really been an unexplored topic cross-culturally.
+睡眠确实是一个跨文化领域尚未探索的话题。
+
+[p60s2]
+I'm attracted to it because culture isn't something that only shapes the way our minds operate; it shapes the way our bodies operate too, and sleep is at the intersection of those.
+我之所以被它吸引，是因为文化不仅仅塑造我们的思维方式；它还影响着我们的思维方式。它也塑造了我们身体的运作方式，而睡眠正是这两者的交叉点。
+
